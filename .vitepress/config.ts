@@ -1,0 +1,193 @@
+import { defineConfig } from 'vitepress'
+import type { DefaultTheme } from 'vitepress'
+import { version } from '../package.json'
+import { meta, search } from './constants';
+
+const ogImage = `/og.png`
+const title = meta.name
+const description = meta.description
+
+// Guides
+
+const Guides: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Introduction', link: '/guide/' },
+  { text: 'Why Privacy Matters', link: '/guide/why' },
+  { text: 'How do I start?', link: '/guide/how' },
+  { text: 'Understanding Surveillance', link: '/guide/surveillance' },
+  { text: 'Security, Privacy & Anonymity', link: '/guide/secprivanon' },
+  // { text: '---', link: '/guide/---' },
+]
+
+const Learning: DefaultTheme.NavItemWithLink[] = [
+  { text: 'test1', link: '/learning/test1' },
+  { text: 'test2', link: '/learning/test2' },
+]
+
+// Recommendations
+
+const Internet_Browsing: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Tor Browser', link: '/recommendations/internet-browsing/tor' },
+  { text: 'Desktop Browsers', link: '/recommendations/internet-browsing/desktop' },
+  { text: 'Mobile Browsers', link: '/recommendations/internet-browsing/mobile' },
+  { text: 'Browser Extensions', link: '/recommendations/internet-browsing/extensions' },
+]
+
+const Tools: DefaultTheme.NavItemWithLink[] = [
+  {
+    text: 'Internet Browsing',
+    link: '/recommendations/internet-browsing/tor',
+  },
+  {
+    text: 'Software',
+    link: '/recommendations/software/',
+  },
+  {
+    text: 'Hardware',
+    link: '/recommendations/hardware/',
+  },
+  {
+    text: 'Providers',
+    link: '/recommendations/providers/',
+  },
+  {
+    text: 'Operating Systems',
+    link: '/recommendations/operating-system/',
+  },
+]
+
+// Navbar
+
+const Nav: DefaultTheme.NavItem[] = [
+  {
+    text: 'Guides',
+    items: [
+      {
+        text: 'Guide',
+        items: Guides,
+      },
+    ],
+  },
+  // {
+  //   text: 'Recommendations',
+  //   items: [
+  //     {
+  //       text: 'Overview',
+  //       link: '/recommendations/',
+  //     },
+  //     {
+  //       text: 'Privacy Tools',
+  //       items: Tools,
+  //     },
+  //     {
+  //       text: 'Books',
+  //       link: '/books/',
+  //     },
+  //   ],
+  // },
+  // { text: 'Blog', link: 'https://blog.' + meta.plainurl, target: '_blank' },
+  // { text: '💚 Donate', link: meta.sponsor, target: '_blank' },
+  {
+    text: `${version}`,
+    items: [
+      {
+        text: 'About',
+        link: '/about/'
+      },
+      {
+        text: 'Release Notes',
+        link: meta.repo + '/releases',
+      },
+      {
+        text: 'Contributing',
+        link: meta.repo + '/blob/main/CONTRIBUTING.md',
+      },
+    ],
+  },
+]
+
+const SidebarGuide: DefaultTheme.SidebarItem[] = [
+  {
+    text: 'Guides',
+    items: Guides,
+  },
+  {
+    text: 'Learning',
+    items: Learning,
+  },
+  {
+    text: 'About',
+    link: '/about/',
+  },
+]
+
+const SidebarPresets: DefaultTheme.SidebarItem[] = [
+  {
+    text: 'Overview',
+    link: '/recommendations/',
+  },
+  {
+    text: 'Internet Browsing',
+    collapsed: false,
+    items: Internet_Browsing,
+  },
+]
+
+// Config
+
+export default defineConfig({
+  lang: 'en-US',
+  title,
+  titleTemplate: `:title | ${title}`,
+  description,
+  outDir: './dist',
+  head: [
+    // ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }],
+    ['link', { rel: 'temporary icon', href: '/temporary-icon.png', type: 'image/png', sizes: '32x32' }],
+    ['meta', { name: 'author', content: meta.author }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { name: 'og:title', content: title }],
+    ['meta', { name: 'og:description', content: meta.description }],
+    ['meta', { property: 'og:image', content: ogImage }],
+    ['meta', { name: 'twitter:title', content: title }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: ogImage }],
+    ['meta', { name: 'twitter:url', content: meta.hostname }],
+  ],
+  sitemap: {
+    hostname: meta.hostname
+  },
+  lastUpdated: true,
+  cleanUrls: true,
+  ignoreDeadLinks: true,
+  markdown: {
+    theme: {
+      light: 'vitesse-light',
+      dark: 'vitesse-dark',
+    },
+  },
+
+  themeConfig: {
+    logo: '/logo.png',
+    nav: Nav,
+    search,
+    sidebar: {
+      '/guide/': SidebarGuide,
+      '/learning/': SidebarGuide,
+      '/about/': SidebarGuide,
+      
+      '/tools/': SidebarPresets,
+      '/recommendations/': SidebarPresets,
+      '/internet-browsing': SidebarPresets,
+    },
+    editLink: {
+      pattern: meta.repo + '/edit/main/:path',
+      text: 'Suggest changes to this page',
+    },
+    outline: 'deep',
+    socialLinks: [
+      /* git repo */ { icon: 'github', link: meta.repo },
+      // not yet - /* MATRIX */ { icon: { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="currentColor" d="M.844.735v30.531h2.197v.735H0v-32h3.041v.735zm9.391 9.677v1.547h.041a4.445 4.445 0 0 1 1.489-1.371c.579-.323 1.251-.484 2-.484c.719 0 1.38.141 1.975.417c.599.281 1.047.776 1.359 1.479c.339-.5.803-.943 1.38-1.323c.579-.38 1.267-.573 2.063-.573a5.94 5.94 0 0 1 1.677.224c.521.145.959.38 1.328.703c.365.329.651.751.86 1.272c.203.52.307 1.151.307 1.891v7.635h-3.129v-6.468a11.6 11.6 0 0 0-.048-1.084a2.26 2.26 0 0 0-.239-.88a1.41 1.41 0 0 0-.584-.593c-.255-.152-.609-.224-1.047-.224c-.443 0-.797.083-1.068.249a1.875 1.875 0 0 0-.64.667a2.602 2.602 0 0 0-.308.927a8.042 8.042 0 0 0-.083 1.048v6.359h-3.131v-6.401c0-.339-.005-.672-.025-1a2.633 2.633 0 0 0-.193-.916a1.343 1.343 0 0 0-.552-.672c-.255-.167-.636-.255-1.136-.255c-.151 0-.348.031-.588.099c-.24.067-.479.192-.703.375a2.24 2.24 0 0 0-.589.797c-.161.343-.239.796-.239 1.359v6.62H7.281V10.415zm20.921 20.853V.734h-2.197v-.735H32v32h-3.041v-.735z"/></svg>' }, link: 'https://chat.antfu.me' },
+      // not yet - /* TOR */ { icon: { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 21.82v-1.46A8.36 8.36 0 0 0 20.36 12 8.36 8.36 0 0 0 12 3.64V2.18A9.83 9.83 0 0 1 21.82 12 9.83 9.83 0 0 1 12 21.82zm0-5.09A4.74 4.74 0 0 0 16.73 12 4.74 4.74 0 0 0 12 7.27V5.82A6.17 6.17 0 0 1 18.18 12 6.17 6.17 0 0 1 12 18.18zm0-7.27A2.54 2.54 0 0 1 14.55 12 2.54 2.54 0 0 1 12 14.54zM0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0 12 12 0 0 0 0 12z"></path></svg>' }, link: '' },
+    ],
+  },
+})
