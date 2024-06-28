@@ -7,9 +7,9 @@ export const meta = {
     description: 'Your guide to securing your digital life and protecting your privacy',
     hostname: 'https://guide.' + plainurl,
     plainurl: plainurl,
-    sponsor: 'https://not-yet.sobbing',
+    sponsor: 'https://liberapay.com/yuuire/donate',
     repo: 'https://github.com/yuuire/guide',
-    keywords: ['privacy', 'advice', 'more tags']
+    keywords: ['privacy', 'windows', 'advice', 'macos', 'linux', 'markdown', 'security', 'website', 'anonymity', 'guide', 'privacy-online', 'opsec', 'anonymization', 'privacy protection', 'privacy tools', 'privacy guides', 'tor', 'security guides', 'data breach', 'metadata', 'smart devices']
 }
 
 // credits to fmhy.net

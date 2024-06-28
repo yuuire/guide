@@ -5,7 +5,7 @@ titleTemplate: Your guide to securing your digital life and protecting your priv
 
 hero:
   image:
-    src: /logo.png
+    src: https://github.com/yuuire.png
     alt: yuuire
   name: yuuire
   tagline: Your guide to securing your digital life and protecting your privacy

@@ -28,7 +28,7 @@ function createLinks(social: Contributors): Contributors {
 
 const plainContributors: Contributors[] = [
   {
-    avatar: `/logo.png`,
+    avatar: `https://github.com/yuuire.png`,
     name: meta.author,
     git: meta.author,
     website: 'https://' + meta.plainurl,

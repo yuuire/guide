@@ -13,14 +13,31 @@ const Guides: DefaultTheme.NavItemWithLink[] = [
   { text: 'Introduction', link: '/guide/' },
   { text: 'Why Privacy Matters', link: '/guide/why' },
   { text: 'How do I start?', link: '/guide/how' },
-  { text: 'Understanding Surveillance', link: '/guide/surveillance' },
   { text: 'Security, Privacy & Anonymity', link: '/guide/secprivanon' },
+  { text: 'Social Media', link: '/guide/social-media' },
   // { text: '---', link: '/guide/---' },
 ]
 
-const Learning: DefaultTheme.NavItemWithLink[] = [
-  { text: 'test1', link: '/learning/test1' },
-  { text: 'test2', link: '/learning/test2' },
+const Understanding: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Yourself', link: '/understanding/yourself' },
+  { text: 'Your Network', link: '/understanding/your-network' },
+  { text: 'Operating Systems', link: '/understanding/os' },
+  { text: 'Smart Devices', link: '/understanding/smart-devices' },
+  { text: 'Hardware Identifiers', link: '/understanding/hardware-identifiers' },
+  { text: 'Cloud Backups/Sync Services', link: '/understanding/cloud' },
+  { text: 'Malware', link: '/understanding/malware' },
+  { text: 'DNS', link: '/understanding/dns' },
+  { text: 'Surveillance', link: '/understanding/surveillance' },
+  { text: 'Data Breaches', link: '/understanding/data-breaches' },
+  { text: 'Metadata', link: '/understanding/metadata' },
+  { text: 'Encryption', link: '/understanding/encryption' },
+]
+
+const AdvancedGuides: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Coming Soon', link: '' },
+  { text: 'Please consider supporting us', link: '/about/donate' },
+  { text: 'Star our github repository', link: meta.repo, target: '_blank'}
+  // { text: '---', link: '/guide/---' },
 ]
 
 // Recommendations
@@ -67,25 +84,25 @@ const Nav: DefaultTheme.NavItem[] = [
       },
     ],
   },
-  // {
-  //   text: 'Recommendations',
-  //   items: [
-  //     {
-  //       text: 'Overview',
-  //       link: '/recommendations/',
-  //     },
-  //     {
-  //       text: 'Privacy Tools',
-  //       items: Tools,
-  //     },
-  //     {
-  //       text: 'Books',
-  //       link: '/books/',
-  //     },
-  //   ],
-  // },
+  {
+    text: 'Recommendations',
+    items: [
+      {
+        text: 'Overview',
+        link: '/recommendations/',
+      },
+      {
+        text: 'Privacy Tools',
+        items: Tools,
+      },
+      {
+        text: 'Books',
+        link: '/books/',
+      },
+    ],
+  },
   // { text: 'Blog', link: 'https://blog.' + meta.plainurl, target: '_blank' },
-  // { text: '💚 Donate', link: meta.sponsor, target: '_blank' },
+  { text: '💚 Donate', link: '/about/donate' },
   {
     text: `${version}`,
     items: [
@@ -111,13 +128,22 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
     items: Guides,
   },
   {
-    text: 'Learning',
-    items: Learning,
+    text: 'Understanding',
+    items: Understanding,
+  },
+  {
+    text: 'Part Two',
+    collapsed: true,
+    items: AdvancedGuides,
   },
   {
     text: 'About',
     link: '/about/',
   },
+  {
+    text: 'Donate',
+    link: '/about/donate/',
+  }
 ]
 
 const SidebarPresets: DefaultTheme.SidebarItem[] = [
@@ -142,7 +168,7 @@ export default defineConfig({
   outDir: './dist',
   head: [
     // ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }],
-    ['link', { rel: 'temporary icon', href: '/temporary-icon.png', type: 'image/png', sizes: '32x32' }],
+    ['link', { rel: 'temporary icon', href: 'https://github.com/yuuire.png', type: 'image/png', sizes: '32x32' }],
     ['meta', { name: 'author', content: meta.author }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'og:title', content: title }],
@@ -167,13 +193,14 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: '/logo.png',
+    logo: 'https://github.com/yuuire.png',
     nav: Nav,
     search,
     sidebar: {
       '/guide/': SidebarGuide,
-      '/learning/': SidebarGuide,
+      '/understanding/': SidebarGuide,
       '/about/': SidebarGuide,
+      '/donate': SidebarGuide,
       
       '/tools/': SidebarPresets,
       '/recommendations/': SidebarPresets,
