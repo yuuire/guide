@@ -1,1 +1,1 @@
-![temporary image](public/og.png)
+<a href="https://guide.yuuire.com/">![COVER](public/og.png)</a>
