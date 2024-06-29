@@ -25,7 +25,7 @@ const Understanding: DefaultTheme.NavItemWithLink[] = [
   { text: 'Smart Devices', link: '/understanding/smart-devices' },
   { text: 'Hardware Identifiers', link: '/understanding/hardware-identifiers' },
   { text: 'Cloud Backups/Sync Services', link: '/understanding/cloud' },
-  { text: 'Malware', link: '/understanding/malware' },
+  { text: 'VPN', link: '/understanding/vpn' },
   { text: 'DNS', link: '/understanding/dns' },
   { text: 'Surveillance', link: '/understanding/surveillance' },
   { text: 'Data Breaches', link: '/understanding/data-breaches' },
