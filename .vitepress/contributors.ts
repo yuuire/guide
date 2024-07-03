@@ -33,7 +33,8 @@ const plainContributors: Contributors[] = [
     git: meta.author,
     website: 'https://' + meta.plainurl,
     title: 'Founder',
-  }
+    sponsor: meta.sponsor,
+  },
 ]
 
 const contributors = plainContributors.map(social => createLinks(social))

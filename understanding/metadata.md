@@ -8,6 +8,8 @@ title: Understanding Metadata
 
 Metadata can be defined as "data about data." It consists of descriptive information that provides context, structure, and characteristics of other data. While the actual content or message of a communication or file is its "data," metadata offers insights into how, when, where, and by whom the data was created, modified, or accessed.
 
+See ["We kill people based on Metadata"](../assets/Michael-Hayden.m4v)
+
 ## Types of Metadata:
 
 1. **Descriptive Metadata**: Includes information like titles, tags, and keywords that describe the content.

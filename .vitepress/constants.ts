@@ -87,14 +87,15 @@ export interface Inspirations {
 }
 
 export const inspirations: Inspirations[] = [
-  { name: 'Privacy Guides', icon: 'https://www.privacyguides.org/en/assets/brand/logos/png/square/pg-yellow.png', link: 'https://privacyguides.org/'},
-  { name: 'FMHY', icon: 'https://github.com/fmhy.png', link: 'https://fmhy.net/adblockvpnguide#privacy' },
-  { name: 'StellarSand', icon: 'https://github.com/StellarSand.png', link: 'https://github.com/StellarSand/privacy-settings' },
-  { name: 'JDM', icon: 'https://justdeleteme.xyz/assets/icons/apple-touch-icon-144x144-precomposed.png', link: 'https://justdeleteme.xyz' },
-  { name: 'The New Oil', icon: 'https://mastodon.thenewoil.org/system/accounts/avatars/111/434/133/959/257/514/original/cf89c8940d9d3bd2.jpg', link: 'https://thenewoil.org/'},
-  { name: 'Ken Harris', icon: 'https://cyber.kenharris.io/assets/logo.png', link: 'https://cyber.kenharris.io' },
-  { name: 'Anonymous Planet ', icon: 'https://files.mastodon.social/accounts/avatars/108/168/594/170/662/445/original/c374849d273da60e.jpg', link: 'https://anonymousplanet.org' },
-  { name: 'Pluja', icon: 'https://github.com/pluja.png', link: 'https://pluja.github.io/awesome-privacy' },
-  { name: 'Privacy Tools', icon: 'https://www.privacytools.io/img/favicons/apple-touch-icon.png', link: 'https://www.privacytools.io/' },
-  { name: 'EFF', secondary: "& SSD", icon: 'https://www.eff.org/sites/all/themes/phoenix/apple-touch-icon-precomposed.png', link: 'https://www.eff.org/' }, 
+    { name: 'vnlvcky', icon: '../assets/vnlvcky.png', secondary: 'Contributor'},
+    { name: 'Privacy Guides', icon: 'https://www.privacyguides.org/en/assets/brand/logos/png/square/pg-yellow.png', link: 'https://privacyguides.org/'},
+    { name: 'FMHY', icon: 'https://github.com/fmhy.png', link: 'https://fmhy.net/adblockvpnguide#privacy' },
+    { name: 'StellarSand', icon: 'https://github.com/StellarSand.png', link: 'https://github.com/StellarSand/privacy-settings' },
+    { name: 'JDM', icon: 'https://justdeleteme.xyz/assets/icons/apple-touch-icon-144x144-precomposed.png', link: 'https://justdeleteme.xyz' },
+    { name: 'The New Oil', icon: 'https://mastodon.thenewoil.org/system/accounts/avatars/111/434/133/959/257/514/original/cf89c8940d9d3bd2.jpg', link: 'https://thenewoil.org/'},
+    { name: 'Ken Harris', icon: 'https://cyber.kenharris.io/assets/logo.png', link: 'https://cyber.kenharris.io' },
+    { name: 'Anonymous Planet ', icon: 'https://files.mastodon.social/accounts/avatars/108/168/594/170/662/445/original/c374849d273da60e.jpg', link: 'https://anonymousplanet.org' },
+    { name: 'Pluja', icon: 'https://github.com/pluja.png', link: 'https://pluja.github.io/awesome-privacy' },
+    { name: 'Privacy Tools', icon: 'https://www.privacytools.io/img/favicons/apple-touch-icon.png', link: 'https://www.privacytools.io/' },
+    { name: 'EFF & SSD', icon: 'https://www.eff.org/sites/all/themes/phoenix/apple-touch-icon-precomposed.png', link: 'https://www.eff.org/' },
 ]

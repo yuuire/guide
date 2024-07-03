@@ -20,10 +20,11 @@ const Guides: DefaultTheme.NavItemWithLink[] = [
 
 const Understanding: DefaultTheme.NavItemWithLink[] = [
   { text: 'Yourself', link: '/understanding/yourself' },
-  { text: 'Your Network', link: '/understanding/your-network' },
+  { text: 'Account Management', link: '/understanding/account-management' },
+  { text: 'Authentication', link: '/understanding/authentication' },
+  { text: 'Email Security', link: '/understanding/email-security' },
   { text: 'Operating Systems', link: '/understanding/os' },
   { text: 'Smart Devices', link: '/understanding/smart-devices' },
-  { text: 'Hardware Identifiers', link: '/understanding/hardware-identifiers' },
   { text: 'Cloud Backups/Sync Services', link: '/understanding/cloud' },
   { text: 'VPN', link: '/understanding/vpn' },
   { text: 'DNS', link: '/understanding/dns' },
