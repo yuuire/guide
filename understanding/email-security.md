@@ -56,3 +56,11 @@ Email aliases can be used for various purposes. Some of them include:
 An email is like an identity card for our digital lives. We use for anything from signing up to social media, to managing our online banking accounts. When you reveal your email address to a bad actor you give them much moe information than you might think. By simply searching up your email someone could find social media accounts connected to your email address which might give away your location, family and friends while searching up your email on forums and sites link LinkedIn somebody could capture information about your political views and employment status. Not only can your email address be used to see everything about your life, it can also be used for malicious purposes.
 
 When a bad actor has your email address they can use it for anything you can imagine. The most common practice is sending you spam messages and phishing emails. Not only that but you could become a victim of impersonation and identity theft. An unsuspecting person is the perfect target for these people, as phishing emails are one of the easiest ways to gain access to someones account or personal information. Simply being aware of these risks puts you ahead of people wanting to use you and people around you for their benefit.
+
+## Sources
+
+[Wikipedia's Email Privacy](https://en.wikipedia.org/wiki/Email_privacy)
+
+[Protonmail's website](https://proton.me/mail)
+
+[Tuta Mail's website](https://tuta.com/)
