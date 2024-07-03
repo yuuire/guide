@@ -46,7 +46,7 @@ An email alias is a forwarding email address. Email aliases can be created on a 
 Email aliases can be used for various purposes. Some of them include: 
 - hiding your email address,
 - getting rid of spam and phishing attempts,
-- bypassing newsletters which could be forces on the user,
+- bypassing newsletters which could be forced on the user,
 - organising your inbox,
 - creating multiple email addresses for different purposes.
 :::
