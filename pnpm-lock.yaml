@@ -30,12 +30,18 @@ importers:
       '@iconify-json/ph':
         specifier: ^1.1.13
         version: 1.1.13
+      '@iconify-json/simple-icons':
+        specifier: ^1.1.108
+        version: 1.1.108
       '@iconify-json/twemoji':
         specifier: ^1.1.15
         version: 1.1.15
       '@iconify-json/vscode-icons':
         specifier: ^1.1.35
         version: 1.1.35
+      '@unocss/preset-icons':
+        specifier: ^0.61.0
+        version: 0.61.0
       ofetch:
         specifier: ^1.3.4
         version: 1.3.4
@@ -444,6 +450,9 @@ packages:
 
   '@iconify-json/ph@1.1.13':
     resolution: {integrity: sha512-xtM4JJ63HCKj09WRqrBswXiHrpliBlqboWSZH8odcmqYXbvIFceU9/Til4V+MQr6+MoUC+KB72cxhky2+A6r/g==}
+
+  '@iconify-json/simple-icons@1.1.108':
+    resolution: {integrity: sha512-GeC0Oy3j385BgjI0TadEzVbzM/cYjvAot22hJLNal3wKLmf/8t6RtH2PgRiNaK+SxELeDYdSAHocXxw4QoKXYA==}
 
   '@iconify-json/twemoji@1.1.15':
     resolution: {integrity: sha512-ze2CAOwIWBKIP6ih6qMDItasVjRicktl2Qr3/ohZSMToAHm9z3Q6HCwE48eT0+D+uFpGBlNRQ22HHyE5izyhDg==}
@@ -1803,6 +1812,10 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/ph@1.1.13':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/simple-icons@1.1.108':
     dependencies:
       '@iconify/types': 2.0.0
 

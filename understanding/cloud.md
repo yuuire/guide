@@ -1,6 +1,6 @@
 ![Cover](../assets/cloud.png)
 
-# Cloud backups/sync services
+# Cloud Backups/Sync Services
 You should not trust cloud providers with your (not previously and locally encrypted) sensitive data and you should be wary of their privacy claims. In most cases, they can access your data and provide it to a third party if they want to.
 
 ### Examples

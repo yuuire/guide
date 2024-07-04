@@ -18,7 +18,7 @@ Using unique passwords for each account is crucial because it prevents a single 
 
 Randomly generated passwords are significantly more secure than easily guessable passwords or patterns. Password generators can create complex combinations of letters (both uppercase and lowercase), numbers, and symbols that are difficult for attackers to crack using brute force methods. It's recommended to use password generators built into reputable password managers or standalone generator tools to ensure randomness and strength.
 
-All of [our recommended password managers]((/recommendations/software/password-managers)) include a built-in password generator that you can use.
+All of [our recommended password managers](/recommendations/software/password-managers) include a built-in password generator that you can use.
 
 ### Rotating Passwords
 
@@ -40,7 +40,7 @@ Password managers are essential tools for securely storing and managing password
 
 [List of recommended password managers](/recommendations/software/password-managers)
 
-::: warning Kepp your TOTP codes in a [separate app](/recommendations/software/multi-factor-authentication).
+::: warning Keep your TOTP codes in a [separate app](/recommendations/software/multi-factor-authentication).
 <p></p>
 :::
 
@@ -49,7 +49,7 @@ Password managers are essential tools for securely storing and managing password
 Regularly backing up your passwords is vital to prevent losing access due to hardware failures, accidental deletion, or other unforeseen circumstances. Backups should be stored securely, such as in an encrypted file stored on a separate device or in a secure cloud storage service. By maintaining backups, you can ensure that even if you lose access to your primary password storage, you can recover your passwords and regain access to your accounts.
 
 ## Multi-Factor Authentication
-::: danger Warning!
+::: danger WARNING
 Do not use SMS as MFA to prevent [Sim Swapping](https://wikiless.tiekoetter.com/wiki/SIM_swap_scam?lang=en) attacks
 :::
 

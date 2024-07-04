@@ -47,13 +47,56 @@ const Internet_Browsing: DefaultTheme.NavItemWithLink[] = [
   { text: 'Tor Browser', link: '/recommendations/internet-browsing/tor' },
   { text: 'Desktop Browsers', link: '/recommendations/internet-browsing/desktop' },
   { text: 'Mobile Browsers', link: '/recommendations/internet-browsing/mobile' },
+  { text: 'Search Engines', link: '/recommendations/internet-browsing/search-engines' },
   { text: 'Browser Extensions', link: '/recommendations/internet-browsing/extensions' },
+  { text: 'Frontends', link: '/recommendations/internet-browsing/frontends' },
 ]
 
-const Tools: DefaultTheme.NavItemWithLink[] = [
+const Providers: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Email Services', link: '/recommendations/providers/email' },
+  { text: 'Email Aliasing', link: '/recommendations/providers/email-aliasing' },
+  { text: 'Cloud Storage', link: '/recommendations/providers/cloud-storage' },
+  { text: 'VPN Services', link: '/recommendations/providers/vpn-services' },
+  { text: 'Proxy', link: '/recommendations/providers/proxy' },
+  { text: 'DNS Resolvers', link: '/recommendations/providers/dns-resolvers' },
+  { text: 'VPS Providers', link: '/recommendations/providers/vps-providers' },
+]
+
+const Software: DefaultTheme.NavItemWithLink[] = [
+  { text: 'FOSS Alternatives', link: '/recommendations/software/foss-alternatives' },
+  { text: 'Email Clients', link: '/recommendations/software/email-clients' },
+  { text: 'Password Managers', link: '/recommendations/software/password-managers' },
+  { text: 'Multi-Factor Authentication', link: '/recommendations/software/multi-factor-authentication' },
+  { text: 'Encryption Software', link: '/recommendations/software/encryption-software' },
+  { text: 'File Sharing', link: '/recommendations/software/file-sharing' },
+  { text: 'Productivity Tools', link: '/recommendations/software/productivity-tools' },
+  { text: 'Real-Time Communication', link: '/recommendations/software/real-time-communication' },
+  { text: 'Metadata Erasers', link: '/recommendations/software/metadata-erasers' },
+  { text: 'News Aggregators', link: '/recommendations/software/news-aggregators' },
+]
+
+const Hardware: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Security Keys', link: '/recommendations/hardware/security-keys' },
+]
+
+const Operating_Systems: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Android', link: '/recommendations/operating-systems/android' },
+  { text: 'Desktop', link: '/recommendations/operating-systems/desktop' },
+]
+
+const Miscellaneous: DefaultTheme.NavItemWithLink[] = [
+  { text: 'Alternative Networks', link: '/recommendations/miscellaneous/tor' },
+  { text: 'Finances', link: '/recommendations/miscellaneous/finances' },
+]
+
+const Recommendations: DefaultTheme.NavItemWithLink[] = [
   {
     text: 'Internet Browsing',
     link: '/recommendations/internet-browsing/tor',
+  },
+  {
+    text: 'Providers',
+    link: '/recommendations/providers/',
   },
   {
     text: 'Software',
@@ -64,12 +107,12 @@ const Tools: DefaultTheme.NavItemWithLink[] = [
     link: '/recommendations/hardware/',
   },
   {
-    text: 'Providers',
-    link: '/recommendations/providers/',
+    text: 'Operating Systems',
+    link: '/recommendations/operating-systems/',
   },
   {
-    text: 'Operating Systems',
-    link: '/recommendations/operating-system/',
+    text: 'Miscellaneous',
+    link: '/recommendations/miscellaneous/',
   },
 ]
 
@@ -94,7 +137,7 @@ const Nav: DefaultTheme.NavItem[] = [
       },
       {
         text: 'Privacy Tools',
-        items: Tools,
+        items: Recommendations,
       },
       {
         text: 'Books',
@@ -134,7 +177,7 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
   },
   {
     text: 'Part Two',
-    collapsed: true,
+    collapsed: false,
     items: AdvancedGuides,
   },
   {
@@ -156,6 +199,35 @@ const SidebarPresets: DefaultTheme.SidebarItem[] = [
     text: 'Internet Browsing',
     collapsed: false,
     items: Internet_Browsing,
+  },
+  {
+    text: 'Providers',
+    collapsed: false,
+    items: Providers,
+  },
+  {
+    text: 'Software',
+    collapsed: false,
+    items: Software,
+  },
+  {
+    text: 'Hardware',
+    collapsed: false,
+    items: Hardware,
+  },
+  {
+    text: 'Operating Systems',
+    collapsed: false,
+    items: Operating_Systems,
+  },
+  {
+    text: 'Miscellaneous',
+    collapsed: false,
+    items: Miscellaneous,
+  },
+  {
+    text: 'Books',
+    link: '/books/',
   },
 ]
 
