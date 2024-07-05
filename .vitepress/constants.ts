@@ -87,15 +87,15 @@ export interface Inspirations {
 }
 
 export const inspirations: Inspirations[] = [
-    { name: 'vnlvcky', icon: '/assets/avatars/vnlvcky.png', secondary: 'Contributor'},
-    { name: 'Privacy Guides', icon: '/assets/avatars/privacy-guides.png', link: 'https://privacyguides.org/'},
-    { name: 'FMHY', icon: '/assets/avatars/fmhy.png', link: 'https://fmhy.net/adblockvpnguide#privacy' },
-    { name: 'StellarSand', icon: '/assets/avatars/stellarsand.png', link: 'https://github.com/StellarSand/privacy-settings' },
-    { name: 'JDM', icon: '/assets/avatars/jdm.png', link: 'https://justdeleteme.xyz' },
-    { name: 'The New Oil', icon: '/assets/avatars/thenewoil.png', link: 'https://thenewoil.org/'},
-    { name: 'Ken Harris', icon: '/assets/avatars/kenharris.png', link: 'https://cyber.kenharris.io' },
-    { name: 'Anonymous Planet ', icon: '/assets/avatars/anonymous-planet.png', link: 'https://anonymousplanet.org' },
-    { name: 'Pluja', icon: '/assets/avatars/pluja.png', link: 'https://pluja.github.io/awesome-privacy' },
-    { name: 'Privacy Tools', icon: '/assets/avatars/privacy-tools.png', link: 'https://www.privacytools.io/' },
-    { name: 'EFF & SSD', icon: '/assets/avatars/eff.png', link: 'https://www.eff.org/' },
+    { name: 'vnlvcky', icon: '/avatars/vnlvcky.png', secondary: 'Contributor'},
+    { name: 'Privacy Guides', icon: '/avatars/privacy-guides.png', link: 'https://privacyguides.org/'},
+    { name: 'FMHY', icon: '/avatars/fmhy.png', link: 'https://fmhy.net/adblockvpnguide#privacy' },
+    { name: 'StellarSand', icon: '/avatars/stellarsand.png', link: 'https://github.com/StellarSand/privacy-settings' },
+    { name: 'JDM', icon: '/avatars/jdm.png', link: 'https://justdeleteme.xyz' },
+    { name: 'The New Oil', icon: '/avatars/thenewoil.png', link: 'https://thenewoil.org/'},
+    { name: 'Ken Harris', icon: '/avatars/kenharris.png', link: 'https://cyber.kenharris.io' },
+    { name: 'Anonymous Planet ', icon: '/avatars/anonymous-planet.png', link: 'https://anonymousplanet.org' },
+    { name: 'Pluja', icon: '/avatars/pluja.png', link: 'https://pluja.github.io/awesome-privacy' },
+    { name: 'Privacy Tools', icon: '/avatars/privacy-tools.png', link: 'https://www.privacytools.io/' },
+    { name: 'EFF & SSD', icon: '/avatars/eff.png', link: 'https://www.eff.org/' },
 ]
