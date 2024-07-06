@@ -85,7 +85,7 @@ const Operating_Systems: DefaultTheme.NavItemWithLink[] = [
 ]
 
 const Miscellaneous: DefaultTheme.NavItemWithLink[] = [
-  { text: 'Alternative Networks', link: '/recommendations/miscellaneous/tor' },
+  { text: 'Alternative Networks', link: '/recommendations/miscellaneous/alternative-networks' },
   { text: 'Finances', link: '/recommendations/miscellaneous/finances' },
 ]
 
@@ -96,23 +96,23 @@ const Recommendations: DefaultTheme.NavItemWithLink[] = [
   },
   {
     text: 'Providers',
-    link: '/recommendations/providers/',
+    link: '/recommendations/providers/email-services',
   },
   {
     text: 'Software',
-    link: '/recommendations/software/',
+    link: '/recommendations/software/foss-alternatives',
   },
   {
     text: 'Hardware',
-    link: '/recommendations/hardware/',
+    link: '/recommendations/hardware/security-keys',
   },
   {
     text: 'Operating Systems',
-    link: '/recommendations/operating-systems/',
+    link: '/recommendations/operating-systems/android',
   },
   {
     text: 'Miscellaneous',
-    link: '/recommendations/miscellaneous/',
+    link: '/recommendations/miscellaneous/alternative-networks',
   },
 ]
 
