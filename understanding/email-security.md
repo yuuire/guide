@@ -4,10 +4,10 @@ Privacy in the context of emails is a complicated topic as they usually cross bo
 
 ## Email Encryption
 
-The encryption of emails is currently a widely utilised method to protect the contents of your messages from being accessed. It's possible by making sure that only the sender and recipient are able to read the message. It can be achieved by either TLS (Transport Layer Security) which is easier to set up, although less secure, or E2EE (End-To-End Encryption) which is the preferred option for the maximum level of security. It's possible by encrypting and decrypting the message only at the end points. This means that only the sender of the message and the recipient can see it's content. 
+The encryption of emails is currently a widely utilised method to protect the contents of your messages from being accessed. It's possible by making sure that only the sender and recipient are able to read the message. It can be achieved by either TLS (Transport Layer Security) which is easier to set up, although less secure, or E2EE (End-To-End Encryption) which is the preferred option for the maximum level of security. It's possible by encrypting and decrypting the message only at the end points. This means that only the sender of the message and the recipient can see its content.
 
 ::: warning
-While End-To-End Encryption makes it impossible for someone to spy on you, it's still completely possible for the sender to attach a spy pixel. A spy pixel (or tracking pixel) is a remote image file which acts as a tracker. When you open the email with a spy pixel it sends tracking information to a tracking server connected to the graphic file. Tuta and Protonmail both block remote content by default which makes spy pixels useless.  
+While End-To-End Encryption makes it impossible for someone to spy on you, it's still completely possible for the sender to attach a spy pixel. A spy pixel (or tracking pixel) is a remote image file which acts as a tracker. When you open the email with a spy pixel it sends tracking information to a tracking server connected to the graphic file. Tuta and Protonmail both block remote content by default which makes spy pixels useless. 
 :::
 
 ### Which Email Providers Support E2EE?
