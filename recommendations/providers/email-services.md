@@ -1,4 +1,8 @@
-# Email Services
+---
+title: Email Services
+---
+
+![Cover](../../assets/email-services.png)
 
 ## Recommendations
 
@@ -12,8 +16,10 @@
 
 ## Self-Hosting Email
 
-- :star: [Mail-in-a-Box](https://mailinabox.email/) - [Source Code](https://github.com/mail-in-a-box/mailinabox) / [Documentation](https://mailinabox.email/guide.html)
-- :star: [Mailcow](https://mailcow.email/) - [Source Code](https://github.com/mailcow/mailcow-dockerized) / [Documentation](https://docs.mailcow.email/)
-- [UnInbox](https://github.com/un/inbox) - [Documentation](https://github.com/un/inbox#self-hosting)
+| Provider | Links |
+| --- | :-- |
+| :star: [Mail-in-a-Box](https://mailinabox.email/) | <div style="display: flex; flex-direction: row; align-items: center;">[<div class="i-mdi-github text-xl mr-[5px]"></div>](https://github.com/mail-in-a-box/mailinabox) [<div class="i-mdi-info-outline text-xl" style="margin-right: 5px;"></div>](https://mailinabox.email/guide.html)</div> |
+| :star: [Mailcow](https://mailcow.email/) | <div style="display: flex; flex-direction: row; align-items: center;">[<div class="i-mdi-github text-xl mr-[5px]"></div>](https://github.com/mailcow/mailcow-dockerized) [<div class="i-mdi-info-outline text-xl" style="margin-right: 5px;"></div>](https://docs.mailcow.email/)</div> |
+| [UnInbox](https://github.com/un/inbox) | [<div class="i-mdi-info-outline text-xl" style="margin-right: 5px;"></div>](https://github.com/un/inbox#self-hosting) |
 
 Need help? Check out [this guide](https://www.c0ffee.net/blog/mail-server-guide).

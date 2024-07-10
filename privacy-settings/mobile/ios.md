@@ -1,0 +1,63 @@
+# iOS 17
+By enabling all of these settings, you are significantly reducing the amount of tracking and data collection these devices perform, but keep in mind that you are not completely eliminating it.
+
+- Apple ID > Sign-In & Security > Two-Factor Authentication: On (Security Keys recommended if you plan to use iCloud or other Apple products tied to your Apple account)
+- Apple ID > iCloud: Disable everything (_Note:_ if you are interested in using iCloud, see [here](/guides/moderately-important/backups/#iclouds-advanced-data-protection-program))
+- Apple ID > Media & Purchases > View Account > Personalized Recommendations: Off
+- Apple ID > Find My > Find My iPhone > Find My iPhone: Enabled (required for [Stolen Device Protection](https://support.apple.com/en-us/HT212510))
+- Apple ID > Find My > Find My iPhone > Find My Network: Disabled
+- Apple ID > Find My > Find My iPhone > Send Last Location: Disabled
+- Apple ID > Find My > Share My Locaton: Disabled
+- Apple ID > Contact Key Verification: Enabled
+- Wi-Fi > Edit (top right corner) > Remove networks you no longer regularly connect to
+- Wi-Fi > [Your network] > Ensure "Private Wi-Fi Address" is enabled
+- Wi-Fi > [Your network] > Ensure "Limit IP Address Tracking" is enabled
+- Wi-Fi > Wi-Fi should be disabled when you are not actively connected to a network.
+- Wi-Fi > Auto-Join Hotspot: Never
+- Bluetooth: Off unless needed.
+- Cellular > SIM PIN > Create a custom [PIN](https://support.apple.com/en-us/HT201529)
+- Cellular: Disable Cellular Data for any apps you don't need 24/7 access to.
+- Cellular: Wi-Fi Assist: Off
+- Notifications > Show Previews: Never
+- Notifications > Screen Sharing: Notifications Off
+- Notifications > Siri Suggestions > Allow Notifications: Off
+- General > Software Update > Automatic Updates: All on
+- General > AirDrop > Receiving Off (Adjust only when using it, otherwise leave it off)
+- General > AirPlay & Handoff > Automatically AirPlay: Never
+- General > Keyboards > Enable Dictation: Off
+- Display & Brightness > Auto-Lock > the shortest option you can reasonably put up with. Do not set it to leave the screen turned on.
+- Wallpaper: Set your lock screen to something that doesn't reveal sensitive personal information (eg, no family photos, etc)
+- Siri & Search: Disable everything completely
+- Touch/Face ID & Passcode > Stolen Device Protection: Enable
+- Touch/Face ID & Passcode > Turn Passcode On: Try to set an [alpha-numeric password](/guides/most-important/passwords) if possible, otherwise use a six-digit PIN. A fingerprint is also acceptable if your device allows it (coupled with a strong password or PIN). Face ID should be avoided.
+- Touch/Face ID & Passcode > Require Passcode: Immediately
+- Touch/Face ID & Passcode > Allow Access When Locked: the fewer the better
+- Touch/Face ID & Passcode > Erase Data: Enabled (**Beware of this setting, make sure you understand it**)
+- Exposure Notifications: Using these is discouraged unless required by law, but it is ultimately up to you.
+- Privacy & Security > Location Services: Disable for everything that doesn't need it, and set those to "While Using"
+- Privacy & Security > Location Services > System Services: Disable all (this will not cause any issues with Emergency Services being able to locate you)
+- Privacy & Security > Tracking > Allow Apps to Request to Track: Off
+- Privacy & Security: Review all the other app settings and make sure apps only have access to the settings they actually need. Otherwise, disable them. Disable as many as you can without breaking the app functionality.
+- Privacy & Security > Safety Check: This is a good tool if you're not using a brand-new Apple ID. It will show you any files you are sharing, any other devices you are logged into, etc and allow you to remotely disable them.
+- Privacy & Security > Analytics & Improvements: Disable everything
+- Privacy & Security > Apple Advertising > Personalized Ads: Off
+- Privacy & Security > Lockdown Mode: On (This will [disable](https://support.apple.com/en-us/HT212650) a significant number of features, however if you are able to live without them, it will help protect other users who need this feature from being [easily identified](https://www.techspot.com/news/95767-apple-upcoming-lockdown-mode-make-devices-easier-fingerprint.html).)
+- App Store > App Updates: On
+- App Store > Personalized Recommendations: Clear App Usage Data
+- Passwords: Clear this section out and turn everything off. Use a [password manager](/guides/most-important/passwords) instead.
+- Phone > Notifications: Off (if you plan to use [Voice-over-IP](/guides/less-important/voip))
+- Phone > Silence unknown callers: On (This is, like everything, user discretion, but for most people this will dramatically reduce the number of spam calls. If you use your SIM number instead of VoIP, be sure to enter any important phone numbers such as a child's school or coworkers into your contacts so you still get their calls.)
+- Messages > Notifications: Off (if you plan to use [Voice-over-IP](/guides/less-important/voip))
+- Messages > Share Name and Photo: Off
+- Messages > Keep Messages: 30 Days
+- Messages > Filter Unknown Senders: Enabled
+- Maps > Allow Photo Providers to Use Your Photos: Disabled
+- Translate: On-Device Mode: On
+- Health > Medical ID: I encourage you to set this up in case of emergency. Saving a life should always be prioritized over privacy.
+- Photos > iCloud Photos: Off (unless you use iCloud)
+- Podcasts: Reset Identifier
+- Game Center: Disable
+- Now scroll back up to Screen Time > Content & Privacy Restrictions: Enable
+- Now scroll back up to Screen Time > Content & Privacy Restrictions > Allowed Apps: Disable everything you do not intend to use.
+- Screen Time > Content & Privacy Restrictions > Privacy & Allowed Changes: Set all to "Don't Allow." This will prevent changes from being made on your behalf next time you update.
+- Any settings not covered are personal preference and are unlikely to cause any privacy or security issues no matter how you set them.

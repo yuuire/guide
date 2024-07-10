@@ -1,6 +1,8 @@
-![Cover](../../assets/tor.png)
+---
+title: Tor Browser
+---
 
-# Tor Browser
+![Cover](../../assets/tor-browser.png)
 
 Tor is a freely accessible, decentralized network engineered to facilitate internet usage with maximum privacy. When utilized correctly, it empowers users to engage in private and anonymous browsing and communication sessions. Given the intricacy of tracing and blocking Tor traffic, it emerges as an adept tool for circumventing censorship.
 

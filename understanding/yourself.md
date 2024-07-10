@@ -1,3 +1,5 @@
+![Cover](../assets/understanding-yourself.png)
+
 # Understanding Yourself
 
 Every click, share, or interaction leaves a trace. For example, as a basis of authentication, a user’s typing speed, keystroke depressions, patterns of error (say accidentally hitting an “l” instead of a “k” on three out of every seven transactions) and mouse movements establish that person’s unique pattern of behavior.
