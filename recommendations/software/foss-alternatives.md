@@ -8,7 +8,7 @@ title: FOSS Alternatives
 
 | Task | Status |
 | --- | :-: |
-| Installed and tested by me or by contributor | :white_check_mark: |
+| Installed and tested by me or by a contributor | :white_check_mark: |
 | Open Source | :white_check_mark: |
 | Free of charge | :white_check_mark: |
 | Free as in Freedom | :white_check_mark: |
@@ -18,8 +18,6 @@ title: FOSS Alternatives
 | Maintained | :white_check_mark: |
 | No account needed | :white_check_mark: |
 | Dark theme | :white_check_mark: |
-
-__AWESOME__ apps counter: __253__ 🎉
 
 ## Android
 

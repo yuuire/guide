@@ -3,6 +3,9 @@ title: Overview
 ---
 
 ![Cover](../assets/overview.png)
+
+<h3>This page only displays recommendations marked with a ⭐, for more recommendations look in the relevant category. If a category has no stars, we will display the entire category.</h3>
+
 ## Internet Browsing
 
 ### Tor Browser
@@ -84,8 +87,7 @@ See [Recommendations -> Internet Browsing -> Alternative Frontends](/recommendat
 ## Software
 
 ### FOSS Alternatives
-
-todo
+See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software/foss-alternatives).
 
 ### Email Clients
 <!--@include: ./software/email-clients.md{7,11} -->
