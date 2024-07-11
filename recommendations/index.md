@@ -87,7 +87,10 @@ See [Recommendations -> Internet Browsing -> Alternative Frontends](/recommendat
 ## Software
 
 ### FOSS Alternatives
-See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software/foss-alternatives).
+<br/>
+
+#### Android
+See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software/foss-alternatives#android).
 
 ### Email Clients
 <!--@include: ./software/email-clients.md{7,11} -->
@@ -111,10 +114,10 @@ See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software
 <!--@include: ./software/productivity-tools.md{24,26} -->
 
 #### Collaboration Platforms
-<!--@include: ./software/productivity-tools.md{30,32} -->
+<!--@include: ./software/productivity-tools.md{31,33} -->
 
 #### Communities
-<!--@include: ./software/productivity-tools.md{37,39} -->
+<!--@include: ./software/productivity-tools.md{38,41} -->
 
 ### [Real-Time Communication](/recommendations/software/real-time-communication/)
 <!--@include: ./software/real-time-communication.md{7,12} -->
@@ -123,7 +126,7 @@ See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software
 <!--@include: ./software/metadata-erasers.md{7,9} -->
 
 ### News Aggregators
-<!--@include: ./software/news-aggregators.md{7,12} -->
+<!--@include: ./software/news-aggregators.md{7,11} -->
 
 ## Hardware
 

@@ -6,7 +6,7 @@ title: Multi-Factor Authentication
 
 | Provider | Platform | Links |
 | --- | :-- | :-- |
-| :star: [Ente Auth](https://ente.io/auth) | Cross-Platform | [Source Code](https://github.com/ente-io/ente) / [Privacy Policy](https://ente.io/privacy) / [Audit](https://ente.io/blog/cryptography-audit/) |
+| :star: [Ente Auth](https://ente.io/auth) | Cross-Platform | [Source Code](https://github.com/ente-io/ente/tree/main/auth) / [Privacy Policy](https://ente.io/privacy) / [Audit](https://ente.io/blog/cryptography-audit/) |
 | :star: [Aegis Authenticator](https://getaegis.app/) | Android | [Source Code](https://github.com/beemdevelopment/Aegis) / [Privacy Policy](https://getaegis.app/aegis/privacy.html) | |
 | [Authenticator Pro](https://authenticatorpro.jmh.me/) | Android | [Source Code](https://github.com/jamie-mh/AuthenticatorPro)
 | [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/) | Android & iOS | [Source Code](https://github.com/bitwarden/authenticator-android) / [Privacy Policy](https://bitwarden.com/privacy/)
