@@ -24,6 +24,7 @@ Looking for something else? Check out [this project](https://productiveprivacy.c
 | Provider | Links |
 | --- | :-- |
 | :star: [LibreOffice](https://libreoffice.org/) | [Source Code](https://libreoffice.org/about-us/source-code) / [Privacy Policy](https://libreoffice.org/about-us/privacy/privacy-policy-en)
+| [ONLYOFFICE](https://www.onlyoffice.com/) | [Source Code](https://github.com/ONLYOFFICE/) / [Privacy Policy](https://forum.onlyoffice.com/t/privacy-policy/6)
 
 ## Collaboration Platforms
 
@@ -37,3 +38,7 @@ Looking for something else? Check out [this project](https://productiveprivacy.c
 | Provider |
 | :-- |
 | :star: [r/GetMotivated](https://www.reddit.com/r/GetMotivated/)
+| :star: [r/Productivity](https://www.reddit.com/r/productivity/)
+| [r/DecidingToBeBetter](https://www.reddit.com/r/DecidingToBeBetter/)
+| [r/GetDisciplined](https://www.reddit.com/r/getdisciplined/)
+| [r/selfimprovement](https://www.reddit.com/r/selfimprovement/)
