@@ -77,7 +77,7 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 
 | Provider | Links |
 | --- | :-- |
-| [OpenCalc](https://github.com/Darkempire78/OpenCalc) | [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+| :star: [OpenCalc](https://github.com/Darkempire78/OpenCalc) | [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
 | [CalcYou](https://you-apps.net/) | [Source Code](https://github.com/you-apps/CalcYou) / [F-Droid](https://f-droid.org/en/packages/net.youapps.calcyou/)
 | [CuteCalc](https://github.com/sosauce/CuteCalc) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sosauce.cutecalc)
 
@@ -135,7 +135,7 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 
 | Provider | Links |
 | --- | :-- |
-| [F-Droid](https://f-droid.org/) | [Source Code](https://gitlab.com/fdroid/fdroidclient) / [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
+| :star: [F-Droid](https://f-droid.org/) | [Source Code](https://gitlab.com/fdroid/fdroidclient) / [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
 | [Aurora Store](https://auroraoss.com/) | [Source Code](https://gitlab.com/AuroraOSS/AuroraStore) / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
 | [Droid-ify](https://github.com/Iamlooker/Droid-ify) | [F-Droid](https://f-droid.org/packages/com.looker.droidify)
 | [Obtainium](https://github.com/ImranR98/Obtainium) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
@@ -145,7 +145,7 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 
 | Provider | Links |
 | --- | :-- |
-| [Material Files](https://github.com/zhanghai/MaterialFiles) | [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)
+| :star: [Material Files](https://github.com/zhanghai/MaterialFiles) | [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)
 | [Fossify File Manager](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/File-Manager) / [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)
 | [Amaze](https://teamamaze.xyz/) | [Source Code](https://github.com/TeamAmaze/AmazeFileManager) / [F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/)
 
@@ -207,8 +207,8 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 
 | Provider | Links |
 | --- | :-- |
-| [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
-| [HeliBoard](https://github.com/Helium314/HeliBoard) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
+| :star: [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
+| :star: [HeliBoard](https://github.com/Helium314/HeliBoard) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 | [FUTO](https://keyboard.futo.org/) | [Source Code](https://github.com/futo-org/android-keyboard) / [GitHub Releases](https://github.com/futo-org/android-keyboard/releases) / [F-Droid Repo](https://app.futo.org/fdroid/repo/)
 | [Simple Keyboard](https://github.com/rkkr/simple-keyboard) | [F-Droid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
 | [Thumb-Key](https://github.com/dessalines/thumb-key) | [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
@@ -235,7 +235,7 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 
 | Provider | Links |
 | --- | :-- |
-| [AntennaPod](https://antennapod.org/) | [Source Code](https://github.com/AntennaPod/AntennaPod) / [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+| :star: [AntennaPod](https://antennapod.org/) | [Source Code](https://github.com/AntennaPod/AntennaPod) / [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
 | [Podverse](https://podverse.fm/) | [Source Code](https://github.com/podverse/podverse-fdroid) / [F-Droid](https://f-droid.org/packages/com.podverse.fdroid/)
 | [Escapepod](https://codeberg.org/y20k/escapepod) | [F-Droid](https://f-droid.org/en/packages/org.y20k.escapepod/)
 
@@ -243,7 +243,7 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 
 | Provider | Links |
 | --- | :-- |
-| [Infinity For Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Unlocker](https://lr.ggtyler.dev/r/Infinity_For_Reddit/comments/14c2v5x/build_your_own_apk_with_your_personal_api_key_in/)
+| :star: [Infinity For Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Unlocker](https://lr.ggtyler.dev/r/Infinity_For_Reddit/comments/14c2v5x/build_your_own_apk_with_your_personal_api_key_in/)
 | [RedReader](https://github.com/QuantumBadger/RedReader) | [F-Droid](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
 | [Stealth](https://gitlab.com/cosmosapps/stealth) | [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 
@@ -251,7 +251,7 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 
 | Provider | Links |
 | --- | :-- |
-| [QUIK](https://github.com/octoshrimpy/quik) | [F-Droid](https://f-droid.org/en/packages/dev.octoshrimpy.quik/)
+| :star: [QUIK](https://github.com/octoshrimpy/quik) | [F-Droid](https://f-droid.org/en/packages/dev.octoshrimpy.quik/)
 | [Fossify Messages](https://github.com/FossifyOrg/Messages) | [F-Droid](https://f-droid.org/en/packages/org.fossify.messages/)
 | [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android) | [F-Droid](https://f-droid.org/packages/com.afkanerd.deku/)
 
@@ -259,7 +259,7 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 
 | Provider | Links |
 | --- | :-- |
-| [Breezy Weather](https://github.com/breezy-weather/breezy-weather) | [F-Droid](https://f-droid.org/packages/org.breezyweather/)
+| :star: [Breezy Weather](https://github.com/breezy-weather/breezy-weather) | [F-Droid](https://f-droid.org/packages/org.breezyweather/)
 | [Clima](https://lacerte.github.io/clima/) | [Source Code](https://codeberg.org/Lacerte/clima) / [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
 
 ### YouTube
@@ -269,4 +269,34 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 | [LibreTube](https://libre-tube.github.io/) | [Source Code](https://github.com/libre-tube/LibreTube) / [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
 | [NewPipe](https://newpipe.net/) | [Source Code](https://github.com/TeamNewPipe/NewPipe) / [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 
-<!-- Research needed for: package manager, office suite, notes, music scrobbler, music player, music downloader/ripper, maps & transport assistants, shazam, survival/hitchhiking apps, step counting / health, to-do lists, torrenting???, trackers (bettercounter, birday, greenstash, loop, koduko, showly, simple time tracker, addiction trackers???, days off to school trackers???, sleep (health)), translator apps idk, twitch clients, unit converters, video players, video editors, photo editors, voice recorders, more weather apps, wikipedia?, workout / gym apps -->
+### Package Manager
+
+| Provider | Links |
+| --- | :-- |
+| :star: [App Manager](https://muntashirakon.github.io/AppManager/) | [Source Code](https://github.com/MuntashirAkon/AppManager) / [F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/)
+| [Package Manager](https://smartpack.github.io/PackageManager/) | [Source Code](https://github.com/SmartPack/PackageManager) / [F-Droid](https://f-droid.org/en/packages/com.smartpack.packagemanager/) / [Privacy Policy](https://smartpack.github.io/PackageManager/privacy-policy/)
+
+### Office Suite
+
+| Provider | Links |
+| --- | :-- |
+| [LibreOffice](https://www.libreoffice.org/) | [Source Code](https://cgit.freedesktop.org/libreoffice/core/tree) / [F-Droid](https://f-droid.org/packages/org.documentfoundation.libreoffice/)
+
+### Notes
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Joplin](https://joplinapp.org/) | [Source Code](https://github.com/laurent22/joplin) / [F-Droid](https://f-droid.org/en/packages/net.cozic.joplin/) / [Privacy Policy](https://joplinapp.org/privacy/)
+| :star: [Notesnook](https://notesnook.com/) | [Source Code](https://github.com/streetwriters/notesnook) / [F-Droid](https://f-droid.org/en/packages/com.streetwriters.notesnook/) / [Privacy Policy](https://notesnook.com/privacy/)
+| :star: [Standard Notes](https://standardnotes.com/) | [Source Code](https://github.com/standardnotes/app) / [F-Droid](https://f-droid.org/en/packages/com.standardnotes/) / [Privacy Policy](https://standardnotes.com/legal/privacy)
+| [Notally](https://github.com/OmGodse/Notally) | [Source Code](https://github.com/OmGodse/Notally) / [F-Droid](https://f-droid.org/packages/com.omgodse.notally/)
+| [Easy Notes](https://github.com/Kin69/EasyNotes) | [F-Droid](https://f-droid.org/en/packages/com.kin.easynotes/)
+| [Fossify Notes](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Notes) / [F-Droid](https://f-droid.org/en/packages/org.fossify.notes/)
+
+### Music Scrobbler
+
+| Provider | Links |
+| --- | :-- |
+| [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | [GitHub Releases](https://github.com/kawaiiDango/pano-scrobbler/releases) / [F-Droid Repo](https://kawaiidango.github.io/pano-scrobbler/fdroid/repo/?fingerprint=9954ECAB27F9FCE8290AC75A33F3DFE9FE5F6F5B8E6F33AD7F98307AC4D487BA)
+
+<!-- Research needed for: office suites, music scrobbler, music player, music downloader/ripper, maps & transport assistants, shazam, survival/hitchhiking apps, step counting / health, to-do lists, torrenting???, trackers (bettercounter, birday, greenstash, loop, koduko, showly, simple time tracker, addiction trackers???, days off to school trackers???, sleep (health)), translator apps idk, twitch clients, unit converters, video players, video editors, photo editors, voice recorders, more weather apps, wikipedia?, workout / gym apps -->
