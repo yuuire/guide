@@ -14,9 +14,11 @@ title: Linux
 
 | Provider | [Difficulty](https://i.ibb.co/kXJdBrF/98e87fc317dd.png) |
 | --- | :-- |
-:star: [Zorin OS](https://zorin.com/os/) | Beginner-friendly
-[Fedora](https://fedoraproject.org/workstation) | Intermediate
-[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed) | Hard mode
+| :star: [Arch Linux](https://archlinux.org/) | Enthusiast
+| :star: [Zorin OS](https://zorin.com/os/) | Beginner-friendly
+| [Linux Mint](https://www.linuxmint.com/) | Beginner-friendly
+| [Fedora](https://fedoraproject.org/workstation) | Intermediate
+| [openSUSE](https://get.opensuse.org/desktop/) | Intermediate
 
 ### Security-focused
 
@@ -31,6 +33,10 @@ title: Linux
 | Provider |
 | --- |
 | :star: [All Things Linux](https://atl.wiki/) |
+| :star: [r/linux](https://www.reddit.com/r/linux/) |
+| [r/linux_gaming](https://www.reddit.com/r/linux_gaming/) |
+| [r/linux4noobs](https://www.reddit.com/r/linux4noobs/) |
+| [r/linuxquestions](https://www.reddit.com/r/linux4noobs/) |
 
 ## Guides
 
@@ -47,13 +53,15 @@ title: Linux
 | [LinuxJourney](https://linuxjourney.com/) |
 | [Linuxtopia](https://www.linuxtopia.org/) |
 | [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) |
+| [Gaming on Linux](https://linux-gaming.kwindu.eu/index.php?title=Main_Page) |
 
 ## System
 | Provider | Description
 | --- | :-- |
-| [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)
+| [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) | Gnome App Index
 | [DistroSea](https://distrosea.com/) | Linux Browser Emulator
-| [Archinstall](https://github.com/archlinux/archinstall) | Arch Linux Installers
+| [Archinstall](https://github.com/archlinux/archinstall) | Arch Linux Installer Script
+| [nosystemd](https://nosystemd.org/) | Alternatives to Systemd
 | [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) | Monitor / Log System Activity
 | [Nanobench](https://github.com/andreas-abel/nanoBench) | CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 | [screenFetch](https://github.com/KittyKatt/screenFetch) | Bash Screenshot Information Tool
@@ -69,7 +77,7 @@ title: Linux
 | [zfsBootMenu](https://docs.zfsbootmenu.org/) | ZFS Bootloader
 | [GParted](https://gparted.org/) | Partition Manager
 | [LAN Mouse](https://github.com/feschber/lan-mouse) | Mouse & Keyboard Sharing
-| [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | NVIDIA Linux Open GPU Kernel Module
+| [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | NVIDIA Linux Open GPU Kernel Modules
 | [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) | CPU Speed & Power Optimization Automation
 | [OSX-KVM](https://github.com/kholia/OSX-KVM) or [OneClick-macOS-Simple-KVM](https://notAperson535.github.io/OneClick-macOS-Simple-KVM) | macOS Virtual Machines
 | [Kernel Map](https://makelinux.github.io/kernel/map/) | Interactive Linux Kernel Map
@@ -85,4 +93,3 @@ title: Linux
 | [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) | Bootable System Rescue Toolkits
 | [bt-dualboot](https://github.com/x2es/bt-dualboot) | Dual-Boot Bluetooth Sync Tool
 | [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) | Hardcoded Tray Icon Fix
-| [nosystemd](https://nosystemd.org/) | Alternatives to Systemd
