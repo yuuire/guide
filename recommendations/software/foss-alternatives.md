@@ -73,6 +73,16 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 
 See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/internet-browsing/mobile-browsers).
 
+### Launcher
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Kvaesitso](https://kvaesitso.mm20.de/) | [Source Code](https://github.com/MM2-0/Kvaesitso) / [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/) / [Privacy Policy](https://kvaesitso.mm20.de/privacy-policy.html)
+| :star: [Lawnchair](https://lawnchair.app/) | [Source Code](https://github.com/LawnchairLauncher/lawnchair) / [GitHub Releases](https://github.com/LawnchairLauncher/lawnchair/releases) / [Privacy Policy](https://lawnchair.app/privacy_policy/) / ~~F-Droid~~
+| :star: [KISS](https://kisslauncher.com/) | [Source Code](https://github.com/Neamar/KISS) / [F-Droid](https://f-droid.org/en/packages/fr.neamar.kiss/) / [Privacy Policy](https://open.spotify.com/track/6Ol4xbN1uvwK3YoEdQAr49?si=d9c8ee41f58d43e5)
+| [mLauncher](https://github.com/DroidWorksStudio/mLauncher) | [F-Droid](https://f-droid.org/en/packages/app.mlauncher/)
+| [Unlauncher](https://jkuester.github.io/unlauncher/) | [Source Code](https://github.com/jkuester/unlauncher) / [F-Droid](https://f-droid.org/en/packages/com.jkuester.unlauncher/)
+
 ### Calculator
 
 | Provider | Links |
@@ -93,7 +103,7 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 | Provider | Links |
 | --- | :-- |
 | [Open Camera](https://opencamera.org.uk/) | [Source Code](https://sourceforge.net/p/opencamera/code/) / [F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
-| [Secure Camera](https://github.com/GrapheneOS/Camera) | [GitHub Releases](https://github.com/GrapheneOS/Camera/releases) / [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
+| [Secure Camera](https://github.com/GrapheneOS/Camera) | [GitHub Releases](https://github.com/GrapheneOS/Camera/releases) / [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) / ~~F-Droid~~
 | [Libre Camera](https://github.com/iakmds/librecamera) | [F-Droid](https://f-droid.org/packages/com.iakmds.librecamera/)
 
 ### Contacts
@@ -228,7 +238,7 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 
 | Provider | Links |
 | --- | :-- |
-| [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) | [GitHub Releases](https://github.com/GrapheneOS/PdfViewer/releases) / [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
+| [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) | [GitHub Releases](https://github.com/GrapheneOS/PdfViewer/releases) / [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play) / ~~F-Droid~~
 | [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
 
 ### Podcast Player
@@ -243,7 +253,7 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Infinity For Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Unlocker](https://lr.ggtyler.dev/r/Infinity_For_Reddit/comments/14c2v5x/build_your_own_apk_with_your_personal_api_key_in/)
+| :star: [Infinity For Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | [Unlocker](https://lr.ggtyler.dev/r/Infinity_For_Reddit/comments/14c2v5x/build_your_own_apk_with_your_personal_api_key_in/) / ~~F-Droid~~
 | [RedReader](https://github.com/QuantumBadger/RedReader) | [F-Droid](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
 | [Stealth](https://gitlab.com/cosmosapps/stealth) | [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 
@@ -260,13 +270,17 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 | Provider | Links |
 | --- | :-- |
 | :star: [Breezy Weather](https://github.com/breezy-weather/breezy-weather) | [F-Droid](https://f-droid.org/packages/org.breezyweather/)
+| [Rain](https://github.com/DarkMooNight/Rain) | [GitHub Releases](https://github.com/darkmoonight/Rain/releases) / ~~F-Droid~~
+| [OSS Weather](https://github.com/Akylas/oss-weather) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.weather)
+| [Bura](https://github.com/davidtakac/bura) | [F-Droid](https://f-droid.org/packages/com.davidtakac.bura/)
 | [Clima](https://lacerte.github.io/clima/) | [Source Code](https://codeberg.org/Lacerte/clima) / [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
 
 ### YouTube
 
 | Provider | Links |
 | --- | :-- |
-| [LibreTube](https://libre-tube.github.io/) | [Source Code](https://github.com/libre-tube/LibreTube) / [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
+| :star: [LibreTube](https://libre-tube.github.io/) | [Source Code](https://github.com/libre-tube/LibreTube) / [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
+| [Tubular](https://github.com/polymorphicshade/Tubular) | [GitHub Releases](https://github.com/polymorphicshade/Tubular) / ~~F-Droid~~
 | [NewPipe](https://newpipe.net/) | [Source Code](https://github.com/TeamNewPipe/NewPipe) / [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 
 ### Package Manager
@@ -297,6 +311,128 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 
 | Provider | Links |
 | --- | :-- |
-| [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | [GitHub Releases](https://github.com/kawaiiDango/pano-scrobbler/releases) / [F-Droid Repo](https://kawaiidango.github.io/pano-scrobbler/fdroid/repo/?fingerprint=9954ECAB27F9FCE8290AC75A33F3DFE9FE5F6F5B8E6F33AD7F98307AC4D487BA)
+| :star: [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | [GitHub Releases](https://github.com/kawaiiDango/pano-scrobbler/releases) / [F-Droid Repo](https://kawaiidango.github.io/pano-scrobbler/fdroid/repo/?fingerprint=9954ECAB27F9FCE8290AC75A33F3DFE9FE5F6F5B8E6F33AD7F98307AC4D487BA)
 
-<!-- Research needed for: office suites, music scrobbler, music player, music downloader/ripper, maps & transport assistants, shazam, survival/hitchhiking apps, step counting / health, to-do lists, torrenting???, trackers (bettercounter, birday, greenstash, loop, koduko, showly, simple time tracker, addiction trackers???, days off to school trackers???, sleep (health)), translator apps idk, twitch clients, unit converters, video players, video editors, photo editors, voice recorders, more weather apps, wikipedia?, workout / gym apps -->
+### Music Player
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Auxio](https://github.com/OxygenCobalt/Auxio) | [F-Droid](https://f-droid.org/en/packages/org.oxycblt.auxio/)
+| :star: [Symphony](https://zyrouge.github.io/symphony/) | [Source Code](https://github.com/zyrouge/symphony/) / [F-Droid](https://f-droid.org/en/packages/io.github.zyrouge.symphony/)
+| [Gramophone](https://github.com/AkaneTan/Gramophone) | [F-Droid](https://f-droid.org/en/packages/org.akanework.gramophone/)
+| [Metro](https://github.com/MuntashirAkon/Metro) | [F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
+| [Fossify Music Player](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Music-Player) / [F-Droid](https://f-droid.org/en/packages/org.fossify.musicplayer/)
+
+### Maps & Transport Assistants
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Organic Maps](https://organicmaps.app/) | [Source Code](https://github.com/organicmaps/organicmaps) / [F-Droid](https://f-droid.org/en/packages/app.organicmaps/) / [Privacy Policy](https://organicmaps.app/privacy/)
+| [OsmAnd~](https://osmand.net/) | [Source Code](https://github.com/osmandapp/Osmand) / [F-Droid](https://f-droid.org/en/packages/net.osmand.plus/) / [Privacy Policy](https://osmand.net/docs/legal/privacy-policy)
+| [Transportr](https://transportr.app/) | [Source Code](https://github.com/grote/Transportr) / [F-Droid](https://f-droid.org/packages/de.grobox.liberario/)
+| [GMaps WV](https://gitlab.com/divested-mobile/maps) | [F-Droid](https://f-droid.org/en/packages/us.spotco.maps/)
+
+### Music Identifier
+
+| Provider | Links |
+| --- | :-- |
+| [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) | [GitHub Releases](https://github.com/KieronQuinn/AmbientMusicMod/releases) / ~~F-Droid~~
+| [Audile](https://github.com/aleksey-saenko/MusicRecognizer) | [F-Droid](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
+
+### Health
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Open Tracks](https://opentracksapp.com/) | [Source Code](https://github.com/OpenTracksApp/OpenTracks) / [F-Droid](https://f-droid.org/en/packages/de.dennisguse.opentracks/) / [OSM for OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/) / [Privacy Policy](https://opentracksapp.com/#Privacy)
+| :star: [Gadgetbridge](https://gadgetbridge.org/) | [Source Code](https://codeberg.org/Freeyourgadget/Gadgetbridge) / [F-Droid](https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge/)
+| [Another Activity Tracker](https://bailu.ch/aat/) | [Source Code](https://f-droid.org/packages/ch.bailu.aat/) / [F-Droid](https://f-droid.org/packages/ch.bailu.aat/)
+| [RunnerUp](https://github.com/jonasoreland/runnerup) | [F-Droid](https://f-droid.org/en/packages/org.runnerup.free/)
+| [Fast N Fitness](https://github.com/brodeurlv/fastnfitness) | [F-Droid](https://f-droid.org/en/packages/com.easyfitness/)
+
+### To-Do List
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Tasks.org](https://tasks.org/) | [Source Code](https://github.com/tasks/tasks) / [F-Droid](https://f-droid.org/en/packages/org.tasks/) / [Privacy Policy](https://tasks.org/docs/privacy)
+| :star: [My Brain](https://github.com/mhss1/MyBrain) | [F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain/)
+| [ToDark](https://github.com/DarkMooNight/ToDark) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
+| [Todopad](https://github.com/TheAlphaApp/flutter_riverpod_todo_app) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.flutter_riverpod_todo_app)
+
+### Torrenting
+
+| Provider | Links |
+| --- | :-- |
+| [BiglyBT](https://github.com/BiglySoftware/BiglyBT-Android) | [F-Droid](https://f-droid.org/packages/com.biglybt.android.client/) / [Privacy Policy](https://www.biglybt.com/privacy.php)
+| [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) | [F-Droid](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/)
+| [Torrent Client](https://gitlab.com/axet/android-torrent-client/tree/HEAD) | [F-Droid](https://f-droid.org/en/packages/com.github.axet.torrentclient/)
+| [TorrServe](https://github.com/YouROK/TorrServe) | [F-Droid](https://f-droid.org/packages/ru.yourok.torrserve/)
+
+### Translator
+
+| Provider | Links |
+| --- | :-- |
+| :star: [RTranslator](https://github.com/niedev/RTranslator) | [GitHub Releases](https://github.com/niedev/RTranslator/releases) / [Privacy Policy](https://github.com/niedev/RTranslator/blob/v2.00/privacy/Privacy_Policy_en.md) / ~~F-Droid~~
+| [Translate You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/TranslateYou) / [F-Droid](https://f-droid.org/packages/com.bnyro.translate/)
+| [Lentil Translate](https://github.com/yaxarat/lingvaandroid) | [F-Droid](https://f-droid.org/packages/dev.atajan.lingva_android/)
+
+### Twitch Client
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Xtra](https://github.com/crackededed/Xtra/) | [F-Droid](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
+| [Frosty](https://www.frostyapp.io/) | [Source Code](https://github.com/tommyxchow/frosty) / [GitHub Releases](https://github.com/tommyxchow/frosty/releases) / ~~F-Droid~~
+| [Twire](https://github.com/twireapp/Twire) | [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
+
+### Unit Converter
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Converter NOW](https://converter-now.web.app/) | [Source Code](https://github.com/ferraridamiano/ConverterNOW) / [F-Droid](https://f-droid.org/en/packages/com.ferrarid.converterpro/)
+| [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate) | [F-Droid](https://f-droid.org/en/packages/com.physphil.android.unitconverterultimate/)
+
+### Video Player
+
+| Provider | Links |
+| --- | :-- |
+| :star: [VLC](https://www.videolan.org/vlc/) | [Source Code](https://github.com/videolan/vlc-android) / [F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/) / [Privacy Policy](https://www.videolan.org/privacy.html)
+| :star: [Next Player](https://github.com/anilbeesetti/nextplayer) | [F-Droid](https://f-droid.org/packages/dev.anilbeesetti.nextplayer/)
+| [Kodi](https://kodi.tv/) | [Source Code](https://github.com/xbmc/xbmc) / [Downloads](https://kodi.tv/download/android/) / ~~F-Droid~~
+| [NOVA](https://github.com/nova-video-player/aos-AVP) | [F-Droid](https://f-droid.org/en/packages/org.courville.nova/) / [Privacy Policy](https://home.courville.org/nova_video_player-faq/privacy.html)
+| [mpv-android](https://github.com/mpv-android/mpv-android) | [F-Droid](https://f-droid.org/en/packages/is.xyz.mpv/)
+| [Just (Video) Player](https://github.com/moneytoo/Player) | [F-Droid](https://f-droid.org/packages/com.brouken.player/)
+
+### Video Editor
+
+| Provider | Links |
+| --- | :-- |
+| [Open Video Editor](https://github.com/devhyper/open-video-editor) | [F-Droid](https://f-droid.org/en/packages/io.github.devhyper.openvideoeditor/)
+
+### Audio & Video Downloader
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Seal](https://github.com/JunkFood02/Seal) | [F-Droid](https://f-droid.org/packages/com.junkfood.seal/)
+| [YTDLnis](https://github.com/deniscerri/ytdlnis) | [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
+| [SongTube](https://github.com/SongTube/SongTube-App) | [GitHub Releases](https://github.com/SongTube/SongTube-App/releases) / ~~F-Droid~~
+
+### Voice Recorder
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Record You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/RecordYou) / [F-Droid](https://f-droid.org/en/packages/com.bnyro.recorder/)
+| [Fossify Voice Recorder](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Voice-Recorder) / [F-Droid](https://f-droid.org/en/packages/org.fossify.voicerecorder/)
+| [Audio Recorder](https://gitlab.com/axet/android-audio-recorder) | [F-Droid](https://f-droid.org/en/packages/com.github.axet.audiorecorder/)
+
+### Wikipedia Client
+
+| Provider | Links |
+| --- | :-- |
+| [Kiwix](https://kiwix.org/en/) | [Source Code](https://github.com/kiwix/kiwix-android) / [GitHub Releases](https://github.com/kiwix/kiwix-android/releases) / [Privacy Policy](https://kiwix.org/en/privacy-policy/) / ~~F-Droid~~
+
+### Download Manager
+
+| Provider | Links |
+| --- | :-- |
+| [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) | [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/) / [Privacy Policy](https://github.com/TachibanaGeneralLaboratories/download-navi/blob/master/PRIVACY.md)
+
+<!-- research needed for: office suites, music scrobblers, trackers (bettercounter, birthday, greenstash, loop, koduko, showly, simple time tracker, addiction tracker, days off to school tracker), video editors,  wikipedia -->
