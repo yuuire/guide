@@ -19,14 +19,14 @@ Looking for something else? Check out [this project](https://productiveprivacy.c
 | [Pro Modoro](https://pro-modoro.xyz/) | Time Tracker | [Source Code]()
 | [LanguageTool](https://languagetool.org/) | Spelling, Style and Grammar Checker | [Source Code](https://github.com/languagetool-org) [Privacy Policy](https://languagetool.org/legal/privacy)
 
-## Office Suites
+## Office Suite
 
 | Provider | Links |
 | --- | :-- |
 | :star: [LibreOffice](https://libreoffice.org/) | [Source Code](https://libreoffice.org/about-us/source-code) / [Privacy Policy](https://libreoffice.org/about-us/privacy/privacy-policy-en)
 | [ONLYOFFICE](https://www.onlyoffice.com/) | [Source Code](https://github.com/ONLYOFFICE/) / [Privacy Policy](https://forum.onlyoffice.com/t/privacy-policy/6)
 
-## Collaboration Platforms
+## Collaboration Platform
 
 | Provider | Links |
 | --- | :-- |
@@ -34,7 +34,7 @@ Looking for something else? Check out [this project](https://productiveprivacy.c
 | [Nextcloud](https://nextcloud.com/) | [Source Code](https://github.com/nextcloud) / [Privacy Policy](https://nextcloud.com/privacy) |
 | [Etherpad](https://etherpad.org/) | [Source Code](https://github.com/ether/etherpad-lite) |
 
-## Communities
+## Community
 | Provider |
 | :-- |
 | :star: [r/GetMotivated](https://www.reddit.com/r/GetMotivated/)
