@@ -33,7 +33,7 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | [DNS66](https://jak-linux.org/projects/dns66/) | [Source Code](https://github.com/julian-klode/dns66) / [F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/)
 | [InviZible Pro](https://invizible.net/en/) | [Source Code](https://github.com/Gedsh/InviZible) / [F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)
 | [NetGuard](https://netguard.me/) | [Source Code](https://github.com/M66B/NetGuard) / [F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)
-| [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [Source Code](https://github.com/IngoZenz/personaldnsfilter) / [F-Droid](https://f-droid.org/en/packages/dnsfilter.android/)
+| [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) | [Source Code](https://github.com/IngoZenz/personaldnsfilter) / [F-Droid](https://f-droid.org/en/packages/dnsfilter.android/)
 | [RethinkDNS](https://rethinkdns.com/app) | [Source Code](https://github.com/celzero/rethink-app) / [F-Droid](https://f-droid.org/packages/com.celzero.bravedns/)
 | [TrackerControl](https://trackercontrol.org/) | [Source Code](https://github.com/TrackerControl/tracker-control-android) / [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)
 | [URLCheck](https://github.com/TrianguloY/UrlChecker) | [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
