@@ -1,4 +1,4 @@
-![Cover](../assets/cctv.png)
+![Cover](../assets/surveillance.png)
 
 # Understanding Surveillance
 

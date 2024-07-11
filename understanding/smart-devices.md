@@ -2,9 +2,9 @@
 title: Smart Devices
 ---
 
-![Cover](../assets/spying.png)
+![Cover](../assets/smart-devices.png)
 
-# Smart Devices
+# Understanding Smart Devices
 
 You got it; your smartphone is an advanced spying & tracking device that:
 - Records everything you say at any time (**"Hey Siri"**, **"Hey Google"**).

@@ -294,8 +294,7 @@ export default defineConfig({
   description,
   outDir: './dist',
   head: [
-    // ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }],
-    ['link', { rel: 'temporary icon', href: '/logo-bg.png', type: 'image/png', sizes: '32x32' }],
+    ['link', { rel: 'icon', href: '/logo-bg.png', type: 'image/png', sizes: '32x32' }],
     ['meta', { name: 'author', content: meta.author }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'og:title', content: title }],

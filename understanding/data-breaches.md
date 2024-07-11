@@ -2,7 +2,7 @@
 title: Understanding Data Breaches
 ---
 
-![Cover](../assets/databreach.png)
+![Cover](../assets/data-breaches.png)
 
 # Understanding Data Breaches
 

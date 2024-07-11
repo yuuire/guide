@@ -1,6 +1,6 @@
 ![Cover](../assets/account-management.png)
 
-# Account Management
+# Understanding Account Management
 
 Proper account management is really important in keeping your digital identity and personal information safe from potential threats and privacy breaches. It involves not only creating strong, unique passwords and using secure authentication methods but also being mindful of the information you share online.
 

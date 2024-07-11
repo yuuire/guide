@@ -1,6 +1,6 @@
-![Cover](../assets/vpn.png)
+![Cover](../assets/VPN.png)
 
-# VPN Overview
+# Understanding VPN
 In recent years, the concept of Virtual Private Networks (VPNs) has gained significant attention, often propelled by the endorsements of social media influencers. However, the reality behind VPNs starkly contrasts with the promises made, leading to misconceptions and misinformed decisions among users.
 
 ## Misrepresentation by Influencers

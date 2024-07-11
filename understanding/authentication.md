@@ -1,6 +1,6 @@
-![Cover](../assets/auth.png)
+![Cover](../assets/authentication.png)
 
-# Authentication
+# Understanding Authentication
 
 Authentication serves as the first line of defense against unauthorized access to systems, applications, and data. It ensures that individuals or systems attempting to access resources are who they claim to be, thereby protecting against identity theft, data breaches, and fraud. Without effective authentication measures, sensitive information such as financial details, personal communications, and intellectual property could be compromised.
 

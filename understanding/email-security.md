@@ -1,6 +1,6 @@
 ![Cover](../assets/email-security.png)
 
-# Email Security
+# Understanding Email Security
 
 Privacy in the context of emails is a complicated topic as they usually cross borders of countries which may have different laws and policies. Unauthorised inspection of an email in transit or tracking its content is a common practice and, unfortunately, the end user isn't able to determine whether he or she is being actively spied on. Even though it's possible to limit, or even make it completely impossible to be spied on it's very hard to achieve. The knowledge of how the bad actors manage to track and spy on you is the key to learning how to protect yourself while using email clients.
 
