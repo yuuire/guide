@@ -14,9 +14,8 @@ title: Linux
 
 | Provider | [Difficulty](https://i.ibb.co/kXJdBrF/98e87fc317dd.png) |
 | --- | :-- |
-| :star: [Arch Linux](https://archlinux.org/) | Enthusiast
+| :star: [Arch Linux](https://archlinux.org/) | Hard mode
 | :star: [Zorin OS](https://zorin.com/os/) | Beginner-friendly
-| [Linux Mint](https://www.linuxmint.com/) | Beginner-friendly
 | [Fedora](https://fedoraproject.org/workstation) | Intermediate
 | [openSUSE](https://get.opensuse.org/desktop/) | Intermediate
 
@@ -56,6 +55,7 @@ title: Linux
 | [Gaming on Linux](https://linux-gaming.kwindu.eu/index.php?title=Main_Page) |
 
 ## System
+
 | Provider | Description
 | --- | :-- |
 | [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) | Gnome App Index
