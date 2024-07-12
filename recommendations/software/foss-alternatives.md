@@ -43,8 +43,9 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Clock You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/ClockYou) / [F-Droid](https://f-droid.org/packages/com.bnyro.clock/)
-| [Clock](https://github.com/BlackyHawky/Clock) | [F-Droid](https://f-droid.org/en/packages/com.best.deskclock/)
+| :star: [Chrono](https://github.com/vicolo-dev/chrono) | [F-Droid](https://f-droid.org/packages/com.vicolo.chrono/)
+| :star: [Clock](https://github.com/BlackyHawky/Clock) | [F-Droid](https://f-droid.org/en/packages/com.best.deskclock/)
+| [Clock You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/ClockYou) / [F-Droid](https://f-droid.org/packages/com.bnyro.clock/)
 | [Fossify Clock](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Clock) / [F-Droid](https://f-droid.org/en/packages/org.fossify.clock/)
 
 ### Anime & Manga
@@ -68,7 +69,7 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | --- | :-- |
 | :star: [Droid-ify](https://github.com/Iamlooker/Droid-ify) | [F-Droid](https://f-droid.org/packages/com.looker.droidify)
 | :star: [F-Droid](https://f-droid.org/) | [Source Code](https://gitlab.com/fdroid/fdroidclient) / [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
-| :star: [Aurora Store](https://auroraoss.com/) | [Source Code](https://gitlab.com/AuroraOSS/AuroraStore) / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
+| :star: [Aurora Store](https://auroraoss.com/) | [Source Code](https://gitlab.com/AuroraOSS/AuroraStore) / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/) / [Privacy Policy](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/POLICY.md?ref_type=heads)
 | [Obtainium](https://github.com/ImranR98/Obtainium) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
 | [Accrescent](https://accrescent.app/) | [Source Code](https://github.com/accrescent/accrescent) / [GitHub Releases](https://github.com/accrescent/accrescent/releases) / ~~F-Droid~~
 
@@ -110,7 +111,7 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Open Camera](https://opencamera.org.uk/) | [Source Code](https://sourceforge.net/p/opencamera/code/) / [F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
+| :star: [Open Camera](https://opencamera.org.uk/) | [Source Code](https://sourceforge.net/p/opencamera/code/) / [F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/) / [Privacy Policy](https://opencamera.org.uk/privacy_oc.html)
 | [Secure Camera](https://github.com/GrapheneOS/Camera) | [GitHub Releases](https://github.com/GrapheneOS/Camera/releases) / [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) / ~~F-Droid~~
 | [Libre Camera](https://github.com/iakmds/librecamera) | [F-Droid](https://f-droid.org/packages/com.iakmds.librecamera/)
 
@@ -118,7 +119,8 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Connect You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/ConnectYou) / [F-Droid](https://f-droid.org/en/packages/com.bnyro.contacts/)
+| :star: [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) | [F-Droid](https://f-droid.org/packages/opencontacts.open.com.opencontacts/)
+| [Connect You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/ConnectYou) / [F-Droid](https://f-droid.org/en/packages/com.bnyro.contacts/)
 | [Fossify Contacts](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Contacts) / [F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)
 
 ### Customization
@@ -130,13 +132,17 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | Provider | Links |
 | --- | :-- |
 | :star: [KDE Connect](https://kdeconnect.kde.org/) | [Source Code](https://github.com/KDE/kdeconnect-kde) / [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
+| :star: [Flying Carpet](https://github.com/spieglt/FlyingCarpet) | [F-Droid](https://f-droid.org/packages/dev.spiegl.flyingcarpet/)
+| [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) | [GNOME](https://extensions.gnome.org/extension/1319/gsconnect/) / [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/gsconnect/)
+| [Zorin Connect](https://github.com/ZorinOS/zorin-connect-android) | [F-Droid](https://f-droid.org/packages/com.zorinos.zorin_connect/)
+| [Warpinator](https://github.com/slowscript/warpinator-android) | [F-Droid](https://f-droid.org/en/packages/slowscript.warpinator/) / [Privacy Policy](https://github.com/slowscript/warpinator-android/blob/master/PRIVACY_POLICY.md)
 
 ### Dialer
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Fossify Phone](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Phone) / [F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
-| [Emerald Dialer](https://github.com/HenriDellal/emerald-dialer) | [F-Droid](https://f-droid.org/en/packages/ru.henridellal.dialer/)
+| :star: [Emerald Dialer](https://github.com/HenriDellal/emerald-dialer) | [F-Droid](https://f-droid.org/en/packages/ru.henridellal.dialer/)
+| [Fossify Phone](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Phone) / [F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
 
 ### Download Manager
 
@@ -149,6 +155,8 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | Provider | Links |
 | --- | :-- |
 | :star: [Myne](https://github.com/Pool-Of-Tears/Myne) | [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
+| :star: [KoReader](https://koreader.rocks/) | [Source Code](https://github.com/koreader/koreader) / [[F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
+| [Openlib](https://github.com/dstark5/Openlib) | [F-Droid](https://f-droid.org/en/packages/com.app.openlib/)
 | [Librera Reader](https://librera.mobi/) | [Source Code](https://github.com/foobnix/LibreraReader) / [F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)
 | [Book's Story](https://github.com/Acclorite/book-story) | [GitHub Releases](https://github.com/Acclorite/book-story/releases) / ~~F-Droid~~
 
@@ -164,8 +172,8 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | Provider | Links |
 | --- | :-- |
 | :star: [Material Files](https://github.com/zhanghai/MaterialFiles) | [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)
+| :star: [Amaze](https://teamamaze.xyz/) | [Source Code](https://github.com/TeamAmaze/AmazeFileManager) / [F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/)
 | [Fossify File Manager](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/File-Manager) / [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)
-| [Amaze](https://teamamaze.xyz/) | [Source Code](https://github.com/TeamAmaze/AmazeFileManager) / [F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/)
 
 ### File Synchronization
 
@@ -190,17 +198,19 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | Provider | Links |
 | --- | :-- |
 | :star: [AnkiDroid](https://apps.ankiweb.net/) | [Source Code](https://github.com/ankidroid/Anki-Android) / [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
+| [Really Basic Vocab](https://herrmann-engel.de/projekte/rbv/) | [Source Code](https://github.com/jonathanherrmannengel/vocabapp) / [F-Droid](https://f-droid.org/en/packages/de.herrmann_engel.rbv/)
 
 ### Forgejo & Gitea
 
 | Provider | Links |
 | --- | :-- |
-| :star: [GitNex](https://gitnex.com/) | [Source Code](https://codeberg.org/gitnex/GitNex) / [F-Droid](https://f-droid.org/en/packages/org.mian.gitnex/)
+| :star: [GitNex](https://gitnex.com/) | [Source Code](https://codeberg.org/gitnex/GitNex) / [F-Droid](https://f-droid.org/en/packages/org.mian.gitnex/) / [Privacy Policy](https://gitnex.com/privacy/)
 
 ### Gallery
 
 | Provider | Links |
 | --- | :-- |
+| :star: [Ente Photos](https://ente.io/) | [Source Code](https://github.com/ente-io/ente) / [F-Droid](https://f-droid.org/packages/io.ente.photos.fdroid/) / [Privacy Policy](https://ente.io/privacy)
 | :star: [Gallery](https://github.com/IacobIonut01/Gallery) | [F-Droid](https://f-droid.org/packages/com.dot.gallery/)
 | [Fossify Gallery](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Gallery) / [F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)
 | [Aves](https://github.com/deckerst/aves) | [F-Droid](https://f-droid.org/en/packages/deckers.thibault.aves.libre/)
@@ -229,7 +239,7 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | --- | :-- |
 | :star: [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
 | :star: [HeliBoard](https://github.com/Helium314/HeliBoard) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
-| [FUTO](https://keyboard.futo.org/) | [Source Code](https://github.com/futo-org/android-keyboard) / [GitHub Releases](https://github.com/futo-org/android-keyboard/releases) / [F-Droid Repo](https://app.futo.org/fdroid/repo/)
+| :star: [FUTO](https://keyboard.futo.org/) | [Source Code](https://github.com/futo-org/android-keyboard) / [GitHub Releases](https://github.com/futo-org/android-keyboard/releases) / [F-Droid Repo](https://app.futo.org/fdroid/repo/) / [Voice Input](https://keyboard.futo.org/voice-input-models)
 | [Simple Keyboard](https://github.com/rkkr/simple-keyboard) | [F-Droid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
 | [Thumb-Key](https://github.com/dessalines/thumb-key) | [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
 
@@ -346,6 +356,13 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | [Fossify Messages](https://github.com/FossifyOrg/Messages) | [F-Droid](https://f-droid.org/en/packages/org.fossify.messages/)
 | [Deku SMS](https://github.com/deku-messaging/Deku-SMS-Android) | [F-Droid](https://f-droid.org/packages/com.afkanerd.deku/)
 
+### Time & Date Tracking
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Simple Counter](https://github.com/quicksc0p3r/simplecounter) | [F-Droid](https://f-droid.org/packages/org.quicksc0p3r.simplecounter/)
+| [BetterCounter](https://github.com/albertvaka/bettercounter) | [F-Droid](https://f-droid.org/vi/packages/org.kde.bettercounter/) / [Privacy Policy](https://github.com/albertvaka/bettercounter/blob/main/PRIVACY.md)
+
 ### To-Do List
 
 | Provider | Links |
@@ -409,6 +426,7 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | Provider | Links |
 | --- | :-- |
 | :star: [Record You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/RecordYou) / [F-Droid](https://f-droid.org/en/packages/com.bnyro.recorder/)
+| [Audio Notes](https://certified84.github.io/AudioNote/) | [Source Code](https://github.com/certified84/AudioNote) / [F-Droid](https://f-droid.org/packages/com.certified.audionote/)
 | [Fossify Voice Recorder](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Voice-Recorder) / [F-Droid](https://f-droid.org/en/packages/org.fossify.voicerecorder/)
 | [Audio Recorder](https://gitlab.com/axet/android-audio-recorder) | [F-Droid](https://f-droid.org/en/packages/com.github.axet.audiorecorder/)
 
@@ -436,4 +454,4 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | [Tubular](https://github.com/polymorphicshade/Tubular) | [GitHub Releases](https://github.com/polymorphicshade/Tubular) / ~~F-Droid~~
 | [NewPipe](https://newpipe.net/) | [Source Code](https://github.com/TeamNewPipe/NewPipe) / [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 
-<!-- test - bettercounter, birthday, greenstash, loop, koduko, showly, simple time tracker, addiction tracker, days off to school tracker -->
+<!-- test - greenstash, loop, koduko, showly, simple time tracker, addiction tracker, days off to school tracker -->
