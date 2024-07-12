@@ -41,4 +41,4 @@ To open uBlock settings click the extension's icon on the toolbar and the gear i
 
 # Import
 
-See [Recommendations -> Internet Browsing -> Browser Extensions](https://github.com/vn1vcky0/guide/blob/main/recommendations/internet-browsing/browser-extensions.md#adblock-filters).
+See [Recommendations -> Internet Browsing -> Browser Extensions](/recommendations/internet-browsing/browser-extensions.md#adblock-filters).
