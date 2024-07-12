@@ -221,7 +221,12 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | --- | :-- |
 | :star: [Open Tracks](https://opentracksapp.com/) | [Source Code](https://github.com/OpenTracksApp/OpenTracks) / [F-Droid](https://f-droid.org/en/packages/de.dennisguse.opentracks/) / [OSM for OpenTracks](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/) / [Privacy Policy](https://opentracksapp.com/#Privacy)
 | :star: [Gadgetbridge](https://gadgetbridge.org/) | [Source Code](https://codeberg.org/Freeyourgadget/Gadgetbridge) / [F-Droid](https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge/)
+| [Loop Habit Tracker](https://github.com/iSoron/uhabits) | [F-Droid](https://f-droid.org/packages/org.isoron.uhabits/)
+| [Track & Graph](https://github.com/SamAmco/track-and-graph) | [F-Droid](https://f-droid.org/en/packages/com.samco.trackandgraph/) / [Privacy Policy](https://github.com/SamAmco/track-and-graph?tab=readme-ov-file#privacy-policy)
+| [openScale](https://github.com/oliexdev/openScale) | [F-Droid](https://f-droid.org/packages/com.health.openscale/) / [Privacy Policy](https://github.com/oliexdev/openScale?tab=readme-ov-file#privacy-lock)
+| [Waistline](https://github.com/davidhealey/waistline) | [F-Droid](https://f-droid.org/packages/com.waist.line/) / [Privacy Policy](https://github.com/davidhealey/waistline?tab=readme-ov-file#privacy-policy)
 | [Another Activity Tracker](https://bailu.ch/aat/) | [Source Code](https://f-droid.org/packages/ch.bailu.aat/) / [F-Droid](https://f-droid.org/packages/ch.bailu.aat/)
+| [Koduko](https://github.com/Mazahir26/koduko) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko)
 | [RunnerUp](https://github.com/jonasoreland/runnerup) | [F-Droid](https://f-droid.org/en/packages/org.runnerup.free/)
 | [Fast N Fitness](https://github.com/brodeurlv/fastnfitness) | [F-Droid](https://f-droid.org/en/packages/com.easyfitness/)
 
@@ -348,6 +353,12 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | [RedReader](https://github.com/QuantumBadger/RedReader) | [F-Droid](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
 | [Stealth](https://gitlab.com/cosmosapps/stealth) | [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 
+### Shows tracking
+
+| Provider | Links |
+| --- | :-- |
+| [Showly OSS](https://github.com/1RandomDev/showly-oss) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly_oss)
+
 ### SMS Messaging
 
 | Provider | Links |
@@ -361,6 +372,7 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | Provider | Links |
 | --- | :-- |
 | :star: [Simple Counter](https://github.com/quicksc0p3r/simplecounter) | [F-Droid](https://f-droid.org/packages/org.quicksc0p3r.simplecounter/)
+| [Simple Time Tracker](https://github.com/Razeeman/Android-SimpleTimeTracker) | [F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker/)
 | [BetterCounter](https://github.com/albertvaka/bettercounter) | [F-Droid](https://f-droid.org/vi/packages/org.kde.bettercounter/) / [Privacy Policy](https://github.com/albertvaka/bettercounter/blob/main/PRIVACY.md)
 
 ### To-Do List
@@ -454,4 +466,4 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | [Tubular](https://github.com/polymorphicshade/Tubular) | [GitHub Releases](https://github.com/polymorphicshade/Tubular) / ~~F-Droid~~
 | [NewPipe](https://newpipe.net/) | [Source Code](https://github.com/TeamNewPipe/NewPipe) / [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 
-<!-- test - greenstash, loop, koduko, showly, simple time tracker, addiction tracker, days off to school tracker -->
+<!-- test - greenstash (need to make the finances section of software as the finance apps are pointed there) -->
