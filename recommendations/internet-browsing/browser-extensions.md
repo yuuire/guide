@@ -8,7 +8,7 @@ title: Browser Extensions
 
 | Provider | Privacy Settings | Additional Resources | Links
 | --- | :-- | :-- | :--
-| :star: [uBlock Origin](https://github.com/gorhill/uBlock#installation) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin.m"><div class="i-mdi-link text-xl"/></a> | [Recommended Filters](https://github.com/yokoffing/filterlists) / [URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced Tutorial (YouTube)](https://youtu.be/2lisQQmWQkY) / [Redudant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions#-dont-bother) | |
+| :star: [uBlock Origin](https://github.com/gorhill/uBlock#installation) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin.md"><div class="i-mdi-link text-xl"/></a> | [Recommended Filters](https://github.com/yokoffing/filterlists) / [URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced Tutorial (YouTube)](https://youtu.be/2lisQQmWQkY) / [Redudant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions#-dont-bother) | |
 | :star:&nbsp;[SponsorBlock](https://sponsor.ajay.app/) | | [Script](https://github.com/mchangrh/sb.js), [2](https://codeberg.org/mthsk/userscripts/src/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js) | |
 | :star:&nbsp;[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)
 | :star:&nbsp;[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/)
