@@ -133,9 +133,8 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | --- | :-- |
 | :star: [KDE Connect](https://kdeconnect.kde.org/) | [Source Code](https://github.com/KDE/kdeconnect-kde) / [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 | :star: [Flying Carpet](https://github.com/spieglt/FlyingCarpet) | [F-Droid](https://f-droid.org/packages/dev.spiegl.flyingcarpet/)
-| [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) | [GNOME](https://extensions.gnome.org/extension/1319/gsconnect/) / [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/gsconnect/)
-| [Zorin Connect](https://github.com/ZorinOS/zorin-connect-android) | [F-Droid](https://f-droid.org/packages/com.zorinos.zorin_connect/)
 | [Warpinator](https://github.com/slowscript/warpinator-android) | [F-Droid](https://f-droid.org/en/packages/slowscript.warpinator/) / [Privacy Policy](https://github.com/slowscript/warpinator-android/blob/master/PRIVACY_POLICY.md)
+| [Zorin Connect](https://github.com/ZorinOS/zorin-connect-android) | [F-Droid](https://f-droid.org/packages/com.zorinos.zorin_connect/)
 
 ### Dialer
 
@@ -155,7 +154,7 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | Provider | Links |
 | --- | :-- |
 | :star: [Myne](https://github.com/Pool-Of-Tears/Myne) | [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
-| :star: [KoReader](https://koreader.rocks/) | [Source Code](https://github.com/koreader/koreader) / [[F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
+| :star: [KoReader](https://koreader.rocks/) | [Source Code](https://github.com/koreader/koreader) / [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
 | [Openlib](https://github.com/dstark5/Openlib) | [F-Droid](https://f-droid.org/en/packages/com.app.openlib/)
 | [Librera Reader](https://librera.mobi/) | [Source Code](https://github.com/foobnix/LibreraReader) / [F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)
 | [Book's Story](https://github.com/Acclorite/book-story) | [GitHub Releases](https://github.com/Acclorite/book-story/releases) / ~~F-Droid~~
