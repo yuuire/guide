@@ -35,9 +35,9 @@ To open uBlock settings click the extension's icon on the toolbar and the gear i
 * Malware domains > Enable **all**
 * Multi-purpose > Enable **all**
 * Cookie notices > EasyList/uBo - Cookie Notices -> Enable **all**
-* Social widgets > Enable **EasyList – Social Widgets** and **Fanboy – Anti-Facebook** (According to personal preference)
-* Annoyances > Enable **EasyList – Annoyances** and **uBlock filters – Annoyances**
-* Regions, languages > Enable according to own preference
+* Social widgets > Enable **EasyList – Social Widgets** & **Fanboy – Anti-Facebook** (According to personal preference)
+* Annoyances > Enable **EasyList – Annoyances** & **uBlock filters – Annoyances**
+* Regions, languages > Enable according to your own preference
 
 # Import
 
