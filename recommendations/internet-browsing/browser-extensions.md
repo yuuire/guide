@@ -8,23 +8,25 @@ title: Browser Extensions
 
 | Provider | Privacy Settings | Additional Resources | Links
 | --- | :-- | :-- | :--
-| :star: [uBlock Origin](https://github.com/gorhill/uBlock#installation) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Extensions%20Settings/uBlock-Origin.md"><div class="i-mdi-link text-xl"/></a> | [Recommended Filters](https://github.com/yokoffing/filterlists) / [URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced Tutorial (YouTube)](https://youtu.be/2lisQQmWQkY) / [Redudant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions#-dont-bother) | |
-| :star:&nbsp;[SponsorBlock](https://sponsor.ajay.app/) | | [Script](https://github.com/mchangrh/sb.js), [2](https://codeberg.org/mthsk/userscripts/src/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js) | |
-| :star:&nbsp;[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)
-| :star:&nbsp;[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/)
-| [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)
-| [PopUpOFF](https://popupoff.org/) | [Source Code](https://github.com/RomanistHere/PopUpOFF)
+| :star: [uBlock Origin](https://github.com/gorhill/uBlock) | <a href="https://guide.yuuire.com/privacy-settings/extensions/ublock-origin"><div class="i-mdi-link text-xl"/></a> | [Recommended Filters](https://github.com/yokoffing/filterlists) / [Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) / [Advanced Tutorial (YouTube)](https://youtu.be/2lisQQmWQkY) / [Redudant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions#-dont-bother) | [Privacy Policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy) |
+| :star:&nbsp;[SponsorBlock](https://sponsor.ajay.app/) | |  [3rd Party Implementations](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports) / [Script](https://github.com/mchangrh/sb.js), [2](https://codeberg.org/mthsk/userscripts/src/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js) | [Source Code](https://github.com/ajayyy/SponsorBlock) / [Privacy Policy](https://gist.github.com/ajayyy/aa9f8ded2b573d4f73a3ffa0ef74f796) |
+| :star:&nbsp;[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) | [Tested Sites](https://github.com/NicolaeNMV/BehindTheOverlay/blob/master/WORKS_ON.md) | |
+| :star:&nbsp;[CanvasBlocker](https://canvasblocker.kkapsner.de/) | | [Fingerprinting Tests](https://canvasblocker.kkapsner.de/test/) / [Beta](https://canvasblocker.kkapsner.de/versions/) | [Source Code](https://github.com/kkapsner/CanvasBlocker) |
+| [AdGuard](https://adguard.com/en/) | | [Beta](https://canvasblocker.kkapsner.de/versions/) | [Source Code](https://github.com/AdguardTeam/AdguardBrowserExtension) / [Privacy Policy](https://adguard.com/en/privacy.html) |
+| [Purple Adblock](https://github.com/arthurbolsoni/Purple-adblock) | | [Recommendations](https://github.com/arthurbolsoni/Purple-adblock?tab=readme-ov-file#recommendations) / [Userscript](https://raw.githubusercontent.com/arthurbolsoni/Purple-adblock/main/platform/tampermonkey/dist/purpleadblocker.user.js) | |
+| [PopUpOFF](https://popupoff.org/) | | | [Source Code](https://github.com/RomanistHere/PopUpOFF) / [Privacy Policy](https://popupoff.org/privacy-policy) |
 
 ### Adblock Tests
-* [Adblock Tester](https://adblock-tester.com/) or [Adblocker Test](https://d3ward.github.io/toolz/adblock.html)
+* [AdBlock Tester](https://adblock-tester.com/)
+* [Toolz](https://d3ward.github.io/toolz/adblock.html)
 
 ### Adblock Filters
 * :star: [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
 * :star: [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
-* :star: [FMHY Filterlist](https://github.com/WindowsAurora/FMHYFilterlist/#how-to-use)
+* :star: [FMHY Filterlist](https://github.com/WindowsAurora/FMHYFilterlist/)
 * [Test Filters](http://raymondhill.net/ublock/adbox.html)
 * [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt)
-* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#facebook)
+* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)
 * [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 * [webannoyances](https://github.com/yourduskquibbles/webannoyances)
 * [NoADS RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
@@ -47,7 +49,7 @@ title: Browser Extensions
 
 | Provider | Links |
 | --- | :-- |
-| :star: [LibRedirect](https://libredirect.github.io/) | [Source Code](https://github.com/libredirect/browser_extension)
+| :star: [LibRedirect](https://libredirect.github.io/) | [Source Code](https://github.com/libredirect/browser_extension) / [Privacy Policy](https://github.com/libredirect/browser_extension/blob/master/Privacy-Policy.md)
 | [Predirect](https://github.com/libreom/predirect)
 | [Privacy Redirector](https://greasyfork.org/en/scripts/436359-privacy-redirector) | [GitHub](https://github.com/dybdeskarphet/privacy-redirector)
 
@@ -55,15 +57,15 @@ title: Browser Extensions
 
 | Provider | Links |
 | --- | :-- |
-| :star: [ClearURLs](http://docs.clearurls.xyz/) | [Source Code](https://github.com/ClearURLs/Addon)
+| :star: [ClearURLs](http://docs.clearurls.xyz/) | [Source Code](https://github.com/ClearURLs/Addon) / [Privacy Policy](https://github.com/ClearURLs/Addon/blob/master/PRIVACY.md)
 | :star: [Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-| [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | [Installation](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies?tab=readme-ov-file#download--install)
+| [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | [Privacy Policy](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/blob/master/PRIVACY_POLICY.md) / [Warning :warning:](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/issues/10278)
 
 ## Userscript Managers
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Violentmonkey](https://violentmonkey.github.io/) | [Source Code](https://github.com/violentmonkey/violentmonkey)
+| :star: [Violentmonkey](https://violentmonkey.github.io/) | [Source Code](https://github.com/violentmonkey/violentmonkey) / [Privacy Policy](https://violentmonkey.github.io/privacy/)
 | [Greasemonkey](https://www.greasespot.net/) | [Source Code](https://github.com/greasemonkey/greasemonkey/)
 
 ### Userscripts
