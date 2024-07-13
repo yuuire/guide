@@ -406,7 +406,7 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | :star: [NOVA](https://github.com/nova-video-player/aos-AVP) | [F-Droid](https://f-droid.org/en/packages/org.courville.nova/) / [Privacy Policy](https://home.courville.org/nova_video_player-faq/privacy.html)
 | [Just (Video) Player](https://github.com/moneytoo/Player) | [F-Droid](https://f-droid.org/packages/com.brouken.player/)
 | [mpv-android](https://github.com/mpv-android/mpv-android) | [F-Droid](https://f-droid.org/en/packages/is.xyz.mpv/)
-| [VLC](https://www.videolan.org/vlc/) | [Source Code](https://github.com/videolan/vlc-android) / [F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/) / [Privacy Policy](https://www.videolan.org/privacy.html) / [Privacy Policy](https://www.videolan.org/vlc/privacy.html)
+| [VLC](https://www.videolan.org/vlc/) | [Source Code](https://github.com/videolan/vlc-android) / [F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/) / [Privacy Policy](https://www.videolan.org/vlc/privacy.html)
 
 ### Voice Recorder
 
