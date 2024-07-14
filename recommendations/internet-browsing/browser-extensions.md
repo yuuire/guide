@@ -36,14 +36,11 @@ title: Browser Extensions
 
 | Provider | Links |
 | --- | :-- |
-| :star: **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
-| :star: **[bypass.city](https://bypass.city/)** | [Userscript](https://bypass.city/how-to-install-userscript)
-| [FastForward](https://fastforward.team/) | [Source Code](https://github.com/FastForwardTeam/FastForward)
-| [AdsBypasser](https://adsbypasser.github.io/) | [Source Code](https://github.com/adsbypasser/adsbypasser)
-| [Bypass-Links](https://bypass-links.vercel.app) | [Source Code](https://github.com/amitsingh-007/bypass-links)
+| :star: **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** | [Supported Sites](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/src/branch/main/supported_sites.txt)
+| :star: **[bypass.city](https://bypass.city/)** | [Userscript](https://bypass.city/how-to-install-userscript) / [Supported Sites](https://bypass.city/supported) / [Privacy Policy](https://bypass.city/privacy-policy)
+| [FastForward](https://fastforward.team/) | [Source Code](https://github.com/FastForwardTeam/FastForward) / [Supported Sites](https://github.com/FastForwardTeam/FastForward/blob/main/docs/Bypassed.md) / [Privacy Policy](https://fastforward.team/privacy)
+| [Bypass-Links](https://bypass-links.vercel.app) | [Source Code](https://github.com/amitsingh-007/bypass-links) / [Supported Sites](https://github.com/amitsingh-007/bypass-links?tab=readme-ov-file#currently-supported-websites)
 | [TheBypasser](https://thebypasser.com/)
-| [UploadHEaven](https://greasyfork.org/en/scripts/442019)
-| [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170)
 
 ## Redirectors
 
@@ -51,7 +48,6 @@ title: Browser Extensions
 | --- | :-- |
 | :star: [LibRedirect](https://libredirect.github.io/) | [Source Code](https://github.com/libredirect/browser_extension) / [Privacy Policy](https://github.com/libredirect/browser_extension/blob/master/Privacy-Policy.md)
 | [Predirect](https://github.com/libreom/predirect)
-| [Privacy Redirector](https://greasyfork.org/en/scripts/436359-privacy-redirector) | [GitHub](https://github.com/dybdeskarphet/privacy-redirector)
 
 ## Privacy Extensions
 
@@ -74,11 +70,14 @@ title: Browser Extensions
 | --- | :-- |
 | :star: [AdsBypasser](https://adsbypasser.github.io/) | [Source Code](https://github.com/adsbypasser/adsbypasser) / [Settings](https://adsbypasser.github.io/configure.html)
 | :star: [Disable AMP](https://github.com/AdguardTeam/DisableAMP) | [Stable](https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.user.js) / [Beta](https://userscripts.adtidy.org/beta/disable-amp/1.0/disable-amp.user.js)
-| [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) | [Source Code](https://github.com/nokeya/direct-links-out)
-| [Remove web limits (re-modified)](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) | [Source Code](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified/code)
-| [Google Hit Hider by Domain](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) | [Source Code](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites/code)
-| [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent) | [Source Code](https://greasyfork.org/en/scripts/432050-anti-cookies-consent/code)
-| [Anti-Adblock Killer](https://openuserjs.org/scripts/reek/Anti-Adblock_Killer_Reek) | [Source Code](https://github.com/reek/anti-adblock-killer)
-| [Remove Google Click-tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking) | [Source Code](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking/code)
-| [Autoclear ChatGPT History](https://greasyfork.org/en/scripts/460805-autoclear-chatgpt-history) | [Source Code](https://github.com/adamlui/autoclear-chatgpt-history)
-| [Hide YouTube recommendations](https://raw.githubusercontent.com/artli/hide-youtube-recommendations/latestRelease/hide_youtube_recommendations.user.js) | [Source Code](https://github.com/artli/hide-youtube-recommendations)
+| [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) | [GitHub](https://github.com/nokeya/direct-links-out)
+| [Privacy Redirector](https://greasyfork.org/en/scripts/436359-privacy-redirector) | [GitHub](https://github.com/dybdeskarphet/privacy-redirector)
+| [Remove web limits (re-modified)](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified)
+| [Google Hit Hider by Domain](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+| [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent)
+| [Anti-Adblock Killer](https://openuserjs.org/scripts/reek/Anti-Adblock_Killer_Reek) | [GitHub](https://github.com/reek/anti-adblock-killer)
+| [Remove Google Click-tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking)
+| [Autoclear ChatGPT History](https://greasyfork.org/en/scripts/460805-autoclear-chatgpt-history) | [GitHub](https://github.com/adamlui/autoclear-chatgpt-history)
+| [Hide YouTube recommendations](https://raw.githubusercontent.com/artli/hide-youtube-recommendations/latestRelease/hide_youtube_recommendations.user.js) | [GitHub](https://github.com/artli/hide-youtube-recommendations)
+| [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170)
+| [UploadHEaven](https://greasyfork.org/en/scripts/442019)
