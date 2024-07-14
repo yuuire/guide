@@ -31,13 +31,9 @@ See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software
 ## Root Tools
 
 | Provider | Additional Resources | Links |
-| --- | :-- |
+| --- | :-- | :-- |
 | :star: [Magisk](https://github.com/topjohnwu/Magisk) | [Module Manager](https://github.com/DerGoogler/MMRL) / [Play Integrity Fix](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/), [Guide](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/page-177#post-89189572) / [Modules Repo](https://www.androidacy.com/magisk-modules-repository/) | [Documentation](https://topjohnwu.github.io/Magisk/)
 | :star: [TWRP](https://twrp.me/) | [Supported Devices](https://twrp.me/Devices/) / [Unoficial TWRP](https://unofficialtwrp.com/), [Supported Devices](https://unofficialtwrp.com/devices/), [Privacy Policy](https://unofficialtwrp.com/privacy-policy/)  | [Source Code](https://github.com/TeamWin) / [Documentation](https://twrp.me/FAQ/) / [Privacy Policy](https://twrp.me/terms/cookiepolicy.html)
 | [KernelSU](https://kernelsu.org/) | [Unoficially Supported Devices](https://kernelsu.org/guide/unofficially-support-devices.html) | [Source Code](https://github.com/tiann/KernelSU) / [Documentation](https://kernelsu.org/guide/what-is-kernelsu.html)
 | [Docker on Android](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)
 | [Adb & fastboot](https://developer.android.com/tools/releases/platform-tools) | [SDK Manager](https://developer.android.com/studio/intro/update#sdk-manager)
-
----
-
-More coming soon.
