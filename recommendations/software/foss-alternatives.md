@@ -62,6 +62,7 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | Provider | Links |
 | --- | :-- |
 | :star: [Neo Backup](https://github.com/NeoApplications/Neo-Backup) | [F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)
+| [DataBackup](https://databackupofficial.github.io/) | [Source Code](https://github.com/XayahSuSuSu/Android-DataBackup)<br/>[F-Droid](https://f-droid.org/zh_Hans/packages/com.xayah.databackup.foss/)
 
 ### App Store
 
@@ -149,7 +150,7 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | --- | :-- |
 | [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) | [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)<br/>[Privacy Policy](https://github.com/TachibanaGeneralLaboratories/download-navi/blob/master/PRIVACY.md)
 
-### E-book Reader
+### Reading
 
 | Provider | Links |
 | --- | :-- |
@@ -165,7 +166,7 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | :star: [FairEmail](https://email.faircode.eu/) | [Source Code](https://github.com/M66B/FairEmail)<br/>[F-Droid](https://f-droid.org/en/packages/eu.faircode.email/)<br/>[Privacy Policy](https://email.faircode.eu/privacy/)
 | [K-9 Mail](https://k9mail.app/) | [Source Code](https://github.com/thundernest/k-9)<br/>[F-Droid](https://f-droid.org/packages/com.fsck.k9/)<br/>[Privacy Policy](https://k9mail.app/privacy)
 
-### File Manager
+### Files
 
 | Provider | Links |
 | --- | :-- |
@@ -319,7 +320,7 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 | :star: [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) | [GitHub Releases](https://github.com/GrapheneOS/PdfViewer/releases)<br/>[Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 | [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)<br/>[Privacy Policy](https://gitlab.com/mudlej_android/mj_pdf_reader#permissions-and-privacy)
 
-### Podcast Player
+### Podcast & Radio
 
 | Provider | Links |
 | --- | :-- |
@@ -433,7 +434,7 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | --- | :-- |
 | [Kiwix](https://kiwix.org/en/) | [Source Code](https://github.com/kiwix/kiwix-android)<br/>[GitHub Releases](https://github.com/kiwix/kiwix-android/releases)<br/>[Privacy Policy](https://kiwix.org/en/privacy-policy/)
 
-### YouTube
+### YouTube Client
 
 | Provider | Links |
 | --- | :-- |
