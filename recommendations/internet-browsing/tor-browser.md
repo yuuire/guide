@@ -9,7 +9,7 @@ Tor is a freely accessible, decentralized network engineered to facilitate inter
 Operating on a principle of routing internet traffic via volunteer-operated servers, Tor diverges from the conventional method of establishing a direct link to the desired website. This redirection conceals the origin of the traffic, ensuring that none of the servers involved in the transmission possess knowledge of the entire journey of the traffic. Consequently, the servers facilitating the connection are incapable of compromising the user's anonymity.
 
 ## Official Links
-- [Homepage](https://torproject.org/) / [Download Tor Browser](https://www.torproject.org/download/)
+- [Homepage](https://torproject.org/)<br/>[Download Tor Browser](https://www.torproject.org/download/)
 - [Onion website](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/)
 - [Documentation](https://tb-manual.torproject.org/)
 - [Source Code](https://gitlab.torproject.org/tpo/core/tor)

@@ -14,10 +14,10 @@ title: Linux
 
 | Provider | [Difficulty](https://i.ibb.co/kXJdBrF/98e87fc317dd.png) |
 | --- | :-- |
-| :star: [Arch Linux](https://archlinux.org/) | Hard mode
-| :star: [Zorin OS](https://zorin.com/os/) | Beginner-friendly
-| [Fedora](https://fedoraproject.org/workstation) | Intermediate
-| [openSUSE](https://get.opensuse.org/desktop/) | Intermediate
+| :heart: [Arch Linux](https://archlinux.org/) | Hard mode
+| :heart: [Zorin OS](https://zorin.com/os/) | Beginner-friendly
+| :heart: [Fedora](https://fedoraproject.org/workstation) | Intermediate
+| :heart: [openSUSE](https://get.opensuse.org/desktop/) | Intermediate
 
 ### Security-focused
 
@@ -42,7 +42,7 @@ title: Linux
 | Provider |
 | --- |
 | :star: [HowToLinux](https://howtolinux.vercel.app) |
-| [Archwiki](https://wiki.archlinux.org/) / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py) |
+| [Archwiki](https://wiki.archlinux.org/)<br/>[Manuals](https://man.archlinux.org/)<br/>[TUI](https://codeberg.org/theooo/mantra.py) |
 | [InstallGentoo](https://wiki.installgentoo.com/) |
 | [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) |
 | [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) |

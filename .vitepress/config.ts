@@ -118,6 +118,13 @@ const Recommendations: DefaultTheme.NavItemWithLink[] = [
   },
 ]
 
+const ExtensionSettings: DefaultTheme.NavItemWithLink[] = [
+  {
+    text: 'uBlock Origin',
+    link: '/privacy-settings/extensions/ublock-origin',
+  },
+]
+
 const PrivacySettings: DefaultTheme.NavItemWithLink[] = [
   {
     text: 'Mobile',
@@ -164,6 +171,10 @@ const Nav: DefaultTheme.NavItem[] = [
       {
         text: 'Information',
         link: '/privacy-settings/',
+      },
+      {
+        text: 'Extensions',
+        items: ExtensionSettings,
       },
       {
         text: 'Privacy Settings',

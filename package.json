@@ -2,7 +2,7 @@
   "name": "guide",
   "type": "module",
   "author": "yuuire",
-  "version": "10.07.24",
+  "version": "15.07.24",
   "private": true,
   "scripts": {
     "docs:dev": "vitepress dev",
