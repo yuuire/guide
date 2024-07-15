@@ -43,7 +43,7 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | Provider | Links |
 | --- | :-- |
 | :star: [Chrono](https://github.com/vicolo-dev/chrono) | [F-Droid](https://f-droid.org/packages/com.vicolo.chrono/)
-| :star: [Clock](https://github.com/BlackyHawky/Clock) | [F-Droid](https://f-droid.org/en/packages/com.best.deskclock/)
+| [Clock](https://github.com/BlackyHawky/Clock) | [F-Droid](https://f-droid.org/en/packages/com.best.deskclock/)
 | [Clock You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/ClockYou) / [F-Droid](https://f-droid.org/packages/com.bnyro.clock/)
 | [Fossify Clock](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Clock) / [F-Droid](https://f-droid.org/en/packages/org.fossify.clock/)
 
@@ -52,7 +52,7 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | Provider | Links |
 | --- | :-- |
 | :star: [Mihon](https://mihon.app/) | [Source Code](https://github.com/mihonapp/mihon) / [GitHub Releases](https://github.com/mihonapp/mihon/releases) / [Privacy Policy](https://mihon.app/privacy/) / ~~F-Droid~~
-| :star: [Kotatsu](https://kotatsu.app/) | [Source Code](https://github.com/KotatsuApp/Kotatsu) / [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/) / [Privacy Policy](https://kotatsu.app/privacy/)
+| [Kotatsu](https://kotatsu.app/) | [Source Code](https://github.com/KotatsuApp/Kotatsu) / [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/) / [Privacy Policy](https://kotatsu.app/privacy/)
 | [Aniyomi](https://aniyomi.jmir.xyz/) | [Source Code](https://github.com/jmir1/aniyomi) / [Privacy Policy](https://aniyomi.org/privacy/) / ~~F-Droid~~
 
 ### App Backup
@@ -60,6 +60,7 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | Provider | Links |
 | --- | :-- |
 | :star: [Neo Backup](https://github.com/NeoApplications/Neo-Backup) | [F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)
+| [DataBackup](https://databackupofficial.github.io/) | [Source Code](https://github.com/XayahSuSuSu/Android-DataBackup) / [F-Droid](https://f-droid.org/zh_Hans/packages/com.xayah.databackup.foss/)
 
 ### App Store
 
@@ -67,7 +68,7 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | --- | :-- |
 | :star: [Droid-ify](https://github.com/Iamlooker/Droid-ify) | [F-Droid](https://f-droid.org/packages/com.looker.droidify)
 | :star: [F-Droid](https://f-droid.org/) | [Source Code](https://gitlab.com/fdroid/fdroidclient) / [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
-| :star: [Aurora Store](https://auroraoss.com/) | [Source Code](https://gitlab.com/AuroraOSS/AuroraStore) / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/) / [Privacy Policy](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/POLICY.md)
+| [Aurora Store](https://auroraoss.com/) | [Source Code](https://gitlab.com/AuroraOSS/AuroraStore) / [F-Droid](https://f-droid.org/en/packages/com.aurora.store/) / [Privacy Policy](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/POLICY.md)
 | [Obtainium](https://github.com/ImranR98/Obtainium) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
 | [Accrescent](https://accrescent.app/) | [Source Code](https://github.com/accrescent/accrescent) / [GitHub Releases](https://github.com/accrescent/accrescent/releases) / ~~F-Droid~~
 
@@ -95,8 +96,8 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 | Provider | Links |
 | --- | :-- |
 | :star: [OpenCalc](https://github.com/Darkempire78/OpenCalc) | [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+| [yetCalc](https://github.com/Yet-Zio/yetCalc) | [F-Droid](https://f-droid.org/packages/yetzio.yetcalc/)
 | [Calc You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/CalcYou) / [F-Droid](https://f-droid.org/en/packages/net.youapps.calcyou/)
-| [CuteCalc](https://github.com/sosauce/CuteCalc) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sosauce.cutecalc)
 
 ### Calendar
 
@@ -130,7 +131,7 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | Provider | Links |
 | --- | :-- |
 | :star: [KDE Connect](https://kdeconnect.kde.org/) | [Source Code](https://github.com/KDE/kdeconnect-kde) / [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
-| :star: [Flying Carpet](https://github.com/spieglt/FlyingCarpet) | [F-Droid](https://f-droid.org/packages/dev.spiegl.flyingcarpet/)
+| [Flying Carpet](https://github.com/spieglt/FlyingCarpet) | [F-Droid](https://f-droid.org/packages/dev.spiegl.flyingcarpet/)
 | [Warpinator](https://github.com/slowscript/warpinator-android) | [F-Droid](https://f-droid.org/en/packages/slowscript.warpinator/) / [Privacy Policy](https://github.com/slowscript/warpinator-android/blob/master/PRIVACY_POLICY.md)
 | [Zorin Connect](https://github.com/ZorinOS/zorin-connect-android) | [F-Droid](https://f-droid.org/packages/com.zorinos.zorin_connect/)
 
@@ -145,15 +146,16 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 
 | Provider | Links |
 | --- | :-- |
+| :star: [Aria2App](https://github.com/devgianlu/Aria2App) | [F-Droid](https://f-droid.org/packages/com.gianlu.aria2app/)
 | [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) | [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/) / [Privacy Policy](https://github.com/TachibanaGeneralLaboratories/download-navi/blob/master/PRIVACY.md)
 
-### E-book Reader
+### Reading
 
 | Provider | Links |
 | --- | :-- |
 | :star: [Myne](https://pooloftears.in/#myne) | [Source Code](https://github.com/Pool-Of-Tears/Myne) / [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
-| :star: [KoReader](https://koreader.rocks/) | [Source Code](https://github.com/koreader/koreader) / [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
-| [Openlib](https://github.com/dstark5/Openlib) | [F-Droid](https://f-droid.org/en/packages/com.app.openlib/)
+| :star: [Openlib](https://github.com/dstark5/Openlib) | [F-Droid](https://f-droid.org/en/packages/com.app.openlib/)
+| [LNReader](https://lnreader.github.io/) | [Source Code](https://github.com/LNReader/lnreader) / [GitHub Releases](https://github.com/LNReader/lnreader/releases) / ~~F-Droid~~
 | [Librera Reader](https://librera.mobi/) | [Source Code](https://github.com/foobnix/LibreraReader) / [F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)
 
 ### Email
@@ -162,21 +164,23 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | --- | :-- |
 | :star: [FairEmail](https://email.faircode.eu/) | [Source Code](https://github.com/M66B/FairEmail) / [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/) / [Privacy Policy](https://email.faircode.eu/privacy/)
 | [K-9 Mail](https://k9mail.app/) | [Source Code](https://github.com/thundernest/k-9) / [F-Droid](https://f-droid.org/packages/com.fsck.k9/) / [Privacy Policy](https://k9mail.app/privacy)
+| [You Have Mail](https://github.com/LeanderBB/you-have-mail) | [F-Droid](https://f-droid.org/packages/dev.lbeernaert.youhavemail/)
 
-### File Manager
+### Files
 
 | Provider | Links |
 | --- | :-- |
 | :star: [Material Files](https://github.com/zhanghai/MaterialFiles) | [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files) / [Privacy Policy](https://github.com/zhanghai/MaterialFiles/blob/master/PRIVACY.md)
-| :star: [Amaze](https://teamamaze.xyz/) | [Source Code](https://github.com/TeamAmaze/AmazeFileManager) / [F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/)
-| [Fossify File Manager](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/File-Manager) / [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)
+| [Amaze](https://teamamaze.xyz/) | [Source Code](https://github.com/TeamAmaze/AmazeFileManager) / [F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/)
+| [SD Maid](https://github.com/d4rken-org/sdmaid-se) | [F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/) / [Privacy Policy](https://github.com/d4rken-org/sdmaid-se/blob/main/PRIVACY_POLICY.md)
 
 ### File Synchronization
 
 | Provider | Links |
 | --- | :-- |
 | :star: [Syncthing](https://syncthing.net/) | [Source Code](https://github.com/syncthing/syncthing-android) / [F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)
-| :star: [Snapdrop](https://snapdrop.net/) | [Source Code](https://github.com/fm-sys/snapdrop-android) / [F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
+| [LocalSend](https://localsend.org/) | [Source Code](https://github.com/localsend/localsend) / [F-Droid](https://f-droid.org/packages/org.localsend.localsend_app/) / [Privacy Policy](https://localsend.org/privacy)
+| [Snapdrop](https://snapdrop.net/) | [Source Code](https://github.com/fm-sys/snapdrop-android) / [F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
 
 ### Finances
 
@@ -188,6 +192,7 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | --- | :-- |
 | :star: [AFWall+](https://github.com/ukanth/afwall/) | [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
 | [NetGuard](https://netguard.me/) | [Source Code](https://github.com/M66B/NetGuard) / [F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)
+| [Karma](https://www.stargw.net/android/karma/) | [Source Code](https://github.com/StarGW-net/karma-firewall) / [F-Droid](https://f-droid.org/en/packages/net.stargw.fok/)
 
 ### Flash Cards
 
@@ -206,9 +211,9 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Ente Photos](https://ente.io/) | [Source Code](https://github.com/ente-io/ente) / [F-Droid](https://f-droid.org/packages/io.ente.photos.fdroid/) / [Privacy Policy](https://ente.io/privacy)
 | :star: [Gallery](https://github.com/IacobIonut01/Gallery) | [F-Droid](https://f-droid.org/packages/com.dot.gallery/)
-| [Aves](https://github.com/deckerst/aves) | [F-Droid](https://f-droid.org/en/packages/deckers.thibault.aves.libre/)
+| :star: [Aves](https://github.com/deckerst/aves) | [F-Droid](https://f-droid.org/en/packages/deckers.thibault.aves.libre/)
+| [Ente Photos](https://ente.io/) | [Source Code](https://github.com/ente-io/ente) / [F-Droid](https://f-droid.org/packages/io.ente.photos.fdroid/) / [Privacy Policy](https://ente.io/privacy)
 | [Fossify Gallery](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Gallery) / [F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)
 
 ### Health
@@ -227,15 +232,17 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | Provider | Links |
 | --- | :-- |
 | :star: [Image Toolbox](https://github.com/T8RIN/ImageToolbox) | [F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker/)
-| [Open Video Editor](https://github.com/devhyper/open-video-editor) | [F-Droid](https://f-droid.org/en/packages/io.github.devhyper.openvideoeditor/) / [Privacy Policy](https://github.com/devhyper/open-video-editor/blob/master/PRIVACY_POLICY.md)
+| :star: [Open Video Editor](https://github.com/devhyper/open-video-editor) | [F-Droid](https://f-droid.org/en/packages/io.github.devhyper.openvideoeditor/) / [Privacy Policy](https://github.com/devhyper/open-video-editor/blob/master/PRIVACY_POLICY.md)
+| [Easy Watermark](https://github.com/rosuH/EasyWatermark) | [F-Droid](https://f-droid.org/packages/me.rosuh.easywatermark/) / [Privacy Policy](https://github.com/rosuH/EasyWatermark/blob/master/PrivacyPolicy.md)
+| [FFShare](https://github.com/caydey/ffshare) | [F-Droid](https://f-droid.org/packages/com.caydey.ffshare/)
 
 ### Keyboard
 
 | Provider | Links |
 | --- | :-- |
 | :star: [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
-| :star: [HeliBoard](https://github.com/Helium314/HeliBoard) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 | :star: [FUTO](https://keyboard.futo.org/) | [Source Code](https://github.com/futo-org/android-keyboard) / [GitHub Releases](https://github.com/futo-org/android-keyboard/releases) / [F-Droid Repo](https://app.futo.org/fdroid/repo/) / [Voice Input](https://keyboard.futo.org/voice-input-models) / [Privacy Policy](https://keyboard.futo.org/privacy)
+| [HeliBoard](https://github.com/Helium314/HeliBoard) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 | [Simple Keyboard](https://github.com/rkkr/simple-keyboard) | [F-Droid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
 
 ### Launcher
@@ -245,6 +252,7 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | :star: [Kvaesitso](https://kvaesitso.mm20.de/) | [Source Code](https://github.com/MM2-0/Kvaesitso) / [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/) / [Privacy Policy](https://kvaesitso.mm20.de/privacy-policy.html)
 | :star: [Lawnchair](https://lawnchair.app/) | [Source Code](https://github.com/LawnchairLauncher/lawnchair) / [GitHub Releases](https://github.com/LawnchairLauncher/lawnchair/releases) / [Privacy Policy](https://lawnchair.app/privacy_policy/) / ~~F-Droid~~
 | [KISS](https://kisslauncher.com/) | [Source Code](https://github.com/Neamar/KISS) / [F-Droid](https://f-droid.org/en/packages/fr.neamar.kiss/) / [Privacy Policy](https://open.spotify.com/track/6Ol4xbN1uvwK3YoEdQAr49?si=d9c8ee41f58d43e5)
+| [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) | [Installation](https://github.com/saitamasahil/Pixel-Launcher-Extended?tab=readme-ov-file#installation)
 | [mLauncher](https://github.com/DroidWorksStudio/mLauncher) | [F-Droid](https://f-droid.org/en/packages/app.mlauncher/)
 
 ### Loyalty Card
@@ -267,6 +275,7 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | Provider | Links |
 | --- | :-- |
 | :star: [Audile](https://github.com/aleksey-saenko/MusicRecognizer) | [F-Droid](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/) / [Privacy Policy](https://github.com/aleksey-saenko/MusicRecognizer/blob/master/PRIVACY.md)
+| [Audire](https://github.com/alexmercerind/audire) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.alexmercerind.audire)
 | [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) | [GitHub Releases](https://github.com/KieronQuinn/AmbientMusicMod/releases) / ~~F-Droid~~
 
 ### Music Player
@@ -305,6 +314,7 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | Provider | Links |
 | --- | :-- |
 | :star: [App Manager](https://muntashirakon.github.io/AppManager/) | [Source Code](https://github.com/MuntashirAkon/AppManager) / [F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/) / [Privacy Policy](https://github.com/MuntashirAkon/AppManager/blob/master/PRIVACY_POLICY.rst)
+| [Package Manager](https://smartpack.github.io/PackageManager/) | [Source Code](https://github.com/SmartPack/PackageManager) / [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager/) / [Privacy Policy](https://smartpack.github.io/PackageManager/privacy-policy/)
 
 ### Password Manager
 
@@ -317,11 +327,13 @@ See [Recommendations -> Software -> Password Managers](/recommendations/software
 | :star: [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) | [GitHub Releases](https://github.com/GrapheneOS/PdfViewer/releases) / [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play) / ~~F-Droid~~
 | [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) / [Privacy Policy](https://gitlab.com/mudlej_android/mj_pdf_reader#permissions-and-privacy)
 
-### Podcast Player
+### Podcast & Radio
 
 | Provider | Links |
 | --- | :-- |
 | :star: [AntennaPod](https://antennapod.org/) | [Source Code](https://github.com/AntennaPod/AntennaPod) / [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/) / [Privacy Policy](https://antennapod.org/privacy/)
+| [Escapepod](https://codeberg.org/y20k/escapepod) | [F-Droid](https://f-droid.org/packages/org.y20k.escapepod)
+| [RadioDroid](https://github.com/segler-alex/RadioDroid) | [F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/) / [Privacy Policy](https://github.com/segler-alex/RadioDroid/blob/master/PrivacyPolicy.md)
 | [Podverse](https://podverse.fm/) | [Source Code](https://github.com/podverse/podverse-fdroid) / [F-Droid](https://f-droid.org/packages/com.podverse.fdroid/) / [Privacy Policy](https://podverse.fm/terms)
 
 ### Real-Time Communication
@@ -363,7 +375,6 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | Provider | Links |
 | --- | :-- |
 | :star: [Tasks.org](https://tasks.org/) | [Source Code](https://github.com/tasks/tasks) / [F-Droid](https://f-droid.org/en/packages/org.tasks/) / [Privacy Policy](https://tasks.org/docs/privacy)
-| :star: [My Brain](https://github.com/mhss1/MyBrain) | [F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain/) / [Privacy Policy](https://github.com/mhss1/MyBrain/blob/master/privacy-policy.md)
 | [ToDark](https://github.com/DarkMooNight/ToDark) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
 | [Todopad](https://github.com/TheAlphaApp/flutter_riverpod_todo_app) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.flutter_riverpod_todo_app)
 
@@ -431,12 +442,14 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | --- | :-- |
 | [Kiwix](https://kiwix.org/en/) | [Source Code](https://github.com/kiwix/kiwix-android) / [GitHub Releases](https://github.com/kiwix/kiwix-android/releases) / [Privacy Policy](https://kiwix.org/en/privacy-policy/) / ~~F-Droid~~
 
-### YouTube
+### YouTube Client
 
 | Provider | Links |
 | --- | :-- |
 | :star: [LibreTube](https://libre-tube.github.io/) | [Source Code](https://github.com/libre-tube/LibreTube) / [F-Droid](https://f-droid.org/en/packages/com.github.libretube/) / [Privacy Policy](https://github.com/libre-tube/LibreTube/blob/master/PRIVACY_POLICY.md)
+| :star: [FreeTube](https://freetubeapp.io/) | [Source Code](https://github.com/MarmadileManteater/FreeTubeAndroid) / [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.freetubeapp.freetube)
 | [Tubular](https://github.com/polymorphicshade/Tubular) | [GitHub Releases](https://github.com/polymorphicshade/Tubular) / ~~F-Droid~~
 | [NewPipe](https://newpipe.net/) | [Source Code](https://github.com/TeamNewPipe/NewPipe) / [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/) / [Privacy Policy](https://newpipe.net/legal/privacy/)
+| [Clipious](https://github.com/lamarios/clipious) | [F-Droid](https://f-droid.org/packages/com.github.lamarios.clipious/)
 
 <!-- test - greenstash (need to make the finances section of software as the finance apps are pointed there) -->
