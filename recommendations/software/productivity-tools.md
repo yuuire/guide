@@ -30,9 +30,9 @@ Looking for something else? Check out [this project](https://productiveprivacy.c
 
 | Provider | Links | Resources
 | --- | :-- | :-- |
-| :star: [CryptPad](https://cryptpad.fr/) | [Source Code](https://github.com/xwiki-labs/cryptpad)<br/>[Privacy Policy](https://cryptpad.fr/pad/#/2/pad/view/GcNjAWmK6YDB3EO2IipRZ0fUe89j43Ryqeb4fjkjehE)<br/>[Self-Hosting](https://docs.cryptpad.org/en/admin_guide/) | [Documentation](https://docs.cryptpad.org/)
-| [Nextcloud](https://nextcloud.com/) | [Source Code](https://github.com/nextcloud)<br/>[Privacy Policy](https://nextcloud.com/privacy)<br/>[Self-Hosting](https://docs.nextcloud.com/server/latest/admin_manual/installation/) | [Documentation](https://nextcloud.com/support/)
-| [Etherpad](https://etherpad.org/) | [Source Code](https://github.com/ether/etherpad-lite)<br/>[Public Instances](https://github.com/ether/etherpad-lite/wiki/Sites-That-Run-Etherpad#sites-that-run-etherpad)<br/>[Self-Hosting](https://github.com/ether/etherpad-lite?tab=readme-ov-file#installation) | [Documentation](https://docs.etherpad.org/)
+| :star: [CryptPad](https://cryptpad.fr/) | [Source Code](https://github.com/xwiki-labs/cryptpad)<br/>[Privacy Policy](https://cryptpad.fr/pad/#/2/pad/view/GcNjAWmK6YDB3EO2IipRZ0fUe89j43Ryqeb4fjkjehE)<br/>[Self-Hosting](https://docs.cryptpad.org/en/admin_guide/)
+| [Nextcloud](https://nextcloud.com/) | [Source Code](https://github.com/nextcloud)<br/>[Privacy Policy](https://nextcloud.com/privacy)<br/>[Self-Hosting](https://docs.nextcloud.com/server/latest/admin_manual/installation/)
+| [Etherpad](https://etherpad.org/) | [Source Code](https://github.com/ether/etherpad-lite)<br/>[Public Instances](https://github.com/ether/etherpad-lite/wiki/Sites-That-Run-Etherpad#sites-that-run-etherpad)<br/>[Self-Hosting](https://github.com/ether/etherpad-lite?tab=readme-ov-file#installation)
 
 ## Communities
 | Provider |
