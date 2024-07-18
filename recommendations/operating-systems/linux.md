@@ -10,22 +10,23 @@ title: Linux
 
 [This test](https://distrochooser.de/) will help you choose a suitable Linux distribution.
 
-#### Author recommends
+### Recommended Distributions
 
-| Provider | [Difficulty](https://i.ibb.co/kXJdBrF/98e87fc317dd.png) |
+| Provider | Links |
 | --- | :-- |
-| :heart: [Arch Linux](https://archlinux.org/) | Hard mode
-| :heart: [Zorin OS](https://zorin.com/os/) | Beginner-friendly
-| :heart: [Fedora](https://fedoraproject.org/workstation) | Intermediate
-| :heart: [openSUSE](https://get.opensuse.org/desktop/) | Intermediate
+| [Arch Linux](https://archlinux.org/) | [Source Code](https://gitlab.archlinux.org/archlinux)<br/>[Privacy Policy](https://terms.archlinux.org/docs/privacy-policy/)<br/>[Documentation](https://wiki.archlinux.org/)
+| [Zorin OS](https://zorin.com/os/) | [Source Code](https://github.com/ZorinOS)<br/>[Privacy Policy](https://zorin.com/legal/privacy/)<br/>[Documentation](https://help.zorin.com/)
+| [Fedora](https://fedoraproject.org/workstation) | [Source Code](https://gitlab.com/fedora)<br/>[Privacy Policy](https://docs.fedoraproject.org/en-US/legal/privacy/)<br/>[Documentation](https://docs.fedoraproject.org/en-US/docs/)
+| [openSUSE](https://get.opensuse.org/desktop/) | [Source Code](https://github.com/openSUSE)<br/>[Privacy Policy](https://en.opensuse.org/Terms_of_site#Privacy_policy)<br/>[Documentation](https://doc.opensuse.org/)
 
-### Security-focused
+### Security-focused distributions
 
-| Provider |
-| --- |
-| :star: [Tails](https://tails.net/) |
-| [Whonix](https://whonix.org/) |
-| [Qubes OS](https://qubes-os.org/) |
+| Provider | Links |
+| --- | :-- |
+| :star: [Tails](https://tails.net/) | [Source Code](https://gitlab.tails.boum.org/tails/tails)<br/>[Documentation](https://tails.net/doc/)
+| [Whonix](https://whonix.org/) | [Source Code](https://github.com/Whonix)<br/>[Privacy Policy](https://www.whonix.org/wiki/Privacy_Policy)<br/>[Documentation](https://www.whonix.org/wiki/Documentation)
+| [Qubes OS](https://qubes-os.org/) | [Source Code](https://github.com/QubesOS)<br/>[Privacy Policy](https://www.qubes-os.org/privacy/)<br/>[Documentation](https://www.qubes-os.org/doc/)
+| [Parrot Security](https://www.parrotsec.org/) | [Source Code](https://github.com/ParrotSec)<br/>[Privacy Policy](https://www.parrotsec.org/privacy/)<br/>[Documentation](https://www.parrotsec.org/docs/)
 
 ## Communities
 
