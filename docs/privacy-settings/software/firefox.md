@@ -90,3 +90,60 @@ To open Firefox settings click the humburger menu in the top right corner and th
 
 See [Recommendations -> Internet Browsing -> Browser Extensions](https://guide.yuuire.com/recommendations/internet-browsing/browser-extensions).
 
+# Firefox Mobile Settings
+
+## Search
+
+### Search engines
+
+* Choose any [privacy respecting search engine](https://guide.yuuire.com/recommendations/internet-browsing/search-engines)
+
+### Suggestions from search engines
+
+* Show search suggestions: **Off**
+
+### Address bar preferences
+
+* Show clipboard suggestions: **Off**
+* Autocomplete URLs: **Off**
+
+## Homepage
+
+* Shortcuts -> Sponsored shortcuts: **Off**
+
+## Passwords
+
+* Save passwords: **Never save** (Use a [password manager](https://guide.yuuire.com/recommendations/software/password-managers))
+* Autofill in Firefox: **Off**
+
+## Payment methods
+
+* Save and fill payment methods: **Off**
+
+## Private browsing
+
+* Allow screenshots in private browsing: **Off**
+
+## HTTPS-Only Mode
+
+* HTTPS-Only Mode: **On**
+	* Turn on: **Enable in all tabs**
+
+## Enhanced tracking protection
+
+* Turn on: **Strict**
+* Tell web sites not to share & sell my data: **On**
+
+## Site permissions
+
+* Cross-site cookies: **Blocked**
+
+## Data collection
+
+* Usage and technical data: **Off**
+* Marketing data: **Off**
+* Studies: **Off**
+
+## Extensions
+
+See [Recommended -> Internet Browsing -> Browser Extensions](https://guide.yuuire.com/recommendations/internet-browsing/browser-extensions)
