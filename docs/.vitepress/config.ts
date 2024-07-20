@@ -140,6 +140,10 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
   const ExtensionsSettings: DefaultTheme.NavItemWithLink[] = [
     { text: 'uBlock Origin', link: '/privacy-settings/extensions/ublock-origin' },
   ]
+
+  const SoftwareSettings: DefaultTheme.NavItemWithLink[] = [
+    { text: 'Firefox', link: '/privacy-settings/software/firefox' },
+  ]
   
   const SidebarSettings: DefaultTheme.SidebarItem[] = [
     {
@@ -153,6 +157,10 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
     {
       text: 'Extensions',
       items: ExtensionsSettings,
+    },
+    {
+      text: 'Software',
+      items: SoftwareSettings,
     },
     {
       text: 'Mobile',
