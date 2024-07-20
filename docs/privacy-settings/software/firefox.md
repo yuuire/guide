@@ -6,7 +6,7 @@ title: Firefox Settings
 
 # Firefox Desktop Settings
 
-To open Firefox settings click the humburger menu in the top right corner anbd then on the settings tab.
+To open Firefox settings click the humburger menu in the top right corner and then click on the settings tab.
 
 ## General
 
@@ -40,10 +40,11 @@ To open Firefox settings click the humburger menu in the top right corner anbd t
 ### Web Site Privacy Preferences
 
 * Tell web sites not to sell or share my data: **On**
+* Send web sites a “Do Not Track” request: **Off**
 
 ### Passwords
 
-* Ask to save passwords: **Off** (Use a [password manager](https://guide.yuuire.com/recommendations/software/password-managers)
+* Ask to save passwords: **Off** (Use a [password manager](https://guide.yuuire.com/recommendations/software/password-managers))
 * Allow Windows single sign-on for Microsoft, work, and school accounts: **Off**
 
 ### Autofill
