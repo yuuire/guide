@@ -1,0 +1,1 @@
+<a href="https://guide.yuuire.com/">![COVER](/docs/public/og.png)</a>
