@@ -29,15 +29,15 @@ To open uBlock settings click the extension's icon on the toolbar and the gear i
 
 ### Filters
 
-* Built in > uBlock Filters > Enable **all**
-* Ads > Enable **EasyList** & **Adguard - Ads**
-* Privacy > Enable **all**
-* Malware domains > Enable **all**
-* Multi-purpose > Enable **all**
-* Cookie notices > EasyList/uBo - Cookie Notices -> Enable **all**
-* Social widgets > Enable **EasyList – Social Widgets** & **Fanboy – Anti-Facebook** (According to personal preference)
-* Annoyances > Enable **EasyList – Annoyances** & **uBlock filters – Annoyances**
-* Regions, languages > Enable according to your own preference
+* Built in -> uBlock Filters -> Enable **all**
+* Ads -> Enable **EasyList** & **Adguard - Ads**
+* Privacy -> Enable **all**
+* Malware domains -> Enable **all**
+* Multi-purpose -> Enable **all**
+* Cookie notices -> EasyList/uBo - Cookie Notices -> Enable **all**
+* Social widgets -> Enable **EasyList – Social Widgets** & **Fanboy – Anti-Facebook** (According to personal preference)
+* Annoyances -> Enable **EasyList – Annoyances** & **uBlock filters – Annoyances**
+* Regions, languages -> Enable according to your own preference
 
 ### Import
 
