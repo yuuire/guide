@@ -132,8 +132,18 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
     },
   ]
   
-  const DeviceSettings: DefaultTheme.NavItemWithLink[] = [
+  const DeviceSettings: DefaultTheme.SidebarItem[] = [
     { text: 'Android', link: '/privacy-settings/devices/android.md' },
+    { text: 'Windows', link: '/privacy-settings/devices/windows', collapsed: false, items: [
+      {
+        text: "11",
+        link: "/privacy-settings/devices/windows/11"
+      },
+      {
+        text: "10",
+        link: "/privacy-settings/devices/windows/10"
+      }
+    ] },
     { text: 'iOS', link: '/privacy-settings/devices/ios.md' },
   ]
   
