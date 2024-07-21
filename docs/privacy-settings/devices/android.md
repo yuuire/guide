@@ -59,7 +59,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 * Sensitive notifications: **Off**
 * Suggested actions and replies: **Off**
 
-## Notification history
+### Notification history
 
 * Use notification history: **Off**
 
@@ -105,7 +105,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ### Autofill service from Google
 
-* Use autofill with Google: **Off** (Use a [privacy respecting password manager](https://guide.yuuire.com/recommendations/software/password-managers)
+* Use autofill with Google: **Off** (Use a [privacy respecting password manager](https://guide.yuuire.com/recommendations/software/password-managers))
 
 ### Activity controls
 
