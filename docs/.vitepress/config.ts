@@ -141,9 +141,28 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
     { text: 'uBlock Origin', link: '/privacy-settings/extensions/ublock-origin' },
   ]
 
-  const SoftwareSettings: DefaultTheme.NavItemWithLink[] = [
-    { text: 'DuckDuckGo', link: '/privacy-settings/software/duckduckgo' },
-    { text: 'Firefox', link: '/privacy-settings/software/firefox' },
+  const SoftwareSettings: DefaultTheme.SidebarItem[] = [
+    { text: 'DuckDuckGo', link: '/privacy-settings/software/duckduckgo', collapsed: false, items: [
+      {
+        text: "Search",
+        link: "/privacy-settings/software/duckduckgo/search"
+      },
+      {
+        text: "Mobile Browser",
+        link: "/privacy-settings/software/duckduckgo/mobile-browser"
+      }
+    ] },
+    // { text: 'Firefox', link: '/privacy-settings/software/firefox' },
+    { text: 'Firefox', link: '/privacy-settings/software/firefox', collapsed: false, items: [
+      {
+        text: "Desktop",
+        link: "/privacy-settings/software/firefox/desktop"
+      },
+      {
+        text: "Mobile",
+        link: "/privacy-settings/software/firefox/mobile"
+      }
+    ] },
   ]
   
   const SidebarSettings: DefaultTheme.SidebarItem[] = [
@@ -234,7 +253,28 @@ export default defineConfig({
             '/recommendations/': SidebarRecommendations,
             '/internet-browsing': SidebarRecommendations,
       
-            '/privacy-settings/': SidebarSettings,
+            '/privacy-settings/': [
+              {
+                text: 'Information',
+                link: '/privacy-settings/',
+              },
+              {
+                text: 'Contributing',
+                link: meta.repo + '/blob/main/CONTRIBUTING.md',
+              },
+              {
+                text: 'Extensions',
+                items: ExtensionsSettings,
+              },
+              {
+                text: 'Software',
+                items: SoftwareSettings,
+              },
+              {
+                text: 'Mobile',
+                items: MobileSettings,
+              }
+            ],
           },
         editLink: {
             pattern: meta.repo + '/edit/main/:path',
