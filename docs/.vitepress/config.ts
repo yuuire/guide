@@ -132,9 +132,9 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
     },
   ]
   
-  const MobileSettings: DefaultTheme.NavItemWithLink[] = [
-    { text: 'Android', link: '/privacy-settings/mobile/android.md' },
-    { text: 'iOS', link: '/privacy-settings/mobile/ios.md' },
+  const DeviceSettings: DefaultTheme.NavItemWithLink[] = [
+    { text: 'Android', link: '/privacy-settings/devices/android.md' },
+    { text: 'iOS', link: '/privacy-settings/devices/ios.md' },
   ]
   
   const ExtensionsSettings: DefaultTheme.NavItemWithLink[] = [
@@ -183,8 +183,8 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
       items: SoftwareSettings,
     },
     {
-      text: 'Mobile',
-      items: MobileSettings,
+      text: 'Devices',
+      items: DeviceSettings,
     }
   ]
   
@@ -271,8 +271,8 @@ export default defineConfig({
                 items: SoftwareSettings,
               },
               {
-                text: 'Mobile',
-                items: MobileSettings,
+                text: 'Devices',
+                items: DeviceSettings,
               }
             ],
           },
