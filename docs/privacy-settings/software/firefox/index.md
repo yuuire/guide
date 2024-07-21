@@ -1,5 +1,7 @@
 ---
 title: Firefox Privacy Settings
+lastUpdated: false
+editLink: false
 ---
 
 ![Cover](/assets/covers/firefox.png)
