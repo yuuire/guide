@@ -1,0 +1,10 @@
+* text=auto
+
+docs/** -linguist-documentation
+*.json text
+*.js text
+*.md text linguist-detectable
+
+*.svg text
+*.png binary
+*.{jpeg,jpg} binary
