@@ -142,6 +142,7 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
   ]
 
   const SoftwareSettings: DefaultTheme.NavItemWithLink[] = [
+    { text: 'DuckDuckGo', link: '/privacy-settings/software/duckduckgo' },
     { text: 'Firefox', link: '/privacy-settings/software/firefox' },
   ]
   
