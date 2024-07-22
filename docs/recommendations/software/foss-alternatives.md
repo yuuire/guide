@@ -175,6 +175,7 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | :star: [Material Files](https://github.com/zhanghai/MaterialFiles) | [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)<br/>[Privacy Policy](https://github.com/zhanghai/MaterialFiles/blob/master/PRIVACY.md)
 | [Amaze](https://teamamaze.xyz/) | [Source Code](https://github.com/TeamAmaze/AmazeFileManager)<br/>[F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/)
 | [SD Maid](https://github.com/d4rken-org/sdmaid-se) | [F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)<br/>[Privacy Policy](https://github.com/d4rken-org/sdmaid-se/blob/main/PRIVACY_POLICY.md)
+| [Ghost Commander](https://sites.google.com/site/ghostcommander1) | [Source Code](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree/)<br/>[F-Droid](https://f-droid.org/packages/com.ghostsq.commander/)
 
 ### File Synchronization
 
@@ -262,6 +263,7 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | Provider | Links |
 | --- | :-- |
 | :star: [Catima](https://catima.app/) | [Source Code](https://github.com/CatimaLoyalty/Android)<br/>[F-Droid](https://f-droid.org/packages/me.hackerchick.catima/)<br/>[Privacy Policy](https://catima.app/privacy-policy/)
+| [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.cardwallet)
 
 ### Maps & Transport Assistants
 
@@ -309,6 +311,7 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 
 | Provider | Links |
 | --- | :-- |
+| :star: [Collabora Office](https://www.collaboraoffice.com/collabora-office-android-ios/) | [Source Code](https://github.com/CollaboraOnline)<br/>[Play Store](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)<br/>[Privacy Policy](https://www.collaboraoffice.com/privacy-notice/)
 | [LibreOffice](https://www.libreoffice.org/) | [Source Code](https://cgit.freedesktop.org/libreoffice/core/tree)<br/>[F-Droid](https://f-droid.org/packages/org.documentfoundation.libreoffice/)<br/>[Privacy Policy](https://www.libreoffice.org/about-us/privacy/privacy-policy-en/)
 
 ### Package Manager
@@ -378,6 +381,7 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 | --- | :-- |
 | :star: [Tasks.org](https://tasks.org/) | [Source Code](https://github.com/tasks/tasks)<br/>[F-Droid](https://f-droid.org/en/packages/org.tasks/)<br/>[Privacy Policy](https://tasks.org/docs/privacy)
 | [ToDark](https://github.com/DarkMooNight/ToDark) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
+| [Tasky](https://thatsmanmeet.github.io/tasky-web/) | [Source Code](https://github.com/thatsmanmeet/tasky)<br/>[F-Droid](https://f-droid.org/packages/com.thatsmanmeet.taskyapp/)
 | [Todopad](https://github.com/TheAlphaApp/flutter_riverpod_todo_app) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.flutter_riverpod_todo_app)
 
 ### Torrenting
