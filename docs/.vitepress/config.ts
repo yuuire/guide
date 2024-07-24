@@ -152,25 +152,52 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
   ]
 
   const SoftwareSettings: DefaultTheme.SidebarItem[] = [
-    { text: 'DuckDuckGo', link: '/privacy-settings/software/duckduckgo', collapsed: false, items: [
-      {
-        text: "Search",
-        link: "/privacy-settings/software/duckduckgo/search"
-      },
-      {
-        text: "Mobile Browser",
-        link: "/privacy-settings/software/duckduckgo/mobile-browser"
-      }
+    { text: 'Browsers', link: '/privacy-settings/software/duckduckgo', collapsed: false, items: [
+      { text: 'Firefox', link: '/privacy-settings/software/browsers/firefox', collapsed: true, items: [
+        {
+          text: "Desktop",
+          link: "/privacy-settings/software/browsers/firefox/desktop"
+        },
+        {
+          text: "Mobile",
+          link: "/privacy-settings/software/browsers/firefox/mobile"
+        }
+      ] },
+      { text: 'Chrome', link: '/privacy-settings/software/browsers/chrome', collapsed: true, items: [
+        {
+          text: "Desktop",
+          link: "/privacy-settings/software/browsers/chrome/desktop"
+        },
+        {
+          text: "Mobile",
+          link: "/privacy-settings/software/browsers/chrome/mobile"
+        }
+      ] },
+      { text: 'Brave', link: '/privacy-settings/software/browsers/brave', collapsed: true, items: [
+        {
+          text: "Desktop",
+          link: "/privacy-settings/software/browsers/brave/desktop"
+        },
+        {
+          text: "Mobile",
+          link: "/privacy-settings/software/browsers/brave/mobile"
+        }
+      ] },
+      { text: 'DuckDuckGo', link: '/privacy-settings/software/browsers/duckduckgo', collapsed: true, items: [
+        {
+          text: "Desktop",
+          link: "/privacy-settings/software/browsers/duckduckgo/desktop"
+        },
+        {
+          text: "Mobile",
+          link: "/privacy-settings/software/browsers/duckduckgo/mobile"
+        }
+      ] },
     ] },
-    // { text: 'Firefox', link: '/privacy-settings/software/firefox' },
-    { text: 'Firefox', link: '/privacy-settings/software/firefox', collapsed: false, items: [
+    { text: 'Search Engines', link: '/privacy-settings/software/search-engines', collapsed: false, items: [
       {
-        text: "Desktop",
-        link: "/privacy-settings/software/firefox/desktop"
-      },
-      {
-        text: "Mobile",
-        link: "/privacy-settings/software/firefox/mobile"
+        text: "DuckDuckGo",
+        link: "/privacy-settings/software/search-engines/duckduckgo"
       }
     ] },
   ]

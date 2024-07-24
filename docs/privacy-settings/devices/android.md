@@ -16,11 +16,11 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ### VPN
 
-* Choose a [privacy respecting VPN service](https://guide.yuuire.com/recommendations/providers/vpn-services) or an [ad blocking app](https://guide.yuuire.com/recommendations/software/foss-alternatives#ads-trackers)
+* Choose a [privacy respecting VPN service](/recommendations/providers/vpn-services) or an [ad blocking app](/recommendations/software/foss-alternatives#ads-trackers)
 
 ### Private DNS
 
-* Choose any [privacy respecting DNS provider](https://guide.yuuire.com/recommendations/providers/dns-resolvers)
+* Choose any [privacy respecting DNS provider](/recommendations/providers/dns-resolvers)
 
 ## Bluetooth & devices
 
@@ -51,7 +51,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ## Apps
 
-* Replace proprietary apps with [FOSS alternatives](https://guide.yuuire.com/recommendations/software/foss-alternatives)
+* Replace proprietary apps with [FOSS alternatives](/recommendations/software/foss-alternatives)
 * Special app access -> Remove any unnecessary permissions 
 
 ## Notifications
@@ -105,7 +105,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ### Autofill service from Google
 
-* Use autofill with Google: **Off** (Use a [privacy respecting password manager](https://guide.yuuire.com/recommendations/software/password-managers))
+* Use autofill with Google: **Off** (Use a [privacy respecting password manager](/recommendations/software/password-managers))
 
 ### Activity controls
 
@@ -158,7 +158,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 ### Languages and input
 
 * Press on Advanced -> On-Screen keyboard
-	* Default keyboard -> Choose any [privacy respecting keyboard](https://guide.yuuire.com/recommendations/software/foss-alternatives#keyboard)
+	* Default keyboard -> Choose any [privacy respecting keyboard](/recommendations/software/foss-alternatives#keyboard)
 
 ### Backup & restore
 

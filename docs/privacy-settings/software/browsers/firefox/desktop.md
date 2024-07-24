@@ -1,5 +1,5 @@
 ---
-title: Firefox Settings
+title: Firefox Desktop Browser Settings
 ---
 
 ![Cover](/assets/covers/firefox.png)

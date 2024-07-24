@@ -17,13 +17,13 @@ title: Overview
 ### [Desktop Browsers](/recommendations/internet-browsing/desktop-browsers)
 | Provider | Privacy Settings | Additional Resources | Links |
 | --- | :-- | :-- | :-- |
-| :star: [LibreWolf](https://librewolf.net/) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md">:link:</a> | [Use Auto-updater](https://github.com/ltguillaume/librewolf-winupdater) | [Source Code](https://codeberg.org/librewolf/source)<br/>[Privacy Policy](https://librewolf.net/privacy-policy/) |
-| :star: [Mullvad Browser](https://mullvad.net/en/browser) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox.md">:link:</a> |  | [Privacy Policy](https://mullvad.net/en/help/privacy-policy)<br/>[Source Code](https://gitlab.torproject.org/tpo/applications/mullvad-browser)  |
+| :star: [LibreWolf](https://librewolf.net/) | <a href="/privacy-settings/software/browsers/firefox/desktop">:link:</a> | [Use Auto-updater](https://github.com/ltguillaume/librewolf-winupdater) | [Source Code](https://codeberg.org/librewolf/source)<br/>[Privacy Policy](https://librewolf.net/privacy-policy/) |
+| :star: [Mullvad Browser](https://mullvad.net/en/browser) | <a href="/privacy-settings/software/browsers/firefox/desktop">:link:</a> |  | [Privacy Policy](https://mullvad.net/en/help/privacy-policy)<br/>[Source Code](https://gitlab.torproject.org/tpo/applications/mullvad-browser)  |
 
 ### [Android Browsers](/recommendations/internet-browsing/mobile-browsers#android)
 | Provider | Privacy Settings | Additional Resources | Links |
 | --- | :-- | :-- | :-- |
-| :star: [Mull](https://divestos.org/pages/our_apps#mull) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md">:link:</a> |  | [Privacy Policy](https://divestos.org/pages/privacy_policy)<br/>[Source Code](https://codeberg.org/divested-mobile/mull-fenix)  |
+| :star: [Mull](https://divestos.org/pages/our_apps#mull) | <a href="/privacy-settings/software/firefox/mobile">:link:</a> |  | [Privacy Policy](https://divestos.org/pages/privacy_policy)<br/>[Source Code](https://codeberg.org/divested-mobile/mull-fenix)  |
 | :star: [Cromite](https://github.com/uazo/cromite) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Cromite.md">:link:</a> |  | [Privacy Policy](https://github.com/uazo/cromite/blob/master/docs/PRIVACY_POLICY.md)  |
 
 ### [iOS Browsers](/recommendations/internet-browsing/mobile-browsers#ios)
@@ -31,7 +31,7 @@ title: Overview
 | --- | :-- | :-- |
 | [Safari](https://apple.com/safari) | | [Privacy Policy](https://apple.com/legal/privacy/data/en/safari)<br/>[Documentation](https://support.apple.com/guide/safari/welcome/mac) |
 | [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Focus.md">:link:</a> | [Source Code](https://github.com/mozilla-mobile/firefox-ios)<br/>[Privacy Policy](https://www.mozilla.org/legal/privacy/firefox.html)
-| [Firefox](https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926) | <a href="https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Firefox-Mobile.md">:link:</a> | [Source Code](https://github.com/mozilla-mobile/firefox-ios)<br/>[Privacy Policy](https://www.mozilla.org/legal/privacy/firefox.html)
+| [Firefox](https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926) | <a href="/privacy-settings/software/firefox/mobile">:link:</a> | [Source Code](https://github.com/mozilla-mobile/firefox-ios)<br/>[Privacy Policy](https://www.mozilla.org/legal/privacy/firefox.html)
 | [Onion Browser](https://onionbrowser.com/) | | [Source Code](https://github.com/OnionBrowser/OnionBrowser)<br/>[Privacy Policy](https://onionbrowser.com/privacy-policy)<br/>[Documentation](https://onionbrowser.com/faqs)
 
 ### [Search Engines](/recommendations/internet-browsing/search-engines)

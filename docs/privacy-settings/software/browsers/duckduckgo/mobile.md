@@ -1,5 +1,5 @@
 ---
-title: DuckDuckGo Settings
+title: DuckDuckGo Mobile Browser Settings
 ---
 
 ![Cover](/assets/covers/duckduckgo.png)

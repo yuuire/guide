@@ -2,7 +2,7 @@
 title: Using Social Media
 ---
 
-![Cover](/assets/covers/cctv.png)
+![Cover](/assets/covers/social-media.png)
 
 # Using Social Media
 
@@ -19,7 +19,7 @@ Take a moment to consider the potential consequences of your online activity. Wh
 ## Limiting Personal Info Online
 
 
-For guidance on adjusting privacy settings across various applications, I recommend using this guide: [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings)
+Visit our [privacy settings page](/privacy-settings/) for guidance on adjusting privacy settings across various applications.
 
 ##
 
