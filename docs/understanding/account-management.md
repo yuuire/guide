@@ -57,9 +57,9 @@ Deleting your account on different websites can be handled in various ways. Some
 
 You can check [JustDeleteMe](https://justdeleteme.xyz/) for instructions on deleting accounts for specific services.
 
-As for the services that don't allow account deletion, the best thing to do is overwrite the account information with fake data, change the password to a randomly-generated one and enable MFA. Then you can safely forget about the account.
+As for the services that don't allow account deletion, the best thing to do is overwrite the account information with fake data, change the password to a randomly-generated one and enable MFA. This way you can minimise the compromising data collected from the account.
 
-Even if you can delete your account, your information might not be deleted at all. This information can be generally found in a service's privacy policy.
+Even if you can delete your account, your information might not be deleted at all. Information about this practice can be generally found in a service's privacy policy.
 
 ### Avoid New Accounts
 Think twice before creating new accounts, as you can use most websites without ever needing one.
