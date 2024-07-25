@@ -18,12 +18,12 @@
         >
             Your guide to
             <span
-                class="text-transparent font-semibold bg-clip-text bg-gradient-to-b from-sky-200 to-indigo-300">
+                class="text-transparent font-semibold bg-clip-text bg-gradient-to-b from-sky-800 to-indigo-900 dark:from-sky-200 dark:to-indigo-300">
                 securing your digital life
             </span>
             and
             <span
-                class="text-transparent font-semibold bg-clip-text bg-gradient-to-b from-sky-200 to-indigo-300">
+                class="text-transparent font-semibold bg-clip-text bg-gradient-to-b from-sky-800 to-indigo-900 dark:from-sky-200 dark:to-indigo-300">
                 protecting your privacy
             </span>
         </h3>

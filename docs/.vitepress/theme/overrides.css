@@ -11,8 +11,8 @@ html, body {
 }
 
 :root {
-    --vp-c-brand-1: #63d3ff;
-    --vp-c-brand-light: #7edfff;
+    --vp-c-brand-1: #1990be;
+    --vp-c-brand-light: #54badb;
     --vp-c-brand-lighter: #a6e9ff;
     --vp-c-brand-dark: #1A2932;
     --vp-c-brand-darker: #131F26;
@@ -34,6 +34,8 @@ html, body {
 }
 
 .dark {
+    --vp-c-brand-1: #63d3ff;
+    --vp-c-brand-light: #7edfff;
     --vp-c-bg: #0c1220;
     --vp-c-bg-alt: #0a0e1a;
     --vp-c-bg-soft: #1e293b;
@@ -64,7 +66,8 @@ button.copy::after {
 }
 
 .VPNavBarMenu.menu {
-    flex-direction: row;
+    /* flex-direction: row; */
+    display: ruby;
 }
 
 .VPNavBarTitle.has-sidebar .title {

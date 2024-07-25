@@ -277,7 +277,7 @@ export default defineConfig({
               link: '/about/'
             },
             {
-              text: '🩵 Donate',
+              text: '💙 Donate',
               link: '/donate/'
             },
         ],

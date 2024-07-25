@@ -27,8 +27,6 @@ A mobile app collects extensive personal data from users without their explicit 
 ### Security with Privacy & Anonymity
 XMPP is a perfect example of this. XMPP allows you to sign up without any real information, over a VPN or Tor connection for total anonymity. Additionally, the conversations can be protected by OMEMO encryption, meaning the data itself is also secure and private. When used properly, this is as closed to perfect as you can get.
 
----
-
 #### Achieving a balance between security, privacy, and anonymity is crucial for fostering trust and maintaining a healthy digital environment.<br/><br/>Together, we can create a safer, more respectful online world for everyone.
 
 ## Sources
