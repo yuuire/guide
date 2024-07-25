@@ -27,7 +27,7 @@ title: Brave Mobile Browser Settings
   * Safe Browsing
     * Turn on: **Standard protection**
   * Use secure DNS
-    * Choose any [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
+    * Choose a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
   * Manage V8 security
     * Turn on: **Don't allow sites to use the V8 optimiser**
 * Site and shields settings
@@ -93,7 +93,7 @@ title: Brave Mobile Browser Settings
 ## Autofill and passwords
 
 * Password Manager -> Hamburger menu in the top left -> Settings
-  * Offer to save passwords: **Off** (Use a [password manager](/recommendations/software/password-managers))
+  * Offer to save passwords: **Off** (Use a [privacy-respecting password manager](/recommendations/software/password-managers))
   * Sign in automatically: **Off**
   * Remove any existing passwords from Brave
 * Payment methods
