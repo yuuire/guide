@@ -92,7 +92,7 @@ title: Brave Mobile Browser Settings
 
 ## Autofill and passwords
 
-* Password Manager -> Hamburger menu in the top left -> Settings
+* Password Manager -> Hamburger menu (`☰`) in the top left -> Settings
   * Offer to save passwords: **Off** (Use a [privacy-respecting password manager](/recommendations/software/password-managers))
   * Sign in automatically: **Off**
   * Remove any existing passwords from Brave
