@@ -6,20 +6,7 @@ title: FOSS Alternatives
 
 ### Introduction
 
-All apps in this section are hand-picked by the author or one of the contributors and thoroughly tested. Below are some general priorities we consider for all submissions.
-
-| Task | Status |
-| --- | :-: |
-| Open Source | :white_check_mark: |
-| Free of charge | :white_check_mark: |
-| Free as in Freedom | :white_check_mark: |
-| Ad-free | :white_check_mark: |
-| Security | :white_check_mark: |
-| Privacy-friendly | :white_check_mark: |
-| Easy to use | :white_check_mark: |
-| Maintained | :white_check_mark: |
-| No account needed | :white_check_mark: |
-| Dark theme | :white_check_mark: |
+All apps featured in this section have been selected by the author or one of the contributors and subjected to thorough testing. The primary emphasis is placed on the app being open source and privacy-friendly, to make sure it delivers a great user experience while prioritising data security and transparency.
 
 ## Android
 
@@ -32,11 +19,10 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 | Provider | Links |
 | --- | :-- |
 | :star: [AdAway](https://adaway.org/) | [Source Code](https://github.com/AdAway/AdAway)<br/>[F-Droid](https://f-droid.org/app/org.adaway)<br/>[Privacy Policy](https://github.com/AdAway/AdAway/wiki/Telemetry)
+| :star: [InviZible Pro](https://invizible.net/en/) | [Source Code](https://github.com/Gedsh/InviZible)<br/>[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)<br/>[Privacy Policy](https://invizible.net/en/privacy/)
 | [DNS66](https://jak-linux.org/projects/dns66/) | [Source Code](https://github.com/julian-klode/dns66)<br/>[F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/)<br/>[Privacy Policy](https://github.com/julian-klode/dns66?tab=readme-ov-file#privacy-guarantee)
-| [InviZible Pro](https://invizible.net/en/) | [Source Code](https://github.com/Gedsh/InviZible)<br/>[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)<br/>[Privacy Policy](https://invizible.net/en/privacy/) 
-| [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) | [Source Code](https://github.com/IngoZenz/personaldnsfilter)<br/>[F-Droid](https://f-droid.org/en/packages/dnsfilter.android/)<br/>[Privacy Policy](https://www.zenz-solutions.de/personaldnsfilter-privacy/)
-| [RethinkDNS](https://rethinkdns.com/app) | [Source Code](https://github.com/celzero/rethink-app)<br/>[F-Droid](https://f-droid.org/packages/com.celzero.bravedns/)<br/>[Privacy Policy](https://rethinkdns.com/privacy)
 | [TrackerControl](https://trackercontrol.org/) | [Source Code](https://github.com/TrackerControl/tracker-control-android)<br/>[F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)<br/>[Privacy Policy](https://trackercontrol.org/#privacy-notice)
+| [Intra](https://github.com/Jigsaw-Code/Intra) | [Build Instructions](https://github.com/Jigsaw-Code/Intra?tab=readme-ov-file#android-build-instructions)
 | [URLCheck](https://github.com/TrianguloY/UrlChecker) | [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
 | [Exodus](https://exodus-privacy.eu.org/) | [Source Code](https://github.com/Exodus-Privacy/exodus-android-app)<br/>[F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/)
 
@@ -86,8 +72,8 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Binary Eye](https://github.com/markusfisch/BinaryEye) | [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)<br/>[Privacy Policy](https://github.com/markusfisch/BinaryEye/blob/master/PRIVACY.md)
-| [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) | [F-Droid](https://f-droid.org/en/packages/com.atharok.barcodescanner/)<br/>[Privacy Policy](https://gitlab.com/Atharok/BarcodeScanner/-/blob/main/privacy_policy.txt)
+| :star: [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) | [F-Droid](https://f-droid.org/en/packages/com.atharok.barcodescanner/)<br/>[Privacy Policy](https://gitlab.com/Atharok/BarcodeScanner/-/blob/main/privacy_policy.txt)
+| [Binary Eye](https://github.com/markusfisch/BinaryEye) | [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)<br/>[Privacy Policy](https://github.com/markusfisch/BinaryEye/blob/master/PRIVACY.md)
 
 ### Browser
 
@@ -120,9 +106,9 @@ See [Recommendations -> Internet Browsing -> Mobile Browsers](/recommendations/i
 
 | Provider | Links |
 | --- | :-- |
-| :star: [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) | [F-Droid](https://f-droid.org/packages/opencontacts.open.com.opencontacts/)
+| :star: [Fossify Contacts](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Contacts)<br/>[F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)
+| [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) | [F-Droid](https://f-droid.org/packages/opencontacts.open.com.opencontacts/)
 | [Connect You](https://you-apps.net/) | [Source Code](https://github.com/you-apps/ConnectYou)<br/>[F-Droid](https://f-droid.org/en/packages/com.bnyro.contacts/)
-| [Fossify Contacts](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Contacts)<br/>[F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)
 
 ### Customization
 
@@ -141,8 +127,8 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 
 | Provider | Links |
 | --- | :-- |
-| :star: [Emerald Dialer](https://github.com/HenriDellal/emerald-dialer) | [F-Droid](https://f-droid.org/en/packages/ru.henridellal.dialer/)<br/>[Privacy Policy](https://github.com/HenriDellal/emerald-dialer/blob/master/PRIVACY_POLICY.md)
-| [Fossify Phone](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Phone)<br/>[F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
+| :star: [Fossify Phone](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Phone)<br/>[F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
+| [Emerald Dialer](https://github.com/HenriDellal/emerald-dialer) | [F-Droid](https://f-droid.org/en/packages/ru.henridellal.dialer/)<br/>[Privacy Policy](https://github.com/HenriDellal/emerald-dialer/blob/master/PRIVACY_POLICY.md)
 
 ### Download Manager
 
@@ -168,14 +154,19 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 | [K-9 Mail](https://k9mail.app/) | [Source Code](https://github.com/thundernest/k-9)<br/>[F-Droid](https://f-droid.org/packages/com.fsck.k9/)<br/>[Privacy Policy](https://k9mail.app/privacy)
 | [You Have Mail](https://github.com/LeanderBB/you-have-mail) | [F-Droid](https://f-droid.org/packages/dev.lbeernaert.youhavemail/)
 
-### Files
+### File Manager
 
 | Provider | Links |
 | --- | :-- |
 | :star: [Material Files](https://github.com/zhanghai/MaterialFiles) | [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)<br/>[Privacy Policy](https://github.com/zhanghai/MaterialFiles/blob/master/PRIVACY.md)
 | [Amaze](https://teamamaze.xyz/) | [Source Code](https://github.com/TeamAmaze/AmazeFileManager)<br/>[F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/)
+| [Fossify File Manager](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/File-Manager)<br/>[F-Droid](https://f-droid.org/packages/org.fossify.filemanager/)
+
+### File tools
+
+| --- | :-- |
 | [SD Maid](https://github.com/d4rken-org/sdmaid-se) | [F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)<br/>[Privacy Policy](https://github.com/d4rken-org/sdmaid-se/blob/main/PRIVACY_POLICY.md)
-| [Ghost Commander](https://sites.google.com/site/ghostcommander1) | [Source Code](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree/)<br/>[F-Droid](https://f-droid.org/packages/com.ghostsq.commander/)
+| [Cache Cleaner](https://github.com/bmx666/android-appcachecleaner) | [F-Droid](https://f-droid.org/packages/com.github.bmx666.appcachecleaner/)
 
 ### File Synchronization
 
@@ -216,8 +207,8 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | --- | :-- |
 | :star: [Gallery](https://github.com/IacobIonut01/Gallery) | [F-Droid](https://f-droid.org/packages/com.dot.gallery/)
 | :star: [Aves](https://github.com/deckerst/aves) | [F-Droid](https://f-droid.org/en/packages/deckers.thibault.aves.libre/)
-| [Ente Photos](https://ente.io/) | [Source Code](https://github.com/ente-io/ente)<br/>[F-Droid](https://f-droid.org/packages/io.ente.photos.fdroid/)<br/>[Privacy Policy](https://ente.io/privacy)
 | [Fossify Gallery](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Gallery)<br/>[F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)
+| [Ente Photos](https://ente.io/) | [Source Code](https://github.com/ente-io/ente)<br/>[F-Droid](https://f-droid.org/packages/io.ente.photos.fdroid/)<br/>[Privacy Policy](https://ente.io/privacy)
 
 ### Health
 
@@ -243,10 +234,10 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 
 | Provider | Links |
 | --- | :-- |
+| :star: [HeliBoard](https://github.com/Helium314/HeliBoard) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 | :star: [FlorisBoard](https://github.com/florisboard/florisboard) | [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
-| :star: [FUTO](https://keyboard.futo.org/) | [Source Code](https://github.com/futo-org/android-keyboard)<br/>[GitHub Releases](https://github.com/futo-org/android-keyboard/releases)<br/>[F-Droid Repo](https://app.futo.org/fdroid/repo/)<br/>[Voice Input](https://keyboard.futo.org/voice-input-models)<br/>[Privacy Policy](https://keyboard.futo.org/privacy)
-| [HeliBoard](https://github.com/Helium314/HeliBoard) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
-| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) | [F-Droid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
+| [Fossify Keyboard](https://www.fossify.org/) | [Source Code](https://github.com/FossifyOrg/Keyboard?tab=readme-ov-file#GPL-3.0-1-ov-file)<br/>[F-Droid](https://f-droid.org/packages/org.fossify.keyboard/)
+| [Simple Keyboard](https://github.com/rkkr/simple-keyboard) | [F-Droid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)<br/>[Privacy Policy](https://github.com/rkkr/simple-keyboard/blob/master/PRIVACY.md)
 
 ### Launcher
 
