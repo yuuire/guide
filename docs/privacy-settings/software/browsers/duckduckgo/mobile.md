@@ -24,4 +24,4 @@ title: DuckDuckGo Mobile Browser Settings
 
 ### Passwords
 
-* Save and autofill passwords: **Off**
+* Save and autofill passwords: **Off** (Use a [privacy-respecting password manager](/recommendations/software/password-managers))
