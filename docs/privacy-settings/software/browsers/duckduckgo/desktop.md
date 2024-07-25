@@ -4,7 +4,7 @@ title: DuckDuckGo Desktop Browser Settings
 
 ![Cover](/assets/covers/duckduckgo.png)
 
-# DuckDuckGo Desktop Settings
+# DuckDuckGo Desktop Browser Settings
 
 ## Privacy
 
