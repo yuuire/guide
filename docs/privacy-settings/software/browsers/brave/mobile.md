@@ -38,7 +38,7 @@ title: Brave Mobile Browser Settings
   * Resolve Method: **Disabled**
 * Use secure DNS
   * Use secure DNS: **On**
-  * Choose another provider -> Customised -> Use a [privacy-respecting DNS service](/recommendations/providers/dns-resolvers)
+  * Choose another provider -> Customised -> Use a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
 * Block cookie consent notices: **On**
 * Block 'Switch to App' notices: **On**
 * Send a 'Do Not Track' request: **Off**
