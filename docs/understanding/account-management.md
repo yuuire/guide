@@ -1,65 +1,36 @@
 ![Cover](/assets/covers/account-management.png)
 
 # Understanding Account Management
-Proper account management is very important in keeping your digital identity and personal information safe from potential threats and privacy breaches. It involves not only creating strong, unique passwords and using secure authentication methods, but also being mindful of the information you share online.
+It is no secret that the more accounts with identifiable information you own, the higher the chance of your data being exposed to bad actors, as well as being a part of data breaches and cyberattacks. Active disposal of inactive accounts, usage of multi-factor authentication and providing websites with fake information can make all the difference in keeping you safer while browsing the web.
 
-## Account Creation
-Often, we sign up for things without really considering the risks. This could be anything from a streaming service with our favourite TV show, to an account with additional perks when buying items online. Nonetheless, it's important to think about the consequences of these simple actions. Later on deleting accounts on some services can be a real burden, as accout deletion is becoming less and less intuitive.
+## Accounts
+Creating new accounts isn't per se a privacy risk, it's how you use these accounts and services that matters. Social media and forums are especially risky as it's easy to leak personal information without even being aware about doing so. Saying too much on social media has become the norm in the recent years and it's suprisingly easy to forget yourself while scrolling through posts.
+
+### Creating Unnecessary Accounts
+Not creating accounts you don't need is the easiest ways you can manage your data - you neither give out sensitive information, nor create a mess in your password manager. It's a win-win situation no matter how you look at it.
+
+### Personal Information
+This is also an easy way to protect your data - not even using it on the Internet. Besides certain govenment and payment sites you usually don't need to use any real information. Everything from your name, to you address can be replaced with fake information, while more often than not on websites like Amazon you will never even be required to have your address or payment methods saved on your account.
+
+On of the worst types of data you should never, ever use on any website is your phone number. A phone number is very personal and can allow malicious actors to easily abuse it. Always create your accounts with an email address, and instead of using SMS authentication, you can use multi-factor authentication which is the most secure way to protect your accounts from breaches and attacks.
+
+### Account Deletion
+Most times account deletion is as easy as going to account's settings and clicking "Delete you account". Unfortunately not every website gives this convinience to their users. When there isn't an easy and accessible way to delete your account, you should use a website such as [JustDeleteMe](https://justdeleteme.xyz/). This will allow you to quickly find information about account deletion on any supported service.
+
+Finding old accounts which you no longer use is as simple as looking through your previous logins in your password manager, or searching your email for particular words like: "confirmation" or "activation", as they're commonly used in verification emails. It's also worth through notepads which you might have used to store some of the more sensitive logins.
+
+## Account Privacy
+How the information you input on different sites will be used and what for is almost always found in the website's Privacy Policy. This simple document can give you deep insight into how your data is being handled. How you login on the websites is also an important matter as not every login method is made equal.  
 
 ### Terms of Service & Privacy Policy
-The ToS are the rules that you agree to follow when using the service, while the Privacy Policy is how the service says they will use your data.
+Website's Terms of Service (or ToS in short) is a document which states the legal agreements between a service provider and a person who wants to use that service. Terms of Service have become unnecessarily bloated over the past few years, so using tools like [ToS;DR](https://tosdr.org/) is a great way to get a quick overview about certain websites.
 
-Let's be honest, almost no one really reads the terms of service or the privacy policy but we agree to them all the time. We recommend [ToS;DR](https://tosdr.org/) to help you manage this problem.
-
-### Personal Details
-Avoid giving out your real personal information if possible. You can use the same persona for each service, but ensure it doesn't compromise your identity.
+The Privacy Policy states how user's data will be collected, used and managed. Usually this data will be personally identifiable information that could be easily sold to advertising companies later on. Sometimes it will be explicitly stated that a website does, or does not share the collected data with third parties.
 
 ### Authentication methods
-There are multiple ways to sign up for an account, each with their own pros and cons.
+Generally speaking there are to main ways to safely signup on websites:  
 
-Always use [Multi-Factor Authentication](/understanding/authentication#multi-factor-authentication) (**not SMS to prevent [Sim Swapping](https://wikiless.tiekoetter.com/wiki/SIM_swap_scam?lang=en) attacks**) when available to secure your accounts.
+* Email and password - this is the classic way of signing up on websites. It's also the least privacy invading one, besides hardware keys, as you can use an email alias to cover up your email address and a randomly generated password stored in a password manager to further your security. Using multi-factor authentication on top of that will additionally increase your security by making sure only you are able to approve future logins.
 
-#### Email and password
-The most common way to create a new account involves using an email address and a password. When using this method, you should use a [password manager](/recommendations/software/password-managers) and follow [the best practices](/understanding/authentication#best-practices) regarding the passwords.
+* OAuth (Sign in with...) - Open Authorisation is a framework that allows service providers to securely access an HTTP server on behalf of the user. In the process of using OAuth the user will give access to their data, the authorisation server will return an access token, and the application will then use this token to access protected resources. OAuth uses tokens instead of passwords to prove the identity of the user which greatly increases the security of the service. 
 
-#### OAuth (Sign in with...)
-OAuth, which stands for "Open Authorisation", is an authentication protocol allowing registration for a service via another account without sharing much information. **"Sign in with *provider name*"** links to OAuth. When using OAuth, choose a provider to connect your account without sharing the password, although basic information is still shared. This process is needed each login.
-
-Advantages:
-
-- **Security:** Trust in external OAuth provider's secure practices like Apple or Google.
-- **Ease of use:** Manage multiple accounts with one login.
-
-Disadvantages:
-
-- **Privacy:** OAuth provider knows your services.
-- **Centralisation:** Compromised OAuth account affects all linked accounts.
-
-Additional Considerations:
-
-- **Data Sharing:** OAuth involves bidirectional data sharing, where both the service and the OAuth provider exchange information. Users should be cautious of the data permissions requested by services during OAuth login to avoid unnecessary exposure of personal information.
-
-- **Session Management:** There's a risk of session hijacking in OAuth implementations if proper session management practices are not followed by service providers. Regularly reviewing active sessions and logging out from inactive sessions can mitigate this risk.
-
-OAuth enhances service integration; use it selectively and secure main accounts with MFA. Services using OAuth are as secure as your provider’s account. Be cautious of bidirectional data sharing and potential session hijacking in OAuth logins.
-
-#### Phone Number
-You should avoid giving out your real phone number if possible.
-
-## Account Deletion
-Over time, it can be easy to accumulate a number of online accounts, many of which you may no longer use. Deleting these unused accounts is an important step in reclaiming your privacy, as dormant accounts are vulnerable to data breaches. A data breach is when a service's security is compromised and protected information is viewed, transmitted, or stolen by unauthorized actors. Data breaches are unfortunately all too common these days, and so practicing good digital hygiene is the best way to minimise the impact they have on our lives.
-
-### Finding Old Accounts
-If you didn't use a password manager before or think you might have old accounts not saved there, you can check your email and look for any service you are no longer using. Search for words like "verify," "active," or "confirm." Most online services send a verification link to your email when you sign up, so this can help you find old accounts you might have forgotten about.
-
-### Deleting Old Accounts
-Deleting your account on different websites can be handled in various ways. Some sites make it easy by offering a "Delete Account" option, while others may require you to contact their support. On certain sites, deleting your account may not even be possible.
-
-You can check [JustDeleteMe](https://justdeleteme.xyz/) for instructions on deleting accounts for specific services.
-
-As for the services that don't allow account deletion, the best thing to do is overwrite the account information with fake data, change the password to a randomly-generated one and enable MFA. This way you can minimise the compromising data collected from the account.
-
-Even if you can delete your account, your information might not be deleted at all. Information about this practice can be generally found in a service's privacy policy.
-
-### Avoid New Accounts
-Think twice before creating new accounts, as you can use most websites without ever needing one.
