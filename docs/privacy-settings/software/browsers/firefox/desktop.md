@@ -25,7 +25,7 @@ To open Firefox settings click the hamburger menu (`☰`) in the top right corne
 
 ### Default Search Engine
 
-* Choose any [privacy respecting search engine](/recommendations/internet-browsing/search-engines)
+* Choose a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ### Search Suggestions
 
@@ -44,7 +44,7 @@ To open Firefox settings click the hamburger menu (`☰`) in the top right corne
 
 ### Passwords
 
-* Ask to save passwords: **Off** (Use a [password manager](/recommendations/software/password-managers))
+* Ask to save passwords: **Off** (Use a [privacy-respecting password manager](/recommendations/software/password-managers))
 * Allow Windows single sign-on for Microsoft, work, and school accounts: **Off**
 
 ### Autofill
@@ -84,7 +84,7 @@ To open Firefox settings click the hamburger menu (`☰`) in the top right corne
 ### DNS over HTTPS
 
 * Turn on: **Max Protection**
-    * Choose any [privacy respecting DNS provider](/recommendations/providers/dns-resolvers)
+    * Choose a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
 
 ## Extensions
 
