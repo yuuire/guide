@@ -33,12 +33,12 @@ title: Brave Mobile Browser Settings
   * Resolve Method: **Disabled**
 * Ethereum Name Service
   * Resolve Method: **Disabled**
-  * ENS offchain lookup: **Disabled
+  * ENS offchain lookup: **Disabled**
 * Solana Name Service
   * Resolve Method: **Disabled**
 * Use secure DNS
   * Use secure DNS: **On**
-  * Choose another provider -> Customised -> Choose any [privacy-respecting DNS service](/recommendations/providers/dns-resolvers)
+  * Choose another provider -> Customised -> Use a [privacy-respecting DNS service](/recommendations/providers/dns-resolvers)
 * Block cookie consent notices: **On**
 * Block 'Switch to App' notices: **On**
 * Send a 'Do Not Track' request: **Off**
@@ -64,7 +64,7 @@ title: Brave Mobile Browser Settings
 
 ### Brave Firewall + VPN
 
-* Enabled: **Off** (Use any [privacy-respecting VPN service](/recommendations/providers/vpn-services))
+* Enabled: **Off** (Use a [privacy-respecting VPN service](/recommendations/providers/vpn-services))
 
 ### Leo
 
@@ -77,11 +77,11 @@ title: Brave Mobile Browser Settings
 
 ### Search engines
 
-* Use any [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
+* Use a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ### Brave Password Manager
 
-* Save passwords: **Off**
+* Save passwords: **Off** (Use a [privacy-respecting password manager](/recommendations/software/password-managers))
 * Auto Sign-in: **Off**
 
 ### Privacy report
