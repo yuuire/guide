@@ -10,7 +10,7 @@ title: Firefox Mobile Browser Settings
 
 ### Search engines
 
-* Choose any [privacy respecting search engine](/recommendations/internet-browsing/search-engines)
+* Choose a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ### Suggestions from search engines
 
@@ -27,7 +27,7 @@ title: Firefox Mobile Browser Settings
 
 ## Passwords
 
-* Save passwords: **Never save** (Use a [password manager](/recommendations/software/password-managers))
+* Save passwords: **Never save** (Use a [privacy-respecting password manager](/recommendations/software/password-managers))
 * Autofill in Firefox: **Off**
 
 ## Payment methods
