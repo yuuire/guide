@@ -444,7 +444,7 @@ See [Recommendations -> Software -> Real-Time Communication](/recommendations/so
 
 | Provider | Links |
 | --- | :-- |
-| [Kiwix](https://kiwix.org/en/) | [Source Code](https://github.com/kiwix/kiwix-android)<br/>[GitHub Releases](https://github.com/kiwix/kiwix-android/releases)<br/>[Privacy Policy](https://kiwix.org/en/privacy-policy/)
+| [Kiwix](https://kiwix.org/en/) | [Source Code](https://github.com/kiwix/kiwix-android)<br/>[Play Store](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile&pli=1)<br/>[Privacy Policy](https://kiwix.org/en/privacy-policy/)
 
 ### YouTube Client
 
