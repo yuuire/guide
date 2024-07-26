@@ -6,4 +6,13 @@ title: Bitwarden Settings
 
 # Bitwarden Settings
 
--
+Select 'Settings' in the bar on the left.
+
+## Security
+
+* Select 'Two-step login' on the top of the page
+  * Choose any other method than 'Email'
+
+## Preferences
+
+* Vault timeout: **1 minute**

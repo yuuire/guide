@@ -10,7 +10,7 @@ title: 1Password Settings
 
 ### Default Vault
 
-* Save new items in: **Private**
+* Save new items in: **Default vault**
 
 ## Security
 
