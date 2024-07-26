@@ -164,6 +164,7 @@ See [Recommendations -> Operating Systems -> Android](/recommendations/operating
 
 ### File tools
 
+| Provider | Links |
 | --- | :-- |
 | [SD Maid](https://github.com/d4rken-org/sdmaid-se) | [F-Droid](https://f-droid.org/en/packages/eu.darken.sdmse/)<br/>[Privacy Policy](https://github.com/d4rken-org/sdmaid-se/blob/main/PRIVACY_POLICY.md)
 | [Cache Cleaner](https://github.com/bmx666/android-appcachecleaner) | [F-Droid](https://f-droid.org/packages/com.github.bmx666.appcachecleaner/)
