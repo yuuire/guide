@@ -256,6 +256,12 @@ See [Recommendations -> Miscellaneous -> Finances](/recommendations/miscellaneou
 | :star: [Catima](https://catima.app/) | [Source Code](https://github.com/CatimaLoyalty/Android)<br/>[F-Droid](https://f-droid.org/packages/me.hackerchick.catima/)<br/>[Privacy Policy](https://catima.app/privacy-policy/)
 | [OSS Card Wallet](https://github.com/Akylas/OSS-DocumentScanner) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.cardwallet)
 
+### Malware Scanner
+
+| Provider | Links |
+| --- | :-- |
+| :star: [Hypatia](https://gitlab.com/divested-mobile/hypatia) | [F-Droid](https://f-droid.org/packages/us.spotco.malwarescanner/)
+
 ### Maps & Transport Assistants
 
 | Provider | Links |
