@@ -30,7 +30,7 @@ title: DuckDuckGo Desktop Browser Settings
 
 ### Ask to Save and Autofill
 
-* Passwords: **Off**
+* Passwords: **Off** (Use a [privacy-respecting password manager](/recommendations/software/password-managers))
 
 ### Auto-lock
 
