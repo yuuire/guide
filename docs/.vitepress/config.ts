@@ -95,135 +95,122 @@ const SidebarGuide: DefaultTheme.SidebarItem[] = [
     }
   ]
   
-  const SidebarRecommendations: DefaultTheme.SidebarItem[] = [
-    {
-      text: 'Overview',
-      link: '/recommendations/',
-    },
-    {
-      text: 'Internet Browsing',
-      collapsed: false,
-      items: Internet_Browsing,
-    },
-    {
-      text: 'Providers',
-      collapsed: false,
-      items: Providers,
-    },
-    {
-      text: 'Software',
-      collapsed: false,
-      items: Software,
-    },
-    {
-      text: 'Hardware',
-      collapsed: false,
-      items: Hardware,
-    },
-    {
-      text: 'Operating Systems',
-      collapsed: false,
-      items: Operating_Systems,
-    },
-    {
-      text: 'Miscellaneous',
-      collapsed: false,
-      items: Miscellaneous,
-    },
-  ]
+const SidebarRecommendations: DefaultTheme.SidebarItem[] = [
+  {
+    text: 'Overview',
+    link: '/recommendations/',
+  },
+  {
+    text: 'Internet Browsing',
+    collapsed: false,
+    items: Internet_Browsing,
+  },
+  {
+    text: 'Providers',
+    collapsed: false,
+    items: Providers,
+  },
+  {
+    text: 'Software',
+    collapsed: false,
+    items: Software,
+  },
+  {
+    text: 'Hardware',
+    collapsed: false,
+    items: Hardware,
+  },
+  {
+    text: 'Operating Systems',
+    collapsed: false,
+    items: Operating_Systems,
+  },
+  {
+    text: 'Miscellaneous',
+    collapsed: false,
+    items: Miscellaneous,
+  },
+]
   
-  const DeviceSettings: DefaultTheme.SidebarItem[] = [
-    { text: 'Android', link: '/privacy-settings/devices/android.md' },
-    { text: 'Windows', link: '/privacy-settings/devices/windows', collapsed: false, items: [
+const DeviceSettings: DefaultTheme.SidebarItem[] = [
+  { text: 'Android', link: '/privacy-settings/devices/android.md' },
+  { text: 'Windows', link: '/privacy-settings/devices/windows', collapsed: false, items: [
+    {
+      text: "11",
+      link: "/privacy-settings/devices/windows/11"
+    },
+    {
+      text: "10",
+      link: "/privacy-settings/devices/windows/10"
+    }
+  ] },
+  { text: 'iOS', link: '/privacy-settings/devices/ios.md' },
+]
+  
+const ExtensionsSettings: DefaultTheme.NavItemWithLink[] = [
+  { text: 'uBlock Origin', link: '/privacy-settings/extensions/ublock-origin' },
+]
+
+const SoftwareSettings: DefaultTheme.SidebarItem[] = [
+  { text: 'Browsers', collapsed: false, items: [
+    { text: 'Firefox', link: '/privacy-settings/software/browsers/firefox', collapsed: true, items: [
       {
-        text: "11",
-        link: "/privacy-settings/devices/windows/11"
+        text: "Desktop",
+        link: "/privacy-settings/software/browsers/firefox/desktop"
       },
       {
-        text: "10",
-        link: "/privacy-settings/devices/windows/10"
+        text: "Mobile",
+        link: "/privacy-settings/software/browsers/firefox/mobile"
       }
     ] },
-    { text: 'iOS', link: '/privacy-settings/devices/ios.md' },
-  ]
-  
-  const ExtensionsSettings: DefaultTheme.NavItemWithLink[] = [
-    { text: 'uBlock Origin', link: '/privacy-settings/extensions/ublock-origin' },
-  ]
-
-  const SoftwareSettings: DefaultTheme.SidebarItem[] = [
-    { text: 'Browsers', link: '/privacy-settings/software/duckduckgo', collapsed: false, items: [
-      { text: 'Firefox', link: '/privacy-settings/software/browsers/firefox', collapsed: true, items: [
-        {
-          text: "Desktop",
-          link: "/privacy-settings/software/browsers/firefox/desktop"
-        },
-        {
-          text: "Mobile",
-          link: "/privacy-settings/software/browsers/firefox/mobile"
-        }
-      ] },
-      { text: 'Chrome', link: '/privacy-settings/software/browsers/chrome', collapsed: true, items: [
-        {
-          text: "Desktop",
-          link: "/privacy-settings/software/browsers/chrome/desktop"
-        },
-        {
-          text: "Mobile",
-          link: "/privacy-settings/software/browsers/chrome/mobile"
-        }
-      ] },
-      { text: 'Brave', link: '/privacy-settings/software/browsers/brave', collapsed: true, items: [
-        {
-          text: "Desktop",
-          link: "/privacy-settings/software/browsers/brave/desktop"
-        },
-        {
-          text: "Mobile",
-          link: "/privacy-settings/software/browsers/brave/mobile"
-        }
-      ] },
-      { text: 'DuckDuckGo', link: '/privacy-settings/software/browsers/duckduckgo', collapsed: true, items: [
-        {
-          text: "Desktop",
-          link: "/privacy-settings/software/browsers/duckduckgo/desktop"
-        },
-        {
-          text: "Mobile",
-          link: "/privacy-settings/software/browsers/duckduckgo/mobile"
-        }
-      ] },
-    ] },
-    { text: 'Search Engines', link: '/privacy-settings/software/search-engines', collapsed: false, items: [
+    { text: 'Chrome', link: '/privacy-settings/software/browsers/chrome', collapsed: true, items: [
       {
-        text: "DuckDuckGo",
-        link: "/privacy-settings/software/search-engines/duckduckgo"
+        text: "Desktop",
+        link: "/privacy-settings/software/browsers/chrome/desktop"
+      },
+      {
+        text: "Mobile",
+        link: "/privacy-settings/software/browsers/chrome/mobile"
       }
     ] },
-  ]
-  
-  const SidebarSettings: DefaultTheme.SidebarItem[] = [
+    { text: 'Brave', link: '/privacy-settings/software/browsers/brave', collapsed: true, items: [
+      {
+        text: "Desktop",
+        link: "/privacy-settings/software/browsers/brave/desktop"
+      },
+      {
+        text: "Mobile",
+        link: "/privacy-settings/software/browsers/brave/mobile"
+      }
+    ] },
+    { text: 'DuckDuckGo', link: '/privacy-settings/software/browsers/duckduckgo', collapsed: true, items: [
+      {
+        text: "Desktop",
+        link: "/privacy-settings/software/browsers/duckduckgo/desktop"
+      },
+      {
+        text: "Mobile",
+        link: "/privacy-settings/software/browsers/duckduckgo/mobile"
+      }
+    ] },
+  ] },
+  { text: 'Search Engines', collapsed: false, items: [
     {
-      text: 'Information',
-      link: '/privacy-settings/',
-    },
-    {
-      text: 'Contributing',
-      link: meta.repo + '/blob/main/CONTRIBUTING.md',
-    },
-    {
-      text: 'Extensions',
-      items: ExtensionsSettings,
-    },
-    {
-      text: 'Software',
-      items: SoftwareSettings,
-    },
-    {
-      text: 'Devices',
-      items: DeviceSettings,
+      text: "DuckDuckGo",
+      link: "/privacy-settings/software/search-engines/duckduckgo"
     }
-  ]
+  ] },
+  { text: 'Password Managers', collapsed: false, items: [
+    {
+      text: "Bitwarden",
+      link: "/privacy-settings/software/password-managers/bitwarden"
+    },
+    {
+      text: "1Password",
+      link: "/privacy-settings/software/password-managers/1password"
+    }
+  ] },
+]
   
 
 export default defineConfig({
