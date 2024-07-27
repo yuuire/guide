@@ -17,8 +17,8 @@ title: Browser Extensions
 | [PopUpOFF](https://popupoff.org/) | | | [Source Code](https://github.com/RomanistHere/PopUpOFF)<br/>[Privacy Policy](https://popupoff.org/privacy-policy) |
 
 ### Adblock Tests
+* :star: [Toolz](https://d3ward.github.io/toolz/adblock.html)
 * [AdBlock Tester](https://adblock-tester.com/)
-* [Toolz](https://d3ward.github.io/toolz/adblock.html)
 
 ### Adblock Filters
 * :star: [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
@@ -37,10 +37,8 @@ title: Browser Extensions
 | Provider | Links |
 | --- | :-- |
 | :star: **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** | [Supported Sites](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/src/branch/main/supported_sites.txt)
-| :star: **[bypass.city](https://bypass.city/)** | [Userscript](https://bypass.city/how-to-install-userscript)<br/>[Supported Sites](https://bypass.city/supported)<br/>[Privacy Policy](https://bypass.city/privacy-policy)
-| [FastForward](https://fastforward.team/) | [Source Code](https://github.com/FastForwardTeam/FastForward)<br/>[Supported Sites](https://github.com/FastForwardTeam/FastForward/blob/main/docs/Bypassed.md)<br/>[Privacy Policy](https://fastforward.team/privacy)
+| :star: [FastForward](https://fastforward.team/) | [Source Code](https://github.com/FastForwardTeam/FastForward)<br/>[Supported Sites](https://github.com/FastForwardTeam/FastForward/blob/main/docs/Bypassed.md)<br/>[Privacy Policy](https://fastforward.team/privacy)
 | [Bypass-Links](https://bypass-links.vercel.app) | [Source Code](https://github.com/amitsingh-007/bypass-links)<br/>[Supported Sites](https://github.com/amitsingh-007/bypass-links?tab=readme-ov-file#currently-supported-websites)
-| [TheBypasser](https://thebypasser.com/)
 
 ## Redirectors
 
@@ -48,6 +46,7 @@ title: Browser Extensions
 | --- | :-- |
 | :star: [LibRedirect](https://libredirect.github.io/) | [Source Code](https://github.com/libredirect/browser_extension)<br/>[Privacy Policy](https://github.com/libredirect/browser_extension/blob/master/Privacy-Policy.md)
 | [Predirect](https://github.com/libreom/predirect)
+| [Privacy Redirector](https://greasyfork.org/en/scripts/436359-privacy-redirector) | [GitHub](https://github.com/dybdeskarphet/privacy-redirector)
 
 ## Privacy Extensions
 
@@ -71,7 +70,6 @@ title: Browser Extensions
 | :star: [AdsBypasser](https://adsbypasser.github.io/) | [Source Code](https://github.com/adsbypasser/adsbypasser)<br/>[Settings](https://adsbypasser.github.io/configure.html)
 | :star: [Disable AMP](https://github.com/AdguardTeam/DisableAMP) | [Stable](https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.user.js)<br/>[Beta](https://userscripts.adtidy.org/beta/disable-amp/1.0/disable-amp.user.js)
 | [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) | [GitHub](https://github.com/nokeya/direct-links-out)
-| [Privacy Redirector](https://greasyfork.org/en/scripts/436359-privacy-redirector) | [GitHub](https://github.com/dybdeskarphet/privacy-redirector)
 | [Remove web limits (re-modified)](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified)
 | [Google Hit Hider by Domain](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
 | [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent)
