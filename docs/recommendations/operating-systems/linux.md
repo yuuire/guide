@@ -40,20 +40,19 @@ title: Linux
 
 ## Guides
 
-| Provider |
-| --- |
-| :star: [HowToLinux](https://howtolinux.vercel.app) |
-| [Archwiki](https://wiki.archlinux.org/)<br/>[Manuals](https://man.archlinux.org/)<br/>[TUI](https://codeberg.org/theooo/mantra.py) |
-| [InstallGentoo](https://wiki.installgentoo.com/) |
-| [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) |
-| [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) |
-| [HowtoForge](https://www.howtoforge.com/) |
+| Provider | Links |
+| --- | :-- |
+| :star: [Archwiki](https://wiki.archlinux.org/) | [Privacy Policy](https://terms.archlinux.org/docs/privacy-policy/)<br/>[Manuals](https://man.archlinux.org/)<br/>[TUI](https://codeberg.org/theooo/mantra.py)
+| :star: [HowToLinux](https://howtolinux.vercel.app) | [Source Code](https://github.com/themagicalmammal/howtolinux) |
+| [The Linux Command Line Book](https://www.linuxcommand.org/tlcl.php) | [Source Code](https://sourceforge.net/projects/linuxcommand/files/) |
+| [LinuxJourney](https://linuxjourney.com/) | [Source Code](https://github.com/cindyq/linuxjourney) | 
+| [InstallGentoo](https://wiki.installgentoo.com/) | [Privacy Policy](https://wiki.installgentoo.com/wiki/InstallGentoo_Wiki:Privacy_policy) |
+| [HowtoForge](https://www.howtoforge.com/) | [Privacy Policy](https://forum.howtoforge.com/help/privacy-policy) |
+| [Linux Survival](https://linuxsurvival.com/) |
 | [Sindresorhus Guides](https://github.com/sindresorhus/guides) |
-| [Erik Dubois](https://www.youtube.com/c/ErikDubois) |
-| [LinuxJourney](https://linuxjourney.com/) |
-| [Linuxtopia](https://www.linuxtopia.org/) |
+| [Linuxtopia](https://www.linuxtopia.org/) | [Privacy Policy](https://www.linuxtopia.org/privacy_policy.html) |
 | [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) |
-| [Gaming on Linux](https://linux-gaming.kwindu.eu/index.php?title=Main_Page) |
+| [Gaming on Linux](https://linux-gaming.kwindu.eu/index.php) |
 
 ## System
 
