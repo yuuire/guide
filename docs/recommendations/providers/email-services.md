@@ -22,4 +22,4 @@ title: Email Services
 | :star: [Mailcow](https://mailcow.email/) | [Source Code](https://github.com/mailcow/mailcow-dockerized)<br/>[Documentation](https://docs.mailcow.email/)  |
 | [UnInbox](https://github.com/un/inbox) | [Documentation](https://github.com/un/inbox#self-hosting) |
 
-Need help? Check out [this guide](https://www.c0ffee.net/blog/mail-server-guide).
+If you need help managing a mail server, check out [this guide](https://www.c0ffee.net/blog/mail-server-guide).

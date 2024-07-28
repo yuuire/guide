@@ -4,7 +4,7 @@ title: Mobile Browsers
 
 ![Cover](/assets/covers/mobile-browsers.png)
 
-Want more? Check out [this project](https://github.com/Tobi823/ffupdater).
+To easily manage privacy-oriented browsers try [FFUpdater](https://github.com/Tobi823/ffupdater).
 
 ### Android
 

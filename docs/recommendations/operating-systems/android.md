@@ -25,12 +25,12 @@ See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software
 | --- | :-- |
 | :star: [I Like Android](https://i-like-android.github.io/) | [Source Code](https://github.com/I-Like-Android/i-like-android.github.io)
 | [Plexus](https://plexus.techlore.tech/) | [Source Code](https://github.com/techlore/plexus)
-| [GearJail](https://gearjail.neocities.org/)
+| [GearJail](https://gearjail.neocities.org/) | [Source Code](https://codeberg.org/GearJail)
 | [LunarEclipseCode](https://lunareclipsecode.github.io/engrc-3500-team2/content/intro.html) | [Source Code](https://github.com/LunarEclipseCode/engrc-3500-team2)
 | [Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)
 | [Material You App List](https://github.com/nyas1/Material-You-app-list)
 | [F-Droid Repositories](https://forum.f-droid.org/t/known-repositories/) | [Testing](https://forum.f-droid.org/t/testing-repositories/)<br/>[Archive](https://forum.f-droid.org/t/archive-repositories/)
-| [We Love Codeberg](https://welove.codeberg.page/)
+| [We Love Codeberg](https://welove.codeberg.page/) | [Source Code](https://codeberg.org/welove)
 
 ## Tools
 
