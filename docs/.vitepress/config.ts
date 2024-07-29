@@ -193,6 +193,18 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
         link: "/privacy-settings/software/browsers/duckduckgo/mobile"
       }
     ] },
+    { text: 'Microsoft Edge', link: '/privacy-settings/software/browsers/microsoft-edge', collapsed: true, items: [
+      {
+        text: "Desktop",
+        link: "/privacy-settings/software/browsers/microsoft-edge/desktop"
+      },
+      {
+        text: "Mobile",
+        link: "/privacy-settings/software/browsers/microsoft-edge/mobile"
+      }
+    ] },
+    { text: 'Mullvad', link: '/privacy-settings/software/browsers/mullvad/desktop', },
+    { text: 'Cromite', link: '/privacy-settings/software/browsers/cromite', },
   ] },
   { text: 'Search Engines', collapsed: false, items: [
     {
@@ -209,6 +221,42 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
       text: "1Password",
       link: "/privacy-settings/software/password-managers/1password"
     }
+  ] },
+  { text: 'Social', collapsed: false, items: [
+    {
+      text: "Discord",
+      link: "/privacy-settings/social/discord"
+    },
+    {
+      text: "Reddit",
+      link: "/privacy-settings/social/reddit"
+    },
+    {
+      text: "TikTok",
+      link: "/privacy-settings/social/tiktok"
+    },
+    {
+      text: "X",
+      link: "/privacy-settings/social/x"
+    },
+    {
+      text: "LinkedIn",
+      link: "/privacy-settings/social/linkedin"
+    },
+    { text: 'Meta', link: '/privacy-settings/social/meta', collapsed: true, items: [
+      {
+        text: "Facebook",
+        link: "/privacy-settings/social/meta/facebook"
+      },
+      {
+        text: "Messenger",
+        link: "/privacy-settings/social/meta/messenger"
+      },
+      {
+        text: "Instagram",
+        link: "/privacy-settings/social/meta/instagram"
+      }
+    ] },
   ] },
 ]
   
