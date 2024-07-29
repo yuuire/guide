@@ -112,3 +112,7 @@ title: Brave Mobile Browser Settings
 ## System
 
 * Continue running background apps when Brave is closed: **Off**
+
+## Extentions
+
+See [Recommendations -> Internet Browsing -> Browser Extensions](/recommendations/internet-browsing/browser-extensions).
