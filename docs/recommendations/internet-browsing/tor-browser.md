@@ -9,9 +9,9 @@ title: Tor Browser
 
 ![Cover](/assets/covers/tor-browser.png)
 
-Tor is a freely accessible, decentralized network engineered to facilitate internet usage with maximum privacy. When utilized correctly, it empowers users to engage in private and anonymous browsing and communication sessions. Given the intricacy of tracing and blocking Tor traffic, it emerges as an adept tool for circumventing censorship.
+The Tor Browser protects your privacy and security by using a modified version of Firefox that fixes problems that could expose your identity. Attacks against the Tor network are still possible, but they are rare and would have to specifically target you.
 
-Operating on a principle of routing internet traffic via volunteer-operated servers, Tor diverges from the conventional method of establishing a direct link to the desired website. This redirection conceals the origin of the traffic, ensuring that none of the servers involved in the transmission possess knowledge of the entire journey of the traffic. Consequently, the servers facilitating the connection are incapable of compromising the user's anonymity.
+Tor protects your privacy by "bouncing" your Internet traffic through a network of relays run entirely by volunteers. Your data is sent through at least 3 different servers before it reaches its destination. Each relay has a separate layer of encryption, which means that no one can spy on your Internet activity.
 
 ---
 <br/>
@@ -22,69 +22,51 @@ Operating on a principle of routing internet traffic via volunteer-operated serv
     <Card title="Source Code" href="https://gitlab.torproject.org/tpo/core/tor"/>
 </Grid>
 
-## Safely Connecting to Tor
+## Using Tor Safely
 
-Tor (The Onion Router) is a network designed to protect privacy and anonymity. It routes internet traffic through several servers around the world, making it difficult for anyone observing the traffic to determine who is communicating with whom. To safely connect to Tor, users should:
+Before installing the browser, be sure to [verify the signature of the file](https://support.torproject.org/tbb/how-to-verify-signature/), as malware may be bundled into the installation files. After that, connecting to the Tor network should be as simple as clicking 'Connect'. Sometimes Tor may be [blocked in your country](/recommendations/internet-browsing/tor-browser.md#tor-is-not-unrestricted-by-governmental-blocking).
 
-- **Use Official Software**: Always download Tor software from official sources to avoid malware or other security threats.
-- **Keep Software Updated**: Regularly update your Tor browser to benefit from the latest security patches and improvements.
-- **Be Cautious with Extensions**: While extensions can enhance browsing experience, they can also introduce vulnerabilities. Only install extensions from trusted sources.
+::: warning Do not use extensions!
+The Tor Browser is designed to make you look identical to other users, so your browser can't be identified by websites. Using extensions, themes, or VPNs effectively defeats the purpose of the Tor network, while using JavaScript or BitTorrent clients makes you vulnerable to IP leaks.
+:::
 
 ## What Tor is Not
 
-Expanding on the topic of "What Tor is Not" with more detailed examples and insights drawn from the provided sources, we can delve deeper into the limitations and misconceptions surrounding Tor.
+### Tor is Not the Privacy Solution
 
-### Tor is Not a Comprehensive Privacy Solution
-
-- **Limited Metadata Protection**: Tor encrypts your data in transit but does not encrypt metadata, such as who you're communicating with. This means that while your communications are protected from eavesdropping, the fact that you're communicating with a particular person or service can still be observed.
+- **The Problem of Exit Nodes**: An exit node is where your traffic leaves the Tor network. Exit nodes can be monitored, which means that using non-HTTPS sites is a huge privacy risk, since unencrypted sites can monitor your Internet activity and track everything you do while using those sites. Usually, running exit nodes is a risky practice, which is why they are usually run by governments. All of this can be avoided by accessing websites using encryption (HTTPS).
   
-- **Not Invulnerable to Timing Attacks**: Advanced adversaries can potentially de-anonymize Tor users by analyzing the timing and shape of traffic entering and exiting the Tor network. This type of attack, known as an end-to-end correlation attack, requires observing both ends of a Tor circuit simultaneously. While no anonymity network can protect 100% against such attacks, VPNs are generally considered less secure than Tor because they do not use three independent relays, which adds a layer of complexity for attackers.
+- **The Vulnerability to Timing Attacks**: A timing attack occurs when an observer can correlate the times you enter and leave Tor. Timing attacks are almost always targeted at specific individuals, as they require precise observation of parts of the network. In most countries, it's rare to get a warrant to conduct a timing attack.
 
 ### Tor is Not a Free VPN
 
-- **Performance Impact**: Using Tor can significantly slow down your browsing speed compared to a traditional VPN. This is due to the multi-layered encryption and the circuitous path your data takes through multiple nodes. High-definition video streaming or torrenting, for instance, can become impractical with Tor.
+- **Performance Impact**: VPNs route your traffic through a single server to give you the highest speeds while improving your privacy and security. Tor uses multiple relays and strong encryption to give you anonymity, which is a completely different concept. Not only that, but routing your traffic through multiple nodes will significantly slow down your internet connection.
 
-- **Complex Application Integration**: Connecting individual applications to the Tor network can be complex and cumbersome. This contrasts with VPNs, which often provide easier integration with various apps and devices.
-
-### Tor is Not the Most Secure Browser
-
-- **Exit Node Vulnerability**: While Tor ensures anonymity within the network, the final exit node is not encrypted. This means that if a user accesses unencrypted websites or transmits unencrypted data, the exit node can potentially intercept or modify the traffic. Implementing end-to-end encryption is crucial to mitigate this vulnerability.
-
-- **Website Compatibility Issues**: Certain websites and online services may block or restrict access to users coming from the Tor network. This is often due to the network's association with illicit activities, leading to measures implemented by websites to prevent Tor access. This can limit a user's ability to access specific websites or services.
+- **Complex Application Integration**: Connecting individual applications to the Tor network can be complex and cumbersome. This is in contrast to VPNs, which aim to provide easier integration with different applications and devices.
 
 ### Tor is Not Unrestricted by Governmental Blocking
 
-- **Potential for Governmental Blocking**: In some jurisdictions, governments may actively block or prohibit access to the Tor network as part of their censorship or surveillance efforts. This can restrict individuals' ability to utilize Tor for privacy, anonymity, and accessing blocked content, thereby limiting their freedom of information and online expression.
+- **Potential for Governmental Blocking**: In some countries, Tor is completely blocked - fortunately, the Tor Browser provides a complete solution to these problems. Tor can be downloaded from [email](https://support.torproject.org/censorship/gettor-2/) or by using the [GetTor bot](https://t.me/gettor_bot) on Telegram. [Bridges](https://tb-manual.torproject.org/bridges/) or [Snowflakes](https://snowflake.torproject.org/) can be used to access the Tor network.
 
-## Tor is Not the Only Tool for Anonymity
-
-- **Complementary Tools Exist**: While Tor is a powerful tool for enhancing privacy and anonymity, it is not the only option available. Combining Tor with other technologies, such as VPNs, can provide a more robust defense against various forms of surveillance and tracking. However, it's important to choose complementary tools wisely, as some, like VPNs, can introduce their own privacy trade-offs.
-
-In summary, while Tor offers significant advantages in terms of privacy and anonymity, it is not without its limitations and misconceptions. Understanding these aspects is crucial for users to make informed decisions about their online privacy and security strategies.
-
-## Path Building to Clearnet Services
+## The Pathway to Clearnet Services
 
 Tor routes your connection through three types of nodes:
 
-- **Entry Nodes**: These are the first stop in the Tor network. They receive your request and forward it to a middle node.
-- **Middle Nodes**: These nodes don't know your final destination but relay your request further towards an exit node.
-- **Exit Nodes**: These nodes send your request to the clearnet service you're trying to access. Since these nodes know your destination, they can potentially see the content of your communication.
+- **Entry Nodes**: These are the first stop on the Tor network. They receive your request and forward it to a middle node.
+- **Middle Nodes**: These nodes don't know your final destination, but will forward your request to an exit node.
+- **Exit Nodes**: These nodes send your request to the Clearnet service you're trying to access. As these nodes know your destination, they may be able to see the content of your communication.
 
-Understanding this path helps users appreciate why Tor might be slower than direct connections and why exit nodes pose a potential risk to anonymity.
+## The Pathway to Onion Services
 
-## Path Building to Onion Services
-
-Onion services, also known as .onion websites, operate within the Tor network itself. They don't require an entry node because they're part of the Tor network infrastructure. This means they offer a higher degree of anonymity since the traffic between the client and the server doesn't leave the Tor network.
+Onion services, also known as .onion sites, operate within the Tor network itself. They don't need an entry node because they are part of the Tor network infrastructure. This means that they offer a higher level of anonymity because the traffic between the client and the server doesn't leave the Tor network.
 
 ## Encryption
 
-Tor uses end-to-end encryption to protect data in transit. However, it's important to note that while Tor encrypts your data, it doesn't encrypt your metadata (e.g., who you're communicating with). This is one reason why additional tools or practices may be necessary for complete privacy.
+Tor uses end-to-end encryption to protect data in transit. However, it's important to note that while Tor encrypts your data, it does not encrypt your metadata (e.g., who you're communicating with). This is one reason why additional tools or practices may be required for full privacy.
 
 ## Warning
 
 ::: warning Despite its strengths, Tor isn't a silver bullet for privacy and security. Some caveats include:
-
-- **Bridges**: Bridges are special relays that aren't listed in the public directory, offering an extra layer of protection against censorship. However, relying solely on bridges can lead to slower connections and reduced anonymity.
-- **Relay Operators**: The effectiveness of Tor depends on the number and diversity of its operators. Centralization or malicious actors controlling many relays can compromise the network's integrity.
-
+- **Bridges**: Bridges are special relays that aren't listed in the public directory, providing an extra layer of protection against censorship. However, relying solely on bridges can result in slower connections and reduced anonymity.
+- **Relay Operators**: Tor's effectiveness depends on the number and diversity of its relays. Centralisation or malicious actors controlling many relays can compromise the integrity of the network.
 :::
