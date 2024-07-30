@@ -10,7 +10,7 @@ title: Firefox Mobile Browser Settings
 
 ### Search engines
 
-* Choose a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
+* Select a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ### Suggestions from search engines
 
