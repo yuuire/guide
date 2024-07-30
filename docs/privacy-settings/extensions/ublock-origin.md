@@ -6,7 +6,7 @@ title: uBlock Origin Settings
 
 # uBlock Origin Settings
 
-To open uBlock settings click the extension's icon on the toolbar and the gear icon in the bottom right of the window.
+To open the uBlock settings, click on the extension's icon in the toolbar and the cogwheel icon at the bottom right of the window.
 
 ## Settings
 
