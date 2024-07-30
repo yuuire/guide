@@ -25,7 +25,7 @@ To open Firefox settings click the hamburger menu (`☰`) in the top right corne
 
 ### Default Search Engine
 
-* Choose a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
+* Select a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ### Search Suggestions
 
@@ -84,7 +84,7 @@ To open Firefox settings click the hamburger menu (`☰`) in the top right corne
 ### DNS over HTTPS
 
 * Turn on: **Max Protection**
-    * Choose a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
+    * Select a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
 
 ## Extensions
 

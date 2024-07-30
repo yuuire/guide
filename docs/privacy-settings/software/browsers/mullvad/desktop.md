@@ -16,7 +16,7 @@ title: Mullvad Desktop Browser Settings
 
 ### Default Search Engine
 
-* Choose a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
+* Select a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ## Privacy & Security
 
@@ -32,7 +32,7 @@ title: Mullvad Desktop Browser Settings
 ### DNS over HTTPS
 
 * Turn on: **Max Protection**
-  * Use a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
+  * Select a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
 
 ## Extensions & Themes
 

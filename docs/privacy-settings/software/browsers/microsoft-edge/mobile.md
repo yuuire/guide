@@ -48,7 +48,7 @@ Tap the humburger menu (☰) in the bottom right corner and tap 'Settings'.
   * Search history
     * Search history: **Off**
 * Select search engine
-  * Choose a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
+  * Select a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 * Shopping
   * Show Shopping assistant: **Off**
 * Downloads
