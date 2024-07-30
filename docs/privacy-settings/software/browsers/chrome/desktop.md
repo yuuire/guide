@@ -66,7 +66,7 @@ Open the three-dot menu in the top right corner and open 'Settings'.
   * Turn on: **Standard protection**
 * Always use secure connections: **On**
 * Use secure DNS: **On**
-  * Secure DNS provider -> Use a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
+  * Secure DNS provider -> Select a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
 * Manage V8 security
   * Turn on: **Don't allow sites to use the V8 optimiser**
 * Site settings
@@ -80,7 +80,7 @@ Open the three-dot menu in the top right corner and open 'Settings'.
 
 ## Search engine
 
-* Use a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
+* Select a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ## Languages
 
