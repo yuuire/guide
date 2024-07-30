@@ -1,7 +1,7 @@
 ![COVER](/assets/covers/android.png)
 
 # Android Settings
-By enabling all of these settings, you are significantly reducing the amount of tracking and data collection these devices perform, but keep in mind that you are not completely eliminating it if you are not using a privacy-oriented custom ROM.
+Enabling all of these settings will significantly reduce the amount of tracking and data collection these devices do, but remember that you cannot eliminate it completely unless you are using a privacy-oriented custom ROM.
 
 ::: info
 Due to the nature of Android devices, the exact layout of the menu may vary from device to device.
@@ -16,21 +16,21 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ### VPN
 
-* Choose a [privacy respecting VPN service](/recommendations/providers/vpn-services) or an [ad blocking app](/recommendations/software/foss-alternatives#ads-trackers)
+* Use a privacy-respecting [VPN service](/recommendations/providers/vpn-services) or [ad-blocking application](/recommendations/software/foss-alternatives#ads-trackers)
 
 ### Private DNS
 
-* Choose any [privacy respecting DNS provider](/recommendations/providers/dns-resolvers)
+* Select any [privacy respecting DNS provider](/recommendations/providers/dns-resolvers)
 
 ## Bluetooth & devices
 
 ### Bluetooth
 
-* Turn **off** when not in use
+* Turn off when not in use
 
 ### NFC
 
-* Turn **off** when not in use
+* Turn off when not in use
 
 ### Quick Share
 
@@ -40,7 +40,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ### Screen timeout
 
-* The **lowest** time you are comfortable with
+* The lowest time you are comfortable with
 
 ## Lock screen & wallpaper
 
@@ -51,8 +51,8 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ## Apps
 
-* Replace proprietary apps with [FOSS alternatives](/recommendations/software/foss-alternatives)
-* Special app access -> Remove any unnecessary permissions 
+* Replace proprietary applications with [FOSS alternatives](/recommendations/software/foss-alternatives)
+* Special app access -> Remove unnecessary permissions 
 
 ## Notifications
 
@@ -96,7 +96,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ### Permission manager
 
-* Look through all the apps and disable permissions they don't need
+* Go through all the apps and disable any permissions you don't need
 
 ### Android System Intelligence
 
@@ -128,7 +128,7 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ### App location permissions
 
-* Remove any apps that don't need location permissions
+* Remove any applications that don't need location permissions
 
 ### Location Services
 
@@ -146,19 +146,19 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 
 ## Digital Wellbeing and parental controls
 
-* Open the three-dot menu in the top right corner
+* Open the three-dot menu in the top right-hand corner
 	* Manage your data -> Turn **off** -> Press on Digital Wellbeing -> Permit usage access: **Off**
 
 ## Accounts
 
-* Remove any unnecessary accounts
+* Remove unnecessary accounts
 
 ## System
 
 ### Languages and input
 
 * Press on Advanced -> On-Screen keyboard
-	* Default keyboard -> Choose any [privacy respecting keyboard](/recommendations/software/foss-alternatives#keyboard)
+	* Default keyboard -> Select any [privacy respecting keyboard](/recommendations/software/foss-alternatives#keyboard)
 
 ### Backup & restore
 
@@ -173,5 +173,5 @@ Due to the nature of Android devices, the exact layout of the menu may vary from
 * Wi-Fi non-persistent MAC randomisation: **On**
 
 ::: info
-It is possible to use an Android device without ever signing into a Google account for added privacy. This must be done during device setup. You can use [F-Droid](https://f-droid.org/) to procure many [open source](/guides/prologue/open-source) apps, and [Aurora Store](https://auroraoss.com) as a proxy for the Play Store for anything else you can't get on F-Droid. Note that with Aurora you will not be able to use Google to process app-related payments such as subscriptions or one-time payments to download the app. In these cases, it should be possible to sign into the Play Store exclusively without signing into Google on the entire device.
+It is possible to use an Android device without ever signing in to a Google account for added privacy. This must be done during device setup. You can use [F-Droid](https://f-droid.org/) to get many [open source](/guides/prologue/open-source) apps, and [Aurora Store](https://auroraoss.com) as a proxy for the Play Store for anything else you can't get on F-Droid. Note that with Aurora you will not be able to use Google to process app-related payments, such as subscriptions or one-off payments to download the app. In these cases, you should be able to sign in to the Play Store only without signing in to Google on the whole device.
 :::
