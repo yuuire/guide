@@ -5,7 +5,7 @@ title: Chrome Desktop Browser Settings
 ![Cover](/assets/covers/chrome.png)
 
 ::: warning
-We recommend not using Chrome, as it's controlled by Google and is notoriously known for being one of the worst browsers in the context of privacy. Manifest V3 is already here, and it effectively cripples the capabilities of ad and tracker blockers. You can learn more about MV3 on EFF [here](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) and [here](https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation).
+We don't recommend using Chrome because it's controlled by Google and is notorious for being one of the worst browsers in terms of privacy. Manifest V3 is already here, and it effectively cripples the capabilities of ad and tracker blockers. You can read more about MV3 at the EFF [here](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) and [here](https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation). What's more, Chrome on mobile doesn't even have extensions, which is a basic feature of Gecko-based browsers like Firefox.
 :::
 
 # Chrome Desktop Settings
