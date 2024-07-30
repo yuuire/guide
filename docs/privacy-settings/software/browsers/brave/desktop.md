@@ -27,7 +27,7 @@ title: Brave Mobile Browser Settings
   * Safe Browsing
     * Turn on: **Standard protection**
   * Use secure DNS
-    * Choose a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
+    * Select a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
   * Manage V8 security
     * Turn on: **Don't allow sites to use the V8 optimiser**
 * Site and shields settings
@@ -79,7 +79,7 @@ title: Brave Mobile Browser Settings
 
 ## Search engine
 
-* Use a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
+* Select a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 * Improve search suggestions: **Off**
 * Web Discovery Project: **Off**
 
