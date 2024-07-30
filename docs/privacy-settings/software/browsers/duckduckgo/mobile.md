@@ -4,7 +4,7 @@ title: DuckDuckGo Mobile Browser Settings
 
 ![Cover](/assets/covers/duckduckgo.png)
 
-# DuckDuckGo Mobile Browser Settings
+# DuckDuckGo Mobile Settings
 
 ## Privacy
 
