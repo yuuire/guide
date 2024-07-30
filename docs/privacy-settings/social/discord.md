@@ -6,10 +6,6 @@ title: Discord Settings
 
 # Discord
 
-::: info Privacy over security.
-These settings prioritise privacy over usability, so some of them may be controversial. Feel free to change the settings to suit your preferences.
-:::
-
 ## User Settings
 
 ### My Account
@@ -28,6 +24,10 @@ These settings prioritise privacy over usability, so some of them may be controv
 * Direct messages from friends: **Show**
 * Direct messages from others: **Show**
 * Server channel messages: **Show**
+
+::: info
+The above settings should be set to 'Show' to prevent Discord from scanning the images.
+:::
 
 #### DM Spam Filter
 
