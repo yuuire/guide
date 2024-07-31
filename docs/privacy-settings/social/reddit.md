@@ -6,7 +6,7 @@ title: Reddit Settings
 
 # Reddit Settings
 
-Click on your profile picture and then click on 'Settings'.
+Click on your profile picture and then click on `Settings`.
 
 ## Account
 
