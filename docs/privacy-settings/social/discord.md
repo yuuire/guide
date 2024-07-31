@@ -11,7 +11,7 @@ title: Discord Settings
 ### My Account
 
 * Password and Authentication
-  * Use an **authenticator app** (Remove your number if possible and never use SMS authentication)
+  * Use a [privacy-respecting 2FA application](/recommendations/software/multi-factor-authentication) (Remove your number if possible and never use SMS authentication)
 
 ### Profiles
 
