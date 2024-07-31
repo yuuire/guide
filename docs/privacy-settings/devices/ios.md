@@ -166,4 +166,4 @@ I encourage you to set up a **Medical ID** in case of an emergency. Saving a lif
 
 ### Content & Privacy Restrictions
 * Allowed Apps: **Disable anything you do not intend to use**
-* Privacy & Allowed Changes: **Set all to 'Don't Allow'**
+* Privacy & Allowed Changes: **Set all to `Don't Allow`**

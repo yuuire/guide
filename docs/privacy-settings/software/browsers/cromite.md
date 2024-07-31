@@ -6,7 +6,7 @@ title: Cromite Browser Settings
 
 # Cromite Settings
 
-Tap on the three-dot menu in the top right-hand corner of the screen and tap on 'Settings'.
+Tap on the three-dot menu in the top right-hand corner of the screen and tap on `Settings`.
 
 ## Basics
 
@@ -33,7 +33,7 @@ Tap on the three-dot menu in the top right-hand corner of the screen and tap on 
 
 * Third party cookies
   * Turn on: **Block third-party cookies**
-* Send a 'Do Not Track' request
+* Send a `Do Not Track` request
   * Turn **off**
 * Global Privacy Control "Sec-GPC"
   * Turn **on**

@@ -10,7 +10,7 @@ We don't recommend using Chrome because it's controlled by Google and is notorio
 
 # Chrome Desktop Settings
 
-Open the three-dot menu in the top right corner and open 'Settings'.
+Open the three-dot menu in the top right corner and open `Settings`.
 
 ## You and Google
 
@@ -26,7 +26,7 @@ Open the three-dot menu in the top right corner and open 'Settings'.
 
 ### Google Password Manager
 
-* Open the humburger menu (`☰`) in the top left corner of the page -> Settings
+* Open the hamburger menu (`☰`) in the top left corner of the page -> Settings
 
 #### Settings
 
@@ -49,7 +49,7 @@ Open the three-dot menu in the top right corner and open 'Settings'.
 ### Third-party cookies
 
 * Turn on: **Block third-party cookies**
-* Send a 'Do Not Track' request with your browsing tracker: **Off**
+* Send a `Do Not Track` request with your browsing tracker: **Off**
 
 ### Ads privacy
 

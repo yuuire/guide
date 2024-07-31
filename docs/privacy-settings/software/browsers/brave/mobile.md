@@ -41,7 +41,7 @@ title: Brave Mobile Browser Settings
   * Choose another provider -> Customised -> Select a [privacy-respecting DNS provider](/recommendations/providers/dns-resolvers)
 * Block cookie consent notices: **On**
 * Block 'Switch to App' notices: **On**
-* Send a 'Do Not Track' request: **Off**
+* Send a `Do Not Track` request: **Off**
 * Allow privacy-preserving product analytics (P3A): **Off**
 * Automatically send daily usage ping to Brave: **Off**
 * Improve search suggestions: **Off**

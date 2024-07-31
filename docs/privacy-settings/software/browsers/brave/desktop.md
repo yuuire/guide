@@ -39,7 +39,7 @@ title: Brave Mobile Browser Settings
 * Auto-redirect AMP pages: **On**
 * Auto-redirect tracking URLs: **On**
 * Prevent sites from finterprinting me based on my language preferences: **On**
-* Send a 'Do Not Track' request with your browsing traffic: **Off**
+* Send a `Do Not Track` request with your browsing traffic: **Off**
 
 ### Tor windows
 

@@ -13,7 +13,7 @@ editLink: false
 
 <br>
 <Grid class="sm:grid-cols-3">
-    <Card title="Facebook" href="/privacy-settings/social-media/meta/facebook"/>
-    <Card title="Messenger" href="/privacy-settings/social-media/meta/messenger"/>
-    <Card title="Instagram" href="/privacy-settings/social-media/meta/instagram"/>
+    <Card title="Facebook" href="/privacy-settings/social/meta/facebook"/>
+    <Card title="Messenger" href="/privacy-settings/social/meta/messenger"/>
+    <Card title="Instagram" href="/privacy-settings/social/meta/instagram"/>
 </Grid>

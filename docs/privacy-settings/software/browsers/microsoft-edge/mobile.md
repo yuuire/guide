@@ -6,11 +6,11 @@ title: Microsoft Edge Mobile Browser Settings
 
 # Microsoft Edge Mobile
 
-::: warning
+::: danger
 We don't recommend using Edge because it's controlled by Microsoft and is notorious for being one of the worst browsers for privacy. Manifest V3 is already here, and it effectively cripples the capabilities of ad and tracker blockers. You can read more about MV3 at the EFF [here](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) and [here](https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation).
 :::
 
-Tap the humburger menu (☰) in the bottom right corner and tap 'Settings'.
+Tap the hamburger menu (☰) in the bottom right corner and tap `Settings`.
 
 ## Privacy and security
 

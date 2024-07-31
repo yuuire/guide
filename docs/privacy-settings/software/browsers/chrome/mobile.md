@@ -10,7 +10,7 @@ We don't recommend using Chrome because it's controlled by Google and is notorio
 
 # Chrome Mobile Settings
 
-Tap the three-dot menu in the top right corner and tap 'Settings'.
+Tap the three-dot menu in the top right corner and tap `Settings`.
 
 ## You and Google
 
@@ -31,7 +31,7 @@ Tap the three-dot menu in the top right corner and tap 'Settings'.
 
 ### Password Manager
 
-* Tap on 'Settings' on the bottom of page
+* Tap on `Settings` on the bottom of page
   * Offer to save passwords: **Off** (Use a [privacy-respecting password manager](/recommendations/software/password-managers)
   * Auto sign-in: **Off**
 
@@ -58,7 +58,7 @@ Tap the three-dot menu in the top right corner and tap 'Settings'.
   * Ads measurement
     * Ads measurement: **Off**
 
-* Send a 'Do Not Track' request
+* Send a `Do Not Track` request
   * Turn **off**
 
 Preload pages
