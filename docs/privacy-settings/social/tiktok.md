@@ -10,7 +10,7 @@ title: TikTok Settings
 Take a moment to consider the potential consequences of your online activity. Whether it's a comment, photo, or personal detail, being mindful can help protect your privacy and digital footprint. Learn more [Guides -> Social Media](/guides/social-media).
 ::: 
 
-Navigate to your profile -> Tap the hamburger menu (☰) in the top right corner and select `Settings and privacy`.
+Navigate to your profile -> Tap the hamburger menu (`☰`) in the top right corner and select `Settings and privacy`.
 
 The best way is to click on Account section -> Deactivate or delete account -> Delete account permanently
 
