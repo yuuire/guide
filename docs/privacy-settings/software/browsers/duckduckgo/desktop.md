@@ -6,6 +6,8 @@ title: DuckDuckGo Desktop Browser Settings
 
 # DuckDuckGo Desktop Settings
 
+Open the three-dot menu in the top right corner and open `Settings`.
+
 ## Privacy
 
 ### Cookie Consent Pop-ups
