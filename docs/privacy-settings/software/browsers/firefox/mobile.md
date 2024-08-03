@@ -6,6 +6,8 @@ title: Firefox Mobile Browser Settings
 
 # Firefox Mobile Settings
 
+Tap the three-dot menu in the top right corner and tap `Settings`.
+
 ## Search
 
 ### Search engines
