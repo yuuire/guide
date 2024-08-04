@@ -6,6 +6,8 @@ title: Brave Mobile Browser Settings
 
 # Brave Mobile Browser Settings
 
+Tap the three-dot menu in the bottom right-hand corner and tap on 'Settings'.
+
 ## Features
 
 ### Brave Shields & privacy

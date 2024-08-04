@@ -6,6 +6,8 @@ title: DuckDuckGo Mobile Browser Settings
 
 # DuckDuckGo Mobile Settings
 
+Tap the three-dot menu in the top right corner and tap `Settings`.
+
 ## Privacy
 
 ### Private Search

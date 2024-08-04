@@ -6,6 +6,8 @@ title: Brave Mobile Browser Settings
 
 # Brave Desktop Settings
 
+Open the three-dot menu in the top right corner and open `Settings`.
+
 ## Appearance
 
 ### Toolbar

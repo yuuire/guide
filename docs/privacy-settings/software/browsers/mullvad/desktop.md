@@ -6,6 +6,8 @@ title: Mullvad Desktop Browser Settings
 
 # Mullvad Desktop Settings
 
+To open Firefox settings click the hamburger menu (`☰`)in the top right corner and then click on the settings tab.
+
 ## General
 
 ### Files and Applications
