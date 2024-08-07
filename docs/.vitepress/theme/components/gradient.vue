@@ -6,7 +6,7 @@
         <div
             class="jumbo absolute opacity-60"
             :class="{
-                '-animate': animated,
+                // '-animate': animated,
                 '-static': isStatic
             }"
         />
