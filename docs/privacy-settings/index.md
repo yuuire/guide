@@ -1,3 +1,5 @@
-::: warning WORK IN PROGRESS
-:warning: :cry: :fire: :zap:
-:::
+![Cover](/assets/covers/privacy-settings.png)
+
+# Privacy Settings
+
+Work in progress, please use sidebar navigation :)

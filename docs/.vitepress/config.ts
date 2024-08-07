@@ -210,6 +210,22 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
     {
       text: "DuckDuckGo",
       link: "/privacy-settings/software/search-engines/duckduckgo"
+    },
+    {
+      text: "Brave Search",
+      link: "/privacy-settings/software/search-engines/brave-search"
+    },
+    {
+      text: "Google Search",
+      link: "/privacy-settings/software/search-engines/google-search"
+    },
+    {
+      text: "Startpage",
+      link: "/privacy-settings/software/search-engines/startpage"
+    },
+    {
+      text: "SearXNG",
+      link: "/privacy-settings/software/search-engines/searxng"
     }
   ] },
   { text: 'Password Managers', collapsed: false, items: [
