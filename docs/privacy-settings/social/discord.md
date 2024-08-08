@@ -6,6 +6,8 @@ title: Discord Settings
 
 # Discord Settings
 
+Navigate to [Discord](https://discord.com/channels/@me) and click the gear icon next to your username.
+
 ## User Settings
 
 ### My Account
