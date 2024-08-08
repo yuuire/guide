@@ -4,9 +4,9 @@ title: X Settings
 
 ![Cover](/assets/covers/x.png)
 
-# X
+# X Settings
 
-Click `More` in the left pane, then click `Settings and privacy`.
+Navigate to [X](https://x.com/), click `More` in the left pane, then click `Settings and privacy`.
 
 ## Your account
 
