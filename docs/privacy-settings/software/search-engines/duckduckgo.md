@@ -6,6 +6,8 @@ title: DuckDuckGo Settings
 
 # DuckDuckGo Search Settings
 
+Navigate to [DuckDuckGo settings](https://duckduckgo.com/settings).
+
 ## General
 
 * Safe Search: **Moderate/Off**
@@ -44,3 +46,5 @@ title: DuckDuckGo Settings
 ###
 
 * Auto-answer: **Off**
+
+Click **Save and Exit**
