@@ -6,14 +6,15 @@ title: Brave Search Settings
 
 # Brave Search Settings
 
-Go to [Brave Search settings](https://search.brave.com/settings)
+Go to [Brave Search settings](https://search.brave.com/settings).
 
 ## Search preferences
-- Safe search: **Moderate**
-- Answer with AI: **Off**
-- Code LLM: **Off**
+
+* Safe search: **Moderate/Off**
+* Answer with AI: **Off**
+* Code LLM: **Off**
 
 ###
 
-- Anonymous local results: **On**
-- Anonymous usage metrics: **Off**
+* Google Fallback Mixing: **Off**
+* Anonymous usage metrics: **Off**
