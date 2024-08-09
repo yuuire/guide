@@ -10,7 +10,7 @@ title: TikTok Settings
 Take a moment to consider the potential consequences of your online activities. Whether it's a comment, photo, or personal information, being mindful can help protect your privacy and digital footprint. For more information, see [Guides -> Social Media](/guides/social-media).
 ::: 
 
-Navigate to your profile -> Tap the hamburger menu (`☰`) in the top right corner and select `Settings and privacy`.
+Navigate to your profile, tap the hamburger menu (`☰`) in the top right corner and select `Settings and privacy`.
 
 ## Account
 
