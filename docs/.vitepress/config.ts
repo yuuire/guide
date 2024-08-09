@@ -259,6 +259,20 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
       text: "LinkedIn",
       link: "/privacy-settings/social/linkedin"
     },
+    { text: 'Google', link: '/privacy-settings/social/google', collapsed: true, items: [
+      {
+        text: "Google Account",
+        link: "/privacy-settings/social/google/google"
+      },
+      {
+        text: "YouTube",
+        link: "/privacy-settings/social/google/youtube"
+      },
+      {
+        text: "Gmail",
+        link: "/privacy-settings/social/google/gmail"
+      }
+    ] },
     { text: 'Meta', link: '/privacy-settings/social/meta', collapsed: true, items: [
       {
         text: "Facebook",
