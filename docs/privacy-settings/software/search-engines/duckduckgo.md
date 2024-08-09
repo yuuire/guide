@@ -47,4 +47,4 @@ Navigate to [DuckDuckGo settings](https://duckduckgo.com/settings).
 
 * Auto-answer: **Off**
 
-Click **Save and Exit**
+Click `Save and Exit`
