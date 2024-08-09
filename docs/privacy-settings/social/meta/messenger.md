@@ -59,4 +59,4 @@ Change your profile picture to something that doesn't show your, or anyone else'
 ### Photos & media
 
 * Save on capture: **Off**
-* Open links in external browser: **Off**
+* Open links in external browser: **On**
