@@ -6,7 +6,7 @@ title: Mullvad Desktop Browser Settings
 
 # Mullvad Desktop Settings
 
-To open Mullvad settings click the hamburger menu (`☰`) in the top right corner and then click on the settings tab.
+Click the hamburger menu (`☰`) in the top right corner and then click on `Settings`.
 
 ## General
 
