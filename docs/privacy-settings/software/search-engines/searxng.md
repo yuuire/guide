@@ -4,25 +4,31 @@ title: SearXNG Settings
 
 ![Cover](/assets/covers/searxng.png)
 
-# SearXNG Privacy Settings
+# SearXNG Settings
 
-Navigate to the right corner of your screen -> Click Preferences
+Navigate to the top right hand corner of the page and click on `Preferences`.
 
 ## General
-- Autocomplete: **`-` or `duckduckgo`**
-- Hostname replace: **On** (if available)
+
+* Autocomplete: **-/duckduckgo**
+* SafeSearch: **Moderate/Off**
+* Hostname replace: **On** (If available)
 
 ## Privacy
-- Image proxy: **On**
-- Query in the page's title: **Off**
-- Tracker URL remover: **On**
+
+* HTTP Method: **POST**
+* Image proxy: **On**
+* Query in the page's title: **Off**
+* Tracker URL remover: **On**
 
 ## Engines
-- Choose [privacy-respecting search engine](/recommendations/internet-browsing/search-engines), for example **DuckDuckGo**.
+
+* Choose a [privacy-respecting search engine](/recommendations/internet-browsing/search-engines)
 
 ## Special Queries
-- md5, sha1, sha224, sha256, sha384, sha512: **On**
-- user-agent: **Off**
-- tor-check: **On**
 
-Click **Save**
+* md5, sha1, sha224, sha256, sha384, sha512: **On**
+* user-agent: **Off**
+* tor-check: **On**
+
+Click `Save`
