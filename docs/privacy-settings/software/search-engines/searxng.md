@@ -31,4 +31,4 @@ Navigate to the top right hand corner of the page and click on `Preferences`.
 * user-agent: **Off**
 * tor-check: **On**
 
-Click **Save**
+Click `Save`
