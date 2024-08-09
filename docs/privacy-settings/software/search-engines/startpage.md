@@ -4,18 +4,23 @@ title: Startpage Settings
 
 ![Cover](/assets/covers/startpage.png)
 
-# Startpage Privacy Settings
+# Startpage Settings
 
-Go to [Startpage Search settings](https://www.startpage.com/do/settings)
+Go to [Startpage settings](https://www.startpage.com/do/settings).
 
 ## General
-- Search suggestions: Off
+
+* Search location: **None**
+* Search suggestions: **Off**
 
 ## Appearance
-- Promotional messaging: Off
+
+* Promotional messaging: **Off**
 
 ## Privacy and Safety
-- HTTP request method: POST
-- Show safety suggestion: On
 
-Click **Save your settings**
+* Safe Search: **Off**
+* HTTP request method: **POST**
+* Show safety suggestion: On
+
+Click `Save your settings`
