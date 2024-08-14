@@ -83,6 +83,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 }
 
 .VPSwitchAppearance .check {
+    background-color: transparent;
     transform: none !important;
 }
 

@@ -35,7 +35,66 @@ const plainContributors: Contributors[] = [
         title: 'Founder',
         sponsor: meta.sponsor,
     },
+    {
+        avatar: `https://github.com/luckless0.png`,
+        name: `luckless`,
+        git: `luckless0`,
+        title: `Lead Contributor`
+    }
 ]
+
+export interface otherContributors {
+    base: Contributors[];
+    specialthanks: Contributors[];
+}
+
+export const otherContributors = {
+    base: [
+        {
+            avatar: `https://github.com/luckless0.png`,
+            name: `luckless`,
+            website: `https://github.com/luckless0`,
+        }
+    ],
+
+    specialthanks: [
+        {
+            avatar: `https://github.com/privacyguides.png`,
+            name: `Privacy<br>Guides`,
+            website: `https://privacyguides.org/`
+        },
+        {
+            avatar: `https://github.com/fmhy.png`,
+            name: `FMHY`,
+            website: `https://fmhy.net/`
+        },
+        {
+            avatar: `https://github.com/stellarsand.png`,
+            name: `StellarSand`,
+            website: `https://github.com/stellarsand/privacy-settings`
+        },
+        {
+            avatar: `/assets/avatars/thenewoil.png`,
+            name: `The New Oil`,
+            website: `https://thenewoil.org`
+        },
+        {
+            avatar: `https://github.com/anon-planet.png`,
+            name: `Anonymous<br>Planet`,
+            website: `https://anonymousplanet.org/`
+        },
+        {
+            avatar: `/assets/avatars/kenharris.png`,
+            name: `Ken Harris`,
+            website: `https://cyber.kenharris.io/`
+        },
+        {
+            avatar: `https://github.com/pluja.png`,
+            name: `Pluja`,
+            website: `https://pluja.github.io/awesome-privacy/`
+        },
+    ],
+};
 
 const contributors = plainContributors.map(social => createLinks(social))
 

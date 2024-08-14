@@ -2,4 +2,6 @@
 
 # Understanding Operating Systems
 
-coming soon
+Coming soon. 
+
+The final touches...

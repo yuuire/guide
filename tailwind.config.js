@@ -1,3 +1,5 @@
+const { addDynamicIconSelectors } = require("@iconify/tailwind");
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
     preflight: false,
@@ -7,6 +9,7 @@ module.exports = {
         extend: {}
     },
     plugins: [
-        require('daisyui')
+        addDynamicIconSelectors()
+        // require('daisyui')
     ]
 }

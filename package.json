@@ -22,6 +22,7 @@
     "vite-plugin-icons": "^0.6.5"
   },
   "devDependencies": {
+    "@iconify/tailwind": "^1.1.2",
     "markdown-it": "^14.1.0",
     "react": "^18.3.1",
     "vitepress": "^1.2.3",
