@@ -3,12 +3,14 @@ title: "yuuire's guide"
 url: "https://guide.yuuire.com/"
 message: "If you reference this website, please cite it as below."
 authors:
-  - alias: yuuire
+  - family-names: "yuuire"
+    given-names: ""
     website: "https://yuuire.com/"
 type: software
 preferred-citation:
   type: website
   title: "A Complete Guide To Privacy, Security & Anonymity"
+  url: "https://guide.yuuire.com/"
 abstract: "A Complete Guide To Privacy, Security & Anonymity"
 keywords:
   - privacy
@@ -18,6 +20,6 @@ keywords:
   - website
   - encryption
   - guide
-doi: 10.5281/zenodo.1234
+doi: "10.5281/zenodo.1234"
 repository-code: "https://github.com/yuuire/guide"
-license: CC-BY-SA-4.0
+license: "CC-BY-SA-4.0"
