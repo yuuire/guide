@@ -5,7 +5,7 @@ message: "If you reference this website, please cite it as below."
 authors:
   - alias: yuuire
     website: "https://yuuire.com/"
-type: website
+type: software
 preferred-citation:
   type: website
   title: "A Complete Guide To Privacy, Security & Anonymity"
