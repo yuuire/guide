@@ -4,7 +4,7 @@ export const plainurl = 'yuuire.com'
 export const meta = {
     author: 'yuuire',
     name: 'yuuire',
-    description: 'Your guide to securing your digital life and protecting your privacy',
+    description: 'A Complete Guide To Privacy, Security & Anonymity',
     hostname: 'https://guide.' + plainurl,
     plainurl: plainurl,
     sponsor: 'https://github.com/sponsors/yuuire',

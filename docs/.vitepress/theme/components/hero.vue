@@ -16,15 +16,20 @@
         <h3
             class="text-xl md:text-2xl text-gray-500 dark:text-gray-400 !leading-normal text-left md:text-center w-full max-w-[50rem]"
         >
-            Your guide to
+            A Complete Guide To
             <span
-                class="text-transparent font-semibold bg-clip-text bg-gradient-to-b from-sky-800 to-indigo-900 dark:from-sky-200 dark:to-indigo-300">
-                securing your digital life
+                class="text-transparent inline-block font-semibold bg-clip-text bg-gradient-to-b from-sky-800 to-indigo-900 dark:from-sky-200 dark:to-indigo-300">
+                Privacy
             </span>
-            and
+            <span>, </span>
             <span
                 class="text-transparent font-semibold bg-clip-text bg-gradient-to-b from-sky-800 to-indigo-900 dark:from-sky-200 dark:to-indigo-300">
-                protecting your privacy
+                Security
+            </span>
+            <span>&</span>
+            <span
+                class="text-transparent font-semibold bg-clip-text bg-gradient-to-b from-sky-800 to-indigo-900 dark:from-sky-200 dark:to-indigo-300">
+                Anonymity
             </span>
         </h3>
         <section

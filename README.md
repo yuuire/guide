@@ -21,7 +21,7 @@ A Complete Guide To Privacy, Security & Anonymity
 
 <img src="docs/public/assets/covers/bigtech.png">
 
-<h5 style="margin-top: 5px;" align="center">Consider giving the repository a ⭐ star. Your support motivates us to improve the guide!</h5>
+<h4 style="margin-top: 5px;" align="center">Consider giving the repository a ⭐ star. Your support motivates us to improve the guide!</h4>
 
 # Why should I care? 
 
@@ -33,4 +33,6 @@ Many people think they don't have much to hide. But they change their minds when
 
 ### <a href="https://guide.yuuire.com/">Stop waiting and start your privacy journey now!</a>
 
-<!-- # Contributing, Feedback, Mirrors -->
+## Contributing
+
+without account use feedback option on our site, if u have account use issues fork repo etc etc

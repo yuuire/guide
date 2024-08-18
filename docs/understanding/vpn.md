@@ -3,6 +3,12 @@
 # Understanding VPN
 In recent years, the concept of Virtual Private Networks (VPNs) has gained significant attention, often propelled by the endorsements of social media influencers. However, the reality behind VPNs starkly contrasts with the promises made, leading to misconceptions and misinformed decisions among users.
 
+::: danger VPNs do not provide anonymity
+If you are looking for **anonymity**, you should use the [Tor Browser](/recommendations/internet-browsing/tor-browser). If you're looking for added security, you should always ensure you're connecting to websites using **HTTPS**.
+
+A **VPN** is not a replacement for good security practices.
+:::
+
 ## Misrepresentation by Influencers
 VPN’s have become a popular tool, largely because of how influencers make it seem like they are necessary for online privacy and security. There is no avoiding the claims that their advertisements promise to hide internet traffic, avoid surveillance, and make anonymous surfing possible. However, these assertions are far from true. Though many VPN providers claim not to keep records on customers’ activities, this has proven false in many cases. Therefore, there is a cause for alarm about the integrity of virtual private network (VPN) services.
 
@@ -21,10 +27,8 @@ Check our [recommendations](/recommendations/providers/vpn-services)
 ## Risks and Considerations
 Despite their intended benefits, VPNs are not foolproof solutions. Users should remain vigilant about potential risks associated with VPN usage, including susceptibility to DNS hijacking, SSL stripping attacks, and vulnerabilities in network equipment. Understanding these risks empowers users to make informed decisions regarding the necessity and appropriateness of VPN usage in their specific contexts.
 
----
-
 ::: danger VPNs do not provide anonymity
-If you are looking for **anonymity**, you should use the [Tor Browser](/recommendations/internet-browsing/tor). If you're looking for added security, you should always ensure you're connecting to websites using **HTTPS**.
+If you are looking for **anonymity**, you should use the [Tor Browser](/recommendations/internet-browsing/tor-browser). If you're looking for added security, you should always ensure you're connecting to websites using **HTTPS**.
 
 A **VPN** is not a replacement for good security practices.
 :::

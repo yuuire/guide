@@ -47,6 +47,7 @@ const Providers: DefaultTheme.NavItemWithLink[] = [
     { text: 'Email Services', link: '/recommendations/providers/email-services' },
     { text: 'Email Aliasing', link: '/recommendations/providers/email-aliasing' },
     { text: 'Cloud Storage', link: '/recommendations/providers/cloud-storage' },
+    { text: 'VoIP Providers', link: '/recommendations/providers/voip-providers' },
     { text: 'VPN Services', link: '/recommendations/providers/vpn-services' },
     { text: 'Proxy Services', link: '/recommendations/providers/proxy-services' },
     { text: 'DNS Resolvers', link: '/recommendations/providers/dns-resolvers' },
@@ -60,6 +61,7 @@ const Software: DefaultTheme.NavItemWithLink[] = [
     { text: 'Multi-Factor Authentication', link: '/recommendations/software/multi-factor-authentication' },
     { text: 'Encryption Software', link: '/recommendations/software/encryption-software' },
     { text: 'File Sharing', link: '/recommendations/software/file-sharing' },
+    { text: 'Health & Fitness', link: '/recommendations/software/health-and-fitness' },
     { text: 'Productivity Tools', link: '/recommendations/software/productivity-tools' },
     { text: 'Real-Time Communication', link: '/recommendations/software/real-time-communication' },
     { text: 'Metadata Erasers', link: '/recommendations/software/metadata-erasers' },
@@ -68,14 +70,15 @@ const Software: DefaultTheme.NavItemWithLink[] = [
 
 const Hardware: DefaultTheme.NavItemWithLink[] = [
     { text: 'Security Keys', link: '/recommendations/hardware/security-keys' },
+    { text: 'Mobile Phones', link: '/recommendations/hardware/mobile-phones' },
     // { text: 'Data carriers', link: '/recommendations/hardware/data-carriers' }
 ]
 
 const Operating_Systems: DefaultTheme.NavItemWithLink[] = [
     { text: 'Android', link: '/recommendations/operating-systems/android' },
-    // { text: 'iOS', link: '/recommendations/operating-systems/ios' },
+    { text: 'iOS', link: '/recommendations/operating-systems/ios' },
     { text: 'Linux', link: '/recommendations/operating-systems/linux' },
-    // { text: 'Windows', link: '/recommendations/operating-systems/windows' },
+    { text: 'Windows', link: '/recommendations/operating-systems/windows' },
 ]
 
 const Miscellaneous: DefaultTheme.NavItemWithLink[] = [
@@ -161,7 +164,11 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
       {
         text: "Mobile",
         link: "/privacy-settings/software/browsers/firefox/mobile"
-      }
+      },
+      {
+        text: "Focus",
+        link: "/privacy-settings/software/browsers/firefox/focus"
+      },
     ] },
     { text: 'Chrome', link: '/privacy-settings/software/browsers/chrome', collapsed: true, items: [
       {
@@ -205,6 +212,8 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
     ] },
     { text: 'Mullvad', link: '/privacy-settings/software/browsers/mullvad/desktop', },
     { text: 'Cromite', link: '/privacy-settings/software/browsers/cromite', },
+    { text: 'Safari', link: '/privacy-settings/software/browsers/safari', },
+    { text: 'jQuarks', link: '/privacy-settings/software/browsers/jquarks', },
   ] },
   { text: 'Search Engines', collapsed: false, items: [
     {
@@ -240,12 +249,32 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
   ] },
   { text: 'Social', collapsed: false, items: [
     {
+      text: "Telegram",
+      link: "/privacy-settings/social/telegram"
+    },
+    {
       text: "Discord",
       link: "/privacy-settings/social/discord"
     },
     {
+      text: "Proton",
+      link: "/privacy-settings/social/proton"
+    },
+    {
+      text: "Snapchat",
+      link: "/privacy-settings/social/snapchat"
+    },
+    {
       text: "Reddit",
       link: "/privacy-settings/social/reddit"
+    },
+    // {
+    //   text: "Steam",
+    //   link: "/privacy-settings/social/steam"
+    // },
+    {
+      text: "Signal",
+      link: "/privacy-settings/social/signal"
     },
     {
       text: "TikTok",
@@ -262,7 +291,7 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
     { text: 'Google', link: '/privacy-settings/social/google', collapsed: true, items: [
       {
         text: "Google Account",
-        link: "/privacy-settings/social/google/google"
+        link: "/privacy-settings/social/google/account"
       },
       {
         text: "YouTube",
@@ -285,8 +314,34 @@ const SoftwareSettings: DefaultTheme.SidebarItem[] = [
       {
         text: "Instagram",
         link: "/privacy-settings/social/meta/instagram"
+      },
+      {
+        text: "WhatsApp",
+        link: "/privacy-settings/social/meta/whatsapp"
       }
     ] },
+  ] },
+  { text: 'Uncategorized', collapsed: false, items: [
+    {
+      text: "Amazon",
+      link: "/privacy-settings/uncategorized/amazon"
+    },
+    {
+      text: "ChatGPT",
+      link: "/privacy-settings/uncategorized/chatgpt"
+    },
+    {
+      text: "Visual Studio Code",
+      link: "/privacy-settings/uncategorized/visualstudiocode"
+    },
+    {
+      text: "Spotify",
+      link: "/privacy-settings/uncategorized/spotify"
+    },
+    {
+      text: "Zoom",
+      link: "/privacy-settings/uncategorized/zoom"
+    },
   ] },
 ]
   
@@ -344,13 +399,13 @@ export default defineConfig({
             },
             {
               text: '💙 Donate',
-              link: '/donate/'
+              link: meta.sponsor
             },
         ],
         sidebar: {
             '/guides/': SidebarGuide,
             '/understanding/': SidebarGuide,
-            '/donate/': SidebarGuide,
+            // '/donate/': SidebarGuide,
             
             '/tools/': SidebarRecommendations,
             '/recommendations/': SidebarRecommendations,
@@ -363,7 +418,7 @@ export default defineConfig({
               },
               {
                 text: 'Contributing',
-                link: meta.repo + '/blob/main/CONTRIBUTING.md',
+                link: meta.repo + '#Contributing',
               },
               {
                 text: 'Extensions',

@@ -13,7 +13,7 @@ editLink: false
 
 <br>
 <Grid class="sm:grid-cols-3">
-    <Card title="Google Account" href="/privacy-settings/social/google/google"/>
+    <Card title="Google Account" href="/privacy-settings/social/google/account"/>
     <Card title="YouTube" href="/privacy-settings/social/google/youtube"/>
     <Card title="Gmail" href="/privacy-settings/social/google/gmail"/>
 </Grid>

@@ -47,8 +47,8 @@ See [Recommendations -> Software -> FOSS Alternatives](/recommendations/software
 
 ## Communities
 
-| Provider | Links |
-| --- | :-- |
+| Provider |
+| --- |
 | :star: [XDA](https://xdaforums.com/)
 | :star: [r/fossdroid](https://www.reddit.com/r/fossdroid/)
 | [r/Android](https://www.reddit.com/r/Android/)

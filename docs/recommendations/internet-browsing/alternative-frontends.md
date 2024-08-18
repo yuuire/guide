@@ -31,7 +31,7 @@ title: Alternative Frontends
 
 | Provider | Links |
 | --- | :-- |
-| [Nitter](https://github.com/zedeus/nitter) | [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)<br/>[Self-Hosting](https://github.com/zedeus/nitter?tab=readme-ov-file#installation)<br/>[Warning :warning:](https://status.d420.de/rip)
+| [Nitter](https://github.com/zedeus/nitter) <a href="https://status.d420.de/rip"><Badge type="warning" text="⚠️ Warning" /></a> | [Public Instances](https://github.com/zedeus/nitter/wiki/Instances)<br/>[Self-Hosting](https://github.com/zedeus/nitter?tab=readme-ov-file#installation)
 
 ## Instagram
 

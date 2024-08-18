@@ -1,5 +1,7 @@
 ---
 title: Introduction
+lastUpdated: false
+editLink: false
 ---
 
 ![Cover](/assets/covers/bigtech.png)

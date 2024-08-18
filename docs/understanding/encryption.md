@@ -8,13 +8,13 @@ title: Understanding Encryption
 
 Encryption is the process of converting plaintext, which is easily readable data, into ciphertext, which is encoded data. This transformation is achieved using cryptographic algorithms and keys. The primary goal of encryption is to ensure confidentiality by making the encrypted data unreadable to unauthorized users. Even if intercepted during transmission or storage, the ciphertext remains secure because decryption, which reverses the encryption process, requires the correct decryption key. This method is crucial in protecting sensitive information such as personal data, financial transactions, and classified communications from unauthorized access and tampering.
 
-## Types of Encryption:
+## Types of Encryption
 
 1. **Symmetric Encryption:** Uses a single key for both encryption and decryption. While efficient, securely sharing the key poses a challenge.
    
 2. **Asymmetric Encryption:** Uses a pair of keys (public and private). Data encrypted with the public key can only be decrypted with the corresponding private key, enhancing security and key distribution.
 
-## Applications of Encryption:
+## Applications of Encryption
 
 - **Data Security:** Protects sensitive information such as passwords, financial transactions, and personal communications.
   
@@ -22,7 +22,7 @@ Encryption is the process of converting plaintext, which is easily readable data
   
 - **Data Storage:** Safeguards stored data on devices and servers from unauthorized access.
 
-## Encryption Protocols:
+## Encryption Protocols
 
 - **SSL (Secure Socket Layer)/TLS (Transport Layer Security):** Secures data transmitted over networks, essential for secure browsing. You'll usually hear SSL being used (referring to an SSL certificate).
 
@@ -32,7 +32,7 @@ Encryption is the process of converting plaintext, which is easily readable data
 
 - **PGP (Pretty Good Privacy):** This is used for encrypting emails and requires setup from a person to be able to use. This can be used to enhance security as email is considered highly insecure.
 
-## Challenges and Considerations:
+## Challenges and Considerations
 
 - **Key Management:** Safeguarding encryption keys is crucial; loss or compromise can lead to data loss or exposure.
   

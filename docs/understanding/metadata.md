@@ -10,7 +10,7 @@ Metadata can be defined as "data about data." It consists of descriptive informa
 
 See ["We kill people based on Metadata"](/assets/covers/Michael-Hayden.m4v)
 
-## Types of Metadata:
+## Types of Metadata
 
 1. **Descriptive Metadata**: Includes information like titles, tags, and keywords that describe the content.
    
@@ -20,7 +20,7 @@ See ["We kill people based on Metadata"](/assets/covers/Michael-Hayden.m4v)
    
 4. **Technical Metadata**: Specifications about the technical aspects of data, such as file type, resolution of images, or encoding of audio files.
 
-## Why Metadata Matters:
+## Why Metadata Matters
 
 Understanding metadata is crucial because:
 
@@ -30,7 +30,7 @@ Understanding metadata is crucial because:
   
 - **Data Management**: Properly managing metadata can make your life easier. It helps with searching, retrieving, and organizing your precious data. No more digging through piles of files!
 
-## Examples of Metadata:
+## Examples of Metadata
 
 - **Email Metadata**: When you send an email, it leaves a trail of metadata. It includes details like who sent it, who received it, and when it was sent.
   
@@ -38,7 +38,7 @@ Understanding metadata is crucial because:
   
 - **Web Metadata**: When you browse the web, you leave behind some digital footprints. This web metadata includes things like IP addresses, browser types, and those sneaky cookies that track your online activities.
 
-## Removing Metadata from Files/Documents/Pictures:
+## Removing Metadata from Files/Documents/Pictures
 
 Recommended software:
 
@@ -52,7 +52,7 @@ Recommended software:
 ***ExifTool** is natively available on **Tails** and **Whonix Workstation***
 
 
-# As always
+## As always
 
 ::: warning REMEMBER
 

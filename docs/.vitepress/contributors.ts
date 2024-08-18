@@ -34,12 +34,6 @@ const plainContributors: Contributors[] = [
         website: 'https://' + meta.plainurl,
         title: 'Founder',
         sponsor: meta.sponsor,
-    },
-    {
-        avatar: `https://github.com/luckless0.png`,
-        name: `luckless`,
-        git: `luckless0`,
-        title: `Lead Contributor`
     }
 ]
 
@@ -51,9 +45,9 @@ export interface otherContributors {
 export const otherContributors = {
     base: [
         {
-            avatar: `https://github.com/luckless0.png`,
+            avatar: `/assets/avatars/luckless.jpg`,
             name: `luckless`,
-            website: `https://github.com/luckless0`,
+            website: ``,
         }
     ],
 

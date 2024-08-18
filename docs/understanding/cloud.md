@@ -16,4 +16,4 @@ You should not trust cloud providers with your (not previously and locally encry
 The only way to mitigate this is to encrypt your data on your side and then only upload it to our [recommended services](/recommendations/providers/cloud-storage) or just not use them at all.
 
 ## Sources
-[Anonymous Planet](https://anonymousplanet.org/)
+- [Anonymous Planet](https://anonymousplanet.org/)

@@ -12,8 +12,9 @@ editLink: false
 </script>
 
 <br>
-<Grid class="sm:grid-cols-3">
+<Grid class="sm:grid-cols-4">
     <Card title="Facebook" href="/privacy-settings/social/meta/facebook"/>
     <Card title="Messenger" href="/privacy-settings/social/meta/messenger"/>
     <Card title="Instagram" href="/privacy-settings/social/meta/instagram"/>
+    <Card title="WhatsApp" href="/privacy-settings/social/meta/whatsapp"/>
 </Grid>

@@ -10,7 +10,7 @@ Go to [Google Search settings](https://www.google.com/preferences) (located at t
 
 ## Privacy & Safety
 
-If you are signed in to a Google Account, follow [these settings](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Google-Account.md).
+If you are signed in to a Google Account, follow [these settings](/privacy-settings/social/google/account).
 
 * Search customization: Off (Only available if you are *not* signed in to your Google Account)
 

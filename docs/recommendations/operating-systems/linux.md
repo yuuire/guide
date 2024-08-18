@@ -45,11 +45,11 @@ title: Linux
 | :star: [HowToLinux](https://howtolinux.vercel.app) |
 | [Archwiki](https://wiki.archlinux.org/)<br/>[Manuals](https://man.archlinux.org/)<br/>[TUI](https://codeberg.org/theooo/mantra.py) |
 | [InstallGentoo](https://wiki.installgentoo.com/) |
-| [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) |
+| [Mental Outlaw <sup>(YouTube)</sup>](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) |
 | [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) |
 | [HowtoForge](https://www.howtoforge.com/) |
 | [Sindresorhus Guides](https://github.com/sindresorhus/guides) |
-| [Erik Dubois](https://www.youtube.com/c/ErikDubois) |
+| [Erik Dubois <sup>(YouTube)</sup>](https://www.youtube.com/c/ErikDubois) |
 | [LinuxJourney](https://linuxjourney.com/) |
 | [Linuxtopia](https://www.linuxtopia.org/) |
 | [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) |

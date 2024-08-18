@@ -8,7 +8,7 @@ title: Browser Extensions
 
 | Provider | Privacy Settings | Additional Resources | Links
 | --- | :-- | :-- | :--
-| :star: [uBlock Origin](https://github.com/gorhill/uBlock) | <a href="/privacy-settings/extensions/ublock-origin">:link:</a> | [Recommended Filters](https://github.com/yokoffing/filterlists)<br/>[Advanced Tutorial (YouTube)](https://youtu.be/2lisQQmWQkY)<br/>[Redudant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions#-dont-bother)<br/>[Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) | [Privacy Policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy) |
+| :star: [uBlock Origin](https://github.com/gorhill/uBlock) | <a href="/privacy-settings/extensions/ublock-origin">:link:</a> | [Recommended Filters](https://github.com/yokoffing/filterlists)<br/>[Advanced Tutorial <sup>(YouTube)</sup>](https://youtu.be/2lisQQmWQkY)<br/>[Redudant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions#-dont-bother)<br/>[Guides](https://www.reddit.com/r/uBlockOrigin/wiki/index/) | [Privacy Policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy) |
 | :star:&nbsp;[SponsorBlock](https://sponsor.ajay.app/) | |  [3rd Party Implementations](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports)<br/>[Script](https://github.com/mchangrh/sb.js), [2](https://codeberg.org/mthsk/userscripts/src/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js) | [Source Code](https://github.com/ajayyy/SponsorBlock)<br/>[Privacy Policy](https://gist.github.com/ajayyy/aa9f8ded2b573d4f73a3ffa0ef74f796) |
 | :star:&nbsp;[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) | | [Tested Sites](https://github.com/NicolaeNMV/BehindTheOverlay/blob/master/WORKS_ON.md) | |
 | :star:&nbsp;[CanvasBlocker](https://canvasblocker.kkapsner.de/) | | [Beta](https://canvasblocker.kkapsner.de/versions/)<br/>[Fingerprinting Tests](https://canvasblocker.kkapsner.de/test/) | [Source Code](https://github.com/kkapsner/CanvasBlocker) |
@@ -17,20 +17,26 @@ title: Browser Extensions
 | [PopUpOFF](https://popupoff.org/) | | | [Source Code](https://github.com/RomanistHere/PopUpOFF)<br/>[Privacy Policy](https://popupoff.org/privacy-policy) |
 
 ### Adblock Tests
-* [AdBlock Tester](https://adblock-tester.com/)
-* [Toolz](https://d3ward.github.io/toolz/adblock.html)
+
+| Provider |
+|   ---    |
+| [AdBlock Tester](https://adblock-tester.com/) |
+| [Toolz](https://d3ward.github.io/toolz/adblock.html) |
 
 ### Adblock Filters
-* :star: [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
-* :star: [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
-* :star: [FMHY Filterlist](https://github.com/WindowsAurora/FMHYFilterlist/)
-* [Test Filters](http://raymondhill.net/ublock/adbox.html)
-* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt)
-* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook)
-* [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
-* [webannoyances](https://github.com/yourduskquibbles/webannoyances)
-* [NoADS RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
-* [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+
+| Provider |
+|   ---    |
+| :star: [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists) |
+| :star: [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) |
+| :star: [FMHY Filterlist](https://github.com/WindowsAurora/FMHYFilterlist/) |
+| [Test Filters](http://raymondhill.net/ublock/adbox.html) |
+| [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) |
+| [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/#wiki_facebook) |
+| [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt) |
+| [webannoyances](https://github.com/yourduskquibbles/webannoyances) |
+| [NoADS RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt) |
+| [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) |
 
 ## Redirect Bypass
 
@@ -55,7 +61,7 @@ title: Browser Extensions
 | --- | :-- |
 | :star: [ClearURLs](http://docs.clearurls.xyz/) | [Source Code](https://github.com/ClearURLs/Addon)<br/>[Privacy Policy](https://github.com/ClearURLs/Addon/blob/master/PRIVACY.md)
 | :star: [Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-| [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | [Privacy Policy](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/blob/master/PRIVACY_POLICY.md)<br/>[Warning :warning:](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/issues/10278)
+| [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) <a href="https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/issues/10278"><Badge type="warning" text="⚠️ Warning" /></a> | [Privacy Policy](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/blob/master/PRIVACY_POLICY.md)
 
 ## Userscript Managers
 

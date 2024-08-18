@@ -61,10 +61,8 @@ When a bad actor has your email address they could use it for various malicious 
 
 ## Sources
 
-[Wikipedia - Email privacy](https://en.wikipedia.org/wiki/Email_privacy)
-
-[Proton Mail](https://proton.me/mail)
-
-[Tuta](https://tuta.com/)
+- [Wikipedia - Email privacy](https://en.wikipedia.org/wiki/Email_privacy)
+- [Proton Mail](https://proton.me/mail)
+- [Tuta](https://tuta.com/)
 
 <!-- author: vn1vcky0 -->

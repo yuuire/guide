@@ -1,7 +1,7 @@
 ---
 layout: page
 title: yuuire
-titleTemplate: Your guide to securing your digital life and protecting your privacy
+titleTemplate: A Complete Guide To Privacy, Security & Anonymity
 ---
 
 <script setup>
