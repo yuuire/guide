@@ -33,6 +33,6 @@ Many people think they don't have much to hide. But they change their minds when
 
 ### <a href="https://guide.yuuire.com/">Stop waiting and start your privacy journey now!</a>
 
-## Contributing
+<!-- ## Contributing
 
-without account use feedback option on our site, if u have account use issues fork repo etc etc
+without account use feedback option on our site, if u have account use issues fork repo etc etc -->
