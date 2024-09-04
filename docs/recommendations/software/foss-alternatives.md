@@ -18,13 +18,20 @@ See [Recommendations -> Software -> Multi-Factor Authentication](/recommendation
 
 | Provider | Links |
 | --- | :-- |
-| :star: [AdAway](https://adaway.org/) | [Source Code](https://github.com/AdAway/AdAway)<br/>[F-Droid](https://f-droid.org/app/org.adaway)<br/>[Privacy Policy](https://github.com/AdAway/AdAway/wiki/Telemetry)
-| :star: [InviZible Pro](https://invizible.net/en/) | [Source Code](https://github.com/Gedsh/InviZible)<br/>[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)<br/>[Privacy Policy](https://invizible.net/en/privacy/)
-| [DNS66](https://jak-linux.org/projects/dns66/) | [Source Code](https://github.com/julian-klode/dns66)<br/>[F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/)<br/>[Privacy Policy](https://github.com/julian-klode/dns66?tab=readme-ov-file#privacy-guarantee)
 | [TrackerControl](https://trackercontrol.org/) | [Source Code](https://github.com/TrackerControl/tracker-control-android)<br/>[F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)<br/>[Privacy Policy](https://trackercontrol.org/#privacy-notice)
 | [Intra](https://github.com/Jigsaw-Code/Intra) | [Build Instructions](https://github.com/Jigsaw-Code/Intra?tab=readme-ov-file#android-build-instructions)
+
+::: details Additional Alternatives
+![image](https://github.com/user-attachments/assets/c6977b0c-9577-4a12-9919-b13952a5e278)
+
+| Provider | Links |
+| --- | :-- |
+| [AdAway](https://adaway.org/) | [Source Code](https://github.com/AdAway/AdAway)<br/>[F-Droid](https://f-droid.org/app/org.adaway)<br/>[Privacy Policy](https://github.com/AdAway/AdAway/wiki/Telemetry)
+| [InviZible Pro](https://invizible.net/en/) | [Source Code](https://github.com/Gedsh/InviZible)<br/>[F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)<br/>[Privacy Policy](https://invizible.net/en/privacy/)
+| [DNS66](https://jak-linux.org/projects/dns66/) | [Source Code](https://github.com/julian-klode/dns66)<br/>[F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/)<br/>[Privacy Policy](https://github.com/julian-klode/dns66?tab=readme-ov-file#privacy-guarantee)
 | [URLCheck](https://github.com/TrianguloY/UrlChecker) | [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
 | [Exodus](https://exodus-privacy.eu.org/) | [Source Code](https://github.com/Exodus-Privacy/exodus-android-app)<br/>[F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/)
+:::
 
 ### Alarm
 
