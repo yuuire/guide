@@ -5,13 +5,13 @@
     />
     <header
         class="relative flex flex-col justify-center items-center w-full px-6 pt-6 md:pt-0 mb-16 md:mb-8 overflow-hidden"
-        style="min-height: calc(100vh - 64px)"
+        style="min-height: calc(100vh - 136px)"
     >
         <img
             src="/assets/wordmark.png"
             alt="Wordmark"
-            class="max-w-[50ch] w-full object-contain object-left md:object-center mr-auto md:mr-0"
-            style="aspect-ratio: 1.5 / 0.8"
+            class="max-w-[64ch] w-full object-contain object-left md:object-center mr-auto md:mr-0"
+            style="aspect-ratio: 2.5 / 0.8"
         />
         <h3
             class="text-xl md:text-2xl text-gray-500 dark:text-gray-400 !leading-normal text-left md:text-center w-full max-w-[50rem]"

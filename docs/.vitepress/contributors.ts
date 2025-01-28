@@ -31,7 +31,6 @@ const plainContributors: Contributors[] = [
         avatar: `https://github.com/yuuire.png`,
         name: meta.author,
         git: meta.author,
-        website: 'https://' + meta.plainurl,
         title: 'Founder',
         sponsor: meta.sponsor,
     }
@@ -43,13 +42,13 @@ export interface otherContributors {
 }
 
 export const otherContributors = {
-    base: [
-        {
-            avatar: `/assets/avatars/luckless.jpg`,
-            name: `luckless`,
-            website: ``,
-        }
-    ],
+    // base: [
+    //     {
+    //         avatar: `/assets/avatars/!!!.jpg`,
+    //         name: `!!!`,
+    //         website: `!!!`,
+    //     }
+    // ],
 
     specialthanks: [
         {

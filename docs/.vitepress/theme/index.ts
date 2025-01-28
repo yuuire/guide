@@ -1,13 +1,16 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
-import Theme from 'vitepress/theme'
+import DefaultTheme from 'vitepress/theme'
 import Layout from './layout.vue'
+import { defineAsyncComponent } from "vue";
 
 import './overrides.css'
 
 export default {
-  ...Theme,
+  extends: DefaultTheme,
   Layout: () => {
-    return h(Layout)
+    return h(DefaultTheme.Layout, null, {
+      "layout-top": () => h(defineAsyncComponent(() => import("./ndb.vue"))),
+    })
   },
 }

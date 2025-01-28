@@ -1,11 +1,12 @@
 import type { DefaultTheme } from 'vitepress'
-export const plainurl = 'yuuire.com'
+export const plainurl = 'klearprivacy.vercel.app'
 
 export const meta = {
     author: 'yuuire',
-    name: 'yuuire',
+    name: 'Klear',
     description: 'A Complete Guide To Privacy, Security & Anonymity',
-    hostname: 'https://guide.' + plainurl,
+    // hostname: 'https://guide.' + plainurl,
+    hostname: 'https://klearprivacy.vercel.app',
     plainurl: plainurl,
     sponsor: 'https://github.com/sponsors/yuuire',
     repo: 'https://github.com/yuuire/guide',

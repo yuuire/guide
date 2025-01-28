@@ -2,7 +2,7 @@
 
 # Understanding DNS
 
-The Domain Name System (DNS) is one of the critical components that make the internet work smoothly. Think of it as the internet's own phonebook: it translates human-friendly domain names, like `guide.yuuire.com`, into the numerical IP addresses that computers use to identify each other on the network.
+The Domain Name System (DNS) is one of the critical components that make the internet work smoothly. Think of it as the internet's own phonebook: it translates human-friendly domain names, like `example.com`, into the numerical IP addresses that computers use to identify each other on the network.
 
 ## How DNS Works
 

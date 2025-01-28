@@ -1,6 +1,6 @@
 ---
 layout: page
-title: yuuire
+title: Klear
 titleTemplate: A Complete Guide To Privacy, Security & Anonymity
 ---
 

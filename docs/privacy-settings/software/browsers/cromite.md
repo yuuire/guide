@@ -63,7 +63,7 @@ Tap on the three-dot menu in the top right-hand corner of the screen and tap on 
 
 ### User Scripts
 
-* See [Recommendations -> Internet Browsing -> Browser Extensions](https://guide.yuuire.com/recommendations/internet-browsing/browser-extensions#userscript-managers)
+* See [Recommendations -> Internet Browsing -> Browser Extensions](/recommendations/internet-browsing/browser-extensions#userscript-managers)
 
 ## You and Google
 

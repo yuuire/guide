@@ -5,7 +5,7 @@ title: Privacy Books Recommendations
 ![Cover](/assets/covers/books.png)
 
 ::: warning
-If you have any suggestions, please feel free to [share them on our GitHub page](https://github.com/yuuire/guide/issues/new?title=Books+recommendations&body=**Author**:+[insert+name+here]%0A**Title**:+[insert+title+here]%0A**Link**:+[URL+to+amazon+or+other+site])!
+If you have any suggestions, please feel free to [share them on our GitHub page](https://github.com/yuuire/klear/issues/new?title=Books+recommendations&body=**Author**:+[insert+name+here]%0A**Title**:+[insert+title+here]%0A**Link**:+[URL+to+amazon+or+other+site])!
 :::
 
 | Author | Title | ISBN | Links 🤫 |
